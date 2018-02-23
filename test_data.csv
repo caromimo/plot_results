@@ -1,751 +1,751 @@
 assessor,risk_assessment,step,likelihood,uncertainty
-DW,Gatineau,8,high,highly uncertain
-KL,Ottawa,8,low,highly uncertain
-MW,Gatineau,8,negligible,high certain
-NS,Wakefield,2,extreme,reasonably uncertain
-KL,Chelsea,7,negligible,high certain
-AS,Wakefield,9,high,reasonably uncertain
-FK,Wakefield,5,negligible,high certain
-DW,Ottawa,5,high,reasonably certain
-DW,Wakefield,1,moderate,reasonably certain
-KG,Chelsea,7,negligible,reasonably certain
-AS,Wakefield,4,negligible,reasonably certain
-CM,Chelsea,8,negligible,highly uncertain
-MW,Ottawa,9,low,reasonably certain
-JP,Ottawa,5,high,reasonably certain
-DW,Gatineau,10,extreme,high certain
-ML,Wakefield,1,low,reasonably uncertain
-IB,Wakefield,2,negligible,reasonably certain
-ML,Chelsea,7,moderate,high certain
-FK,Chelsea,2,high,high certain
-MW,Chelsea,10,high,reasonably uncertain
-ML,Gatineau,3,high,high certain
-AS,Wakefield,2,high,highly uncertain
-ML,Ottawa,7,high,reasonably certain
-JP,Wakefield,10,negligible,reasonably uncertain
-DW,Chelsea,8,low,reasonably uncertain
-ML,Chelsea,4,high,high certain
-FB,Gatineau,5,high,reasonably uncertain
-AS,Gatineau,4,high,highly uncertain
-FK,Wakefield,3,low,high certain
-AS,Chelsea,1,moderate,reasonably uncertain
-AS,Gatineau,5,low,highly uncertain
-CM,Wakefield,3,low,high certain
-FK,Ottawa,8,negligible,highly uncertain
-FB,Chelsea,2,moderate,reasonably uncertain
-FB,Wakefield,3,moderate,highly uncertain
-JP,Gatineau,6,negligible,high certain
-ML,Gatineau,1,low,reasonably certain
-MW,Gatineau,10,high,high certain
-IB,Ottawa,8,negligible,highly uncertain
-KL,Gatineau,9,moderate,high certain
-KG,Gatineau,4,extreme,reasonably uncertain
-CM,Wakefield,4,moderate,high certain
-IB,Chelsea,1,low,highly uncertain
-CM,Wakefield,5,negligible,highly uncertain
-KL,Chelsea,4,high,reasonably certain
-KG,Wakefield,6,low,reasonably uncertain
-FK,Ottawa,5,extreme,highly uncertain
-KL,Wakefield,9,high,high certain
-IB,Chelsea,3,high,reasonably uncertain
-IB,Gatineau,7,high,reasonably uncertain
-NS,Gatineau,2,low,reasonably certain
-CM,Gatineau,6,extreme,reasonably uncertain
-FB,Wakefield,6,high,high certain
-KG,Chelsea,3,extreme,reasonably certain
-ML,Wakefield,10,extreme,high certain
-DW,Chelsea,7,negligible,reasonably uncertain
-KL,Ottawa,6,high,reasonably certain
-NS,Gatineau,7,low,reasonably certain
-KL,Chelsea,7,negligible,reasonably uncertain
-MW,Chelsea,10,extreme,reasonably certain
-NS,Gatineau,2,extreme,high certain
-IB,Gatineau,7,extreme,reasonably certain
-CM,Gatineau,3,extreme,high certain
-ML,Gatineau,2,high,reasonably uncertain
-KG,Gatineau,8,high,highly uncertain
-FK,Gatineau,10,high,reasonably uncertain
-CM,Ottawa,7,negligible,reasonably certain
-AS,Chelsea,4,low,reasonably uncertain
-DW,Gatineau,10,high,reasonably certain
-KG,Ottawa,10,extreme,reasonably uncertain
-FK,Ottawa,5,extreme,reasonably certain
-AS,Chelsea,7,high,high certain
-ML,Ottawa,10,negligible,highly uncertain
-ML,Chelsea,2,high,reasonably uncertain
-FK,Gatineau,8,extreme,reasonably certain
-ML,Ottawa,6,moderate,high certain
-ML,Ottawa,7,high,high certain
-AS,Wakefield,4,negligible,reasonably uncertain
-CM,Gatineau,9,high,high certain
-JP,Wakefield,10,extreme,highly uncertain
-DW,Ottawa,7,moderate,reasonably uncertain
-KG,Wakefield,2,moderate,reasonably certain
-KG,Wakefield,2,moderate,highly uncertain
-MW,Chelsea,9,high,reasonably certain
-KG,Chelsea,3,moderate,reasonably certain
-DW,Wakefield,1,negligible,reasonably certain
-KG,Chelsea,9,negligible,reasonably certain
-NS,Ottawa,6,extreme,reasonably uncertain
-NS,Gatineau,9,negligible,reasonably uncertain
-CM,Gatineau,9,extreme,reasonably certain
-DW,Ottawa,3,low,highly uncertain
-IB,Wakefield,10,moderate,high certain
-AS,Ottawa,10,negligible,high certain
-MW,Gatineau,3,negligible,highly uncertain
-FK,Ottawa,9,negligible,highly uncertain
-KG,Wakefield,9,negligible,highly uncertain
-KG,Wakefield,4,extreme,reasonably certain
-ML,Wakefield,1,extreme,reasonably certain
-CM,Wakefield,9,negligible,reasonably certain
-IB,Gatineau,2,negligible,reasonably certain
-JP,Ottawa,2,low,high certain
-FK,Chelsea,8,extreme,highly uncertain
-FB,Ottawa,9,low,reasonably certain
-KG,Gatineau,7,negligible,high certain
-DW,Wakefield,4,moderate,highly uncertain
-CM,Gatineau,3,extreme,reasonably certain
-FK,Ottawa,8,low,reasonably certain
-FB,Gatineau,1,moderate,reasonably certain
-KG,Chelsea,8,low,reasonably certain
-MW,Ottawa,9,low,highly uncertain
-ML,Gatineau,9,low,high certain
-FB,Gatineau,6,negligible,highly uncertain
-AS,Chelsea,6,high,highly uncertain
-DW,Ottawa,7,low,reasonably certain
-FK,Chelsea,8,moderate,reasonably uncertain
-ML,Wakefield,8,moderate,highly uncertain
-ML,Ottawa,7,low,high certain
-AS,Ottawa,4,high,reasonably certain
-CM,Wakefield,7,moderate,reasonably uncertain
-FB,Gatineau,9,moderate,highly uncertain
-CM,Wakefield,2,high,highly uncertain
-CM,Ottawa,8,negligible,reasonably uncertain
-JP,Gatineau,2,low,reasonably uncertain
-CM,Chelsea,10,high,highly uncertain
-FK,Wakefield,1,moderate,high certain
-NS,Wakefield,9,high,reasonably certain
-FB,Chelsea,4,extreme,reasonably uncertain
-ML,Wakefield,10,low,high certain
-AS,Gatineau,9,extreme,reasonably certain
-NS,Chelsea,6,low,reasonably uncertain
-CM,Chelsea,10,low,reasonably certain
-FK,Wakefield,10,negligible,high certain
-JP,Chelsea,7,extreme,high certain
-DW,Gatineau,1,high,high certain
-IB,Wakefield,7,extreme,high certain
-JP,Gatineau,1,negligible,highly uncertain
-KL,Wakefield,3,negligible,reasonably uncertain
-MW,Wakefield,5,low,reasonably uncertain
-NS,Chelsea,6,moderate,reasonably certain
-ML,Gatineau,5,moderate,highly uncertain
-FK,Ottawa,8,high,reasonably certain
-ML,Ottawa,1,extreme,reasonably uncertain
-AS,Chelsea,7,low,reasonably uncertain
-JP,Ottawa,1,high,reasonably uncertain
-NS,Wakefield,3,moderate,high certain
-DW,Ottawa,4,low,reasonably certain
-IB,Wakefield,3,negligible,reasonably certain
-KG,Wakefield,4,negligible,reasonably uncertain
-FB,Chelsea,5,moderate,reasonably uncertain
-KL,Gatineau,6,moderate,reasonably certain
-FB,Gatineau,6,low,high certain
-MW,Gatineau,5,low,reasonably certain
-DW,Wakefield,10,moderate,high certain
-ML,Wakefield,2,negligible,high certain
-KL,Wakefield,2,extreme,reasonably certain
-JP,Ottawa,9,extreme,highly uncertain
-JP,Wakefield,2,low,high certain
-NS,Ottawa,5,low,reasonably certain
-FB,Gatineau,8,negligible,high certain
-KL,Gatineau,4,negligible,highly uncertain
-KG,Wakefield,5,high,reasonably uncertain
-KL,Wakefield,6,negligible,highly uncertain
-AS,Gatineau,1,extreme,reasonably uncertain
-CM,Gatineau,6,moderate,high certain
-IB,Wakefield,2,high,reasonably certain
-AS,Chelsea,9,high,reasonably certain
-ML,Wakefield,8,high,high certain
-FB,Ottawa,9,extreme,reasonably uncertain
-IB,Gatineau,9,high,high certain
-IB,Chelsea,2,low,high certain
-CM,Gatineau,2,extreme,reasonably certain
-JP,Chelsea,5,low,high certain
-FK,Gatineau,5,high,high certain
-FB,Gatineau,7,moderate,highly uncertain
-KG,Chelsea,4,negligible,highly uncertain
-IB,Wakefield,8,negligible,reasonably uncertain
-NS,Chelsea,7,negligible,reasonably certain
-KG,Chelsea,8,extreme,high certain
-ML,Wakefield,9,moderate,highly uncertain
-NS,Chelsea,9,moderate,reasonably certain
-FK,Ottawa,9,extreme,highly uncertain
-CM,Wakefield,7,low,highly uncertain
-DW,Ottawa,4,low,reasonably certain
-DW,Ottawa,8,negligible,reasonably uncertain
-KG,Ottawa,9,high,highly uncertain
-AS,Wakefield,10,high,highly uncertain
-JP,Wakefield,6,negligible,reasonably uncertain
-NS,Gatineau,8,high,highly uncertain
-FK,Gatineau,10,negligible,reasonably certain
-FK,Gatineau,7,moderate,high certain
-KL,Wakefield,6,high,highly uncertain
-FB,Chelsea,2,low,reasonably certain
-DW,Wakefield,7,low,high certain
-KL,Ottawa,8,low,reasonably uncertain
-DW,Gatineau,8,high,reasonably certain
-JP,Chelsea,3,negligible,reasonably uncertain
-IB,Chelsea,9,high,reasonably uncertain
-FK,Gatineau,8,low,highly uncertain
-AS,Chelsea,8,low,reasonably uncertain
-NS,Chelsea,9,moderate,highly uncertain
-IB,Gatineau,4,low,reasonably uncertain
-JP,Gatineau,5,high,reasonably certain
-ML,Ottawa,3,moderate,reasonably uncertain
-AS,Ottawa,7,negligible,highly uncertain
-IB,Ottawa,2,high,highly uncertain
-MW,Ottawa,2,high,highly uncertain
-AS,Gatineau,9,negligible,highly uncertain
-JP,Ottawa,5,high,highly uncertain
-KG,Wakefield,9,high,reasonably certain
-FB,Gatineau,4,low,reasonably certain
-NS,Gatineau,4,high,high certain
-KG,Chelsea,10,extreme,reasonably uncertain
-IB,Ottawa,2,extreme,reasonably certain
-FK,Gatineau,10,high,high certain
-KG,Gatineau,6,low,reasonably uncertain
-ML,Ottawa,6,moderate,reasonably certain
-FK,Wakefield,5,negligible,highly uncertain
-CM,Wakefield,6,high,highly uncertain
-CM,Chelsea,9,low,reasonably certain
-CM,Ottawa,6,negligible,highly uncertain
-AS,Wakefield,3,low,high certain
-KG,Chelsea,9,high,high certain
-CM,Gatineau,4,low,reasonably uncertain
-KG,Ottawa,5,high,reasonably certain
-NS,Wakefield,8,extreme,reasonably uncertain
-KG,Gatineau,10,moderate,reasonably uncertain
-FB,Ottawa,9,moderate,reasonably uncertain
-DW,Wakefield,7,moderate,reasonably certain
-NS,Ottawa,3,extreme,high certain
-DW,Gatineau,6,negligible,reasonably uncertain
-KG,Wakefield,1,extreme,reasonably certain
-KL,Wakefield,2,moderate,highly uncertain
-IB,Wakefield,3,negligible,high certain
-FB,Ottawa,7,high,high certain
-NS,Gatineau,6,moderate,reasonably uncertain
-JP,Gatineau,2,negligible,highly uncertain
-DW,Ottawa,5,extreme,highly uncertain
-IB,Ottawa,8,extreme,reasonably certain
-CM,Chelsea,5,extreme,high certain
-ML,Gatineau,4,low,highly uncertain
-MW,Ottawa,7,low,highly uncertain
-ML,Wakefield,8,moderate,high certain
-FK,Gatineau,2,low,highly uncertain
-DW,Wakefield,5,high,reasonably uncertain
-CM,Wakefield,9,extreme,reasonably certain
-MW,Gatineau,9,low,reasonably uncertain
-IB,Chelsea,7,high,highly uncertain
-NS,Ottawa,4,extreme,highly uncertain
-JP,Gatineau,10,low,reasonably uncertain
-IB,Wakefield,7,moderate,highly uncertain
-ML,Gatineau,8,moderate,reasonably certain
-FB,Gatineau,4,high,reasonably certain
-FK,Gatineau,9,negligible,high certain
-IB,Gatineau,8,extreme,reasonably certain
-JP,Chelsea,3,negligible,reasonably uncertain
-JP,Gatineau,3,high,reasonably uncertain
-JP,Gatineau,9,moderate,reasonably certain
-MW,Wakefield,8,high,high certain
-KL,Chelsea,10,low,high certain
-KG,Gatineau,10,moderate,highly uncertain
-KG,Chelsea,2,low,reasonably certain
-KL,Gatineau,1,high,highly uncertain
-IB,Chelsea,7,moderate,reasonably certain
-KG,Gatineau,2,low,high certain
-MW,Wakefield,3,low,reasonably uncertain
-KL,Chelsea,3,high,reasonably certain
-KL,Wakefield,5,extreme,reasonably certain
-FB,Wakefield,1,extreme,reasonably certain
-CM,Ottawa,10,negligible,high certain
-FB,Gatineau,6,high,high certain
-CM,Gatineau,5,negligible,high certain
-KG,Chelsea,9,high,reasonably uncertain
-IB,Wakefield,1,extreme,reasonably certain
-KG,Wakefield,1,high,reasonably certain
-MW,Ottawa,4,high,highly uncertain
-FK,Wakefield,4,moderate,high certain
-KL,Ottawa,1,high,reasonably certain
-KL,Wakefield,2,negligible,high certain
-KG,Ottawa,9,high,reasonably certain
-CM,Gatineau,8,moderate,reasonably uncertain
-KL,Gatineau,7,high,reasonably uncertain
-AS,Chelsea,3,moderate,reasonably certain
-ML,Wakefield,4,negligible,highly uncertain
-KG,Wakefield,8,negligible,high certain
-FK,Chelsea,6,high,reasonably uncertain
-CM,Gatineau,7,low,reasonably certain
-KG,Chelsea,5,high,high certain
-MW,Wakefield,3,negligible,reasonably uncertain
-AS,Ottawa,5,low,reasonably uncertain
-FB,Chelsea,10,negligible,high certain
-IB,Wakefield,3,extreme,highly uncertain
-FK,Chelsea,6,negligible,reasonably certain
-AS,Ottawa,5,high,high certain
-ML,Gatineau,1,moderate,reasonably uncertain
-DW,Ottawa,10,extreme,reasonably uncertain
-KG,Ottawa,4,high,reasonably uncertain
-JP,Wakefield,10,moderate,reasonably certain
-AS,Wakefield,1,extreme,highly uncertain
-FB,Wakefield,1,negligible,high certain
-MW,Gatineau,4,high,reasonably certain
-JP,Ottawa,2,high,reasonably certain
-FK,Chelsea,5,high,highly uncertain
-IB,Chelsea,5,extreme,reasonably uncertain
-NS,Gatineau,3,low,reasonably uncertain
-KL,Chelsea,10,moderate,reasonably uncertain
-DW,Wakefield,7,moderate,high certain
-DW,Wakefield,10,extreme,high certain
-MW,Ottawa,6,high,reasonably uncertain
-NS,Chelsea,3,extreme,high certain
-FB,Wakefield,2,extreme,high certain
-IB,Gatineau,10,low,high certain
-FB,Chelsea,2,high,reasonably uncertain
-MW,Wakefield,7,extreme,reasonably uncertain
-DW,Wakefield,4,negligible,high certain
-AS,Chelsea,1,low,reasonably certain
-JP,Wakefield,7,moderate,reasonably uncertain
-ML,Ottawa,6,low,reasonably certain
-NS,Ottawa,5,negligible,reasonably uncertain
-ML,Ottawa,7,high,highly uncertain
-DW,Gatineau,5,high,high certain
-ML,Wakefield,5,negligible,highly uncertain
-NS,Wakefield,9,high,reasonably uncertain
-KL,Wakefield,4,high,reasonably certain
-FK,Wakefield,3,extreme,reasonably certain
-CM,Chelsea,7,extreme,high certain
-MW,Wakefield,5,extreme,highly uncertain
-MW,Gatineau,6,negligible,high certain
-KL,Ottawa,6,low,reasonably certain
-KL,Gatineau,2,extreme,reasonably uncertain
-FB,Gatineau,7,extreme,reasonably uncertain
-IB,Ottawa,7,low,high certain
-KG,Gatineau,3,extreme,reasonably certain
-AS,Chelsea,7,low,reasonably uncertain
-DW,Ottawa,2,negligible,high certain
-DW,Wakefield,6,moderate,reasonably uncertain
-FB,Ottawa,5,high,reasonably certain
-IB,Ottawa,5,high,highly uncertain
-CM,Gatineau,1,low,reasonably uncertain
-DW,Ottawa,8,negligible,high certain
-ML,Chelsea,4,moderate,reasonably certain
-JP,Wakefield,7,low,highly uncertain
-ML,Chelsea,7,low,highly uncertain
-NS,Gatineau,5,negligible,high certain
-FK,Chelsea,6,moderate,reasonably certain
-KG,Ottawa,1,extreme,reasonably uncertain
-KL,Chelsea,2,moderate,reasonably certain
-MW,Chelsea,10,negligible,reasonably certain
-KG,Gatineau,4,high,reasonably certain
-DW,Wakefield,8,low,high certain
-FK,Ottawa,9,low,highly uncertain
-KL,Chelsea,1,negligible,reasonably certain
-IB,Ottawa,10,moderate,reasonably uncertain
-FK,Ottawa,10,high,high certain
-IB,Wakefield,8,moderate,high certain
-KL,Ottawa,7,high,reasonably uncertain
-FB,Ottawa,6,low,highly uncertain
-JP,Chelsea,2,high,highly uncertain
-KL,Gatineau,7,high,high certain
-FB,Wakefield,4,high,high certain
-ML,Wakefield,2,moderate,reasonably uncertain
-ML,Wakefield,9,extreme,high certain
-CM,Wakefield,3,extreme,high certain
-KG,Wakefield,3,moderate,high certain
-CM,Chelsea,1,moderate,highly uncertain
-NS,Ottawa,2,moderate,reasonably uncertain
-DW,Chelsea,1,moderate,high certain
-KL,Gatineau,9,extreme,reasonably uncertain
-JP,Ottawa,6,extreme,highly uncertain
-ML,Ottawa,4,high,highly uncertain
-KL,Ottawa,7,extreme,high certain
-NS,Wakefield,6,moderate,reasonably uncertain
-KL,Wakefield,5,moderate,reasonably uncertain
-DW,Gatineau,8,moderate,reasonably uncertain
-KL,Gatineau,3,moderate,highly uncertain
-JP,Wakefield,3,high,reasonably certain
-AS,Gatineau,4,moderate,reasonably uncertain
-CM,Ottawa,10,high,high certain
-DW,Gatineau,9,extreme,highly uncertain
-ML,Chelsea,2,moderate,high certain
-CM,Ottawa,7,moderate,reasonably uncertain
-AS,Wakefield,1,negligible,high certain
-FB,Gatineau,8,high,reasonably certain
-IB,Chelsea,2,negligible,reasonably certain
-FK,Chelsea,8,high,reasonably uncertain
-KL,Ottawa,4,negligible,reasonably certain
-DW,Gatineau,6,low,high certain
-CM,Chelsea,9,negligible,highly uncertain
-KL,Wakefield,1,extreme,reasonably uncertain
-IB,Gatineau,7,low,high certain
-MW,Wakefield,6,high,reasonably uncertain
-FB,Gatineau,9,moderate,reasonably uncertain
-KL,Wakefield,1,moderate,highly uncertain
-FB,Wakefield,10,high,reasonably uncertain
-JP,Gatineau,4,extreme,high certain
-NS,Chelsea,6,extreme,reasonably uncertain
-AS,Chelsea,10,high,reasonably certain
-DW,Wakefield,4,moderate,high certain
-IB,Chelsea,10,high,reasonably certain
-DW,Chelsea,1,low,highly uncertain
-IB,Ottawa,4,extreme,highly uncertain
-DW,Gatineau,8,low,reasonably certain
-IB,Chelsea,6,low,highly uncertain
-DW,Gatineau,10,negligible,reasonably uncertain
-DW,Chelsea,8,moderate,highly uncertain
-FK,Wakefield,1,low,high certain
-NS,Wakefield,4,low,reasonably uncertain
-ML,Wakefield,7,extreme,highly uncertain
-IB,Ottawa,9,extreme,reasonably uncertain
-DW,Gatineau,3,negligible,high certain
-CM,Wakefield,8,negligible,highly uncertain
-DW,Ottawa,6,low,high certain
-KG,Gatineau,10,moderate,highly uncertain
-IB,Chelsea,9,low,reasonably uncertain
-MW,Chelsea,10,extreme,reasonably uncertain
-CM,Ottawa,5,extreme,reasonably certain
-IB,Wakefield,3,negligible,reasonably uncertain
-NS,Chelsea,3,low,reasonably uncertain
-KG,Ottawa,5,low,highly uncertain
-MW,Chelsea,6,high,reasonably certain
-IB,Chelsea,10,moderate,reasonably certain
-FK,Wakefield,6,moderate,high certain
-DW,Ottawa,9,high,reasonably uncertain
-KL,Gatineau,2,extreme,high certain
-NS,Gatineau,8,negligible,reasonably uncertain
-MW,Wakefield,5,negligible,reasonably uncertain
-FK,Wakefield,1,high,high certain
-FB,Ottawa,1,moderate,reasonably uncertain
-FK,Wakefield,9,extreme,highly uncertain
-MW,Wakefield,10,negligible,reasonably uncertain
-KG,Wakefield,5,moderate,reasonably certain
-FB,Chelsea,5,high,highly uncertain
-DW,Gatineau,2,moderate,reasonably uncertain
-JP,Gatineau,5,negligible,reasonably uncertain
-FK,Ottawa,6,extreme,reasonably uncertain
-NS,Gatineau,1,moderate,reasonably certain
-JP,Chelsea,2,moderate,highly uncertain
-JP,Gatineau,4,low,high certain
-CM,Wakefield,6,negligible,reasonably certain
-CM,Chelsea,1,extreme,highly uncertain
-FB,Gatineau,9,high,high certain
-CM,Chelsea,4,low,reasonably uncertain
-AS,Wakefield,5,moderate,highly uncertain
-AS,Gatineau,4,moderate,reasonably uncertain
-AS,Wakefield,6,negligible,highly uncertain
-ML,Chelsea,4,low,highly uncertain
-CM,Chelsea,6,extreme,reasonably uncertain
-FB,Wakefield,2,high,reasonably certain
-IB,Chelsea,4,negligible,reasonably uncertain
-MW,Wakefield,1,high,high certain
-MW,Wakefield,4,negligible,highly uncertain
-AS,Ottawa,7,moderate,highly uncertain
-KL,Wakefield,8,extreme,high certain
-IB,Wakefield,9,moderate,highly uncertain
-NS,Gatineau,10,moderate,reasonably uncertain
-CM,Chelsea,9,extreme,highly uncertain
-DW,Wakefield,7,low,reasonably certain
-FB,Chelsea,7,high,highly uncertain
-FK,Gatineau,10,extreme,highly uncertain
-KL,Wakefield,6,high,reasonably certain
-IB,Ottawa,10,moderate,highly uncertain
-FK,Chelsea,6,extreme,reasonably certain
-MW,Chelsea,2,moderate,reasonably certain
-KL,Ottawa,5,extreme,reasonably uncertain
-FK,Chelsea,2,low,reasonably uncertain
-KL,Ottawa,3,extreme,reasonably uncertain
-NS,Gatineau,8,moderate,high certain
-KG,Wakefield,9,moderate,high certain
-KG,Wakefield,7,high,reasonably uncertain
-MW,Ottawa,4,extreme,reasonably uncertain
-FB,Chelsea,1,low,high certain
-KG,Wakefield,1,low,reasonably certain
-KG,Ottawa,6,high,reasonably uncertain
-MW,Wakefield,7,low,reasonably uncertain
-KG,Wakefield,7,low,reasonably uncertain
-DW,Chelsea,6,negligible,reasonably certain
-AS,Ottawa,1,moderate,high certain
-MW,Chelsea,5,moderate,high certain
-FK,Wakefield,10,extreme,highly uncertain
-MW,Wakefield,4,negligible,reasonably uncertain
-AS,Gatineau,3,extreme,reasonably certain
-IB,Gatineau,7,extreme,reasonably uncertain
-FB,Ottawa,8,high,reasonably certain
-CM,Ottawa,2,moderate,reasonably uncertain
-NS,Gatineau,3,negligible,reasonably uncertain
-KG,Wakefield,2,extreme,highly uncertain
-KG,Chelsea,3,negligible,high certain
-JP,Chelsea,7,extreme,high certain
-DW,Gatineau,3,low,reasonably uncertain
-JP,Gatineau,9,negligible,reasonably certain
-FB,Gatineau,2,moderate,reasonably uncertain
-FK,Wakefield,8,extreme,high certain
-FB,Gatineau,4,moderate,high certain
-AS,Ottawa,7,moderate,highly uncertain
-ML,Gatineau,6,moderate,reasonably uncertain
-KL,Gatineau,6,extreme,high certain
-FB,Ottawa,10,high,highly uncertain
-ML,Chelsea,4,extreme,reasonably certain
-DW,Ottawa,8,moderate,reasonably certain
-FB,Ottawa,4,moderate,reasonably certain
-KL,Gatineau,7,high,high certain
-FK,Ottawa,3,high,highly uncertain
-DW,Wakefield,7,extreme,reasonably certain
-DW,Ottawa,6,high,reasonably certain
-AS,Gatineau,5,negligible,high certain
-FB,Gatineau,4,extreme,reasonably certain
-ML,Wakefield,4,negligible,reasonably certain
-FK,Ottawa,10,low,highly uncertain
-CM,Ottawa,7,negligible,reasonably certain
-FB,Ottawa,10,low,reasonably uncertain
-CM,Chelsea,6,high,high certain
-MW,Wakefield,5,negligible,highly uncertain
-CM,Wakefield,6,high,reasonably certain
-KG,Chelsea,5,high,high certain
-AS,Ottawa,5,high,reasonably uncertain
-FK,Gatineau,1,negligible,highly uncertain
-DW,Gatineau,10,high,highly uncertain
-KL,Ottawa,6,high,highly uncertain
-FK,Gatineau,1,negligible,reasonably uncertain
-FK,Ottawa,8,extreme,highly uncertain
-NS,Gatineau,8,negligible,reasonably uncertain
-KL,Wakefield,2,extreme,high certain
-ML,Wakefield,2,low,high certain
-MW,Ottawa,2,low,reasonably uncertain
-DW,Gatineau,5,extreme,highly uncertain
-CM,Gatineau,10,negligible,reasonably certain
-IB,Chelsea,4,extreme,reasonably certain
-NS,Ottawa,1,low,reasonably uncertain
-NS,Chelsea,6,low,high certain
-CM,Gatineau,2,high,high certain
-KL,Ottawa,10,low,high certain
-FB,Ottawa,3,negligible,reasonably uncertain
-ML,Wakefield,3,low,reasonably certain
-NS,Wakefield,6,extreme,reasonably certain
-KG,Wakefield,1,low,highly uncertain
-CM,Gatineau,8,high,reasonably uncertain
-MW,Gatineau,10,moderate,highly uncertain
-ML,Chelsea,9,low,high certain
-MW,Ottawa,7,low,reasonably certain
-JP,Ottawa,2,high,highly uncertain
-FB,Chelsea,3,moderate,reasonably uncertain
-IB,Wakefield,2,low,reasonably uncertain
-ML,Ottawa,3,negligible,reasonably uncertain
-IB,Gatineau,4,extreme,reasonably certain
-IB,Wakefield,4,low,reasonably certain
-ML,Gatineau,8,high,reasonably certain
-CM,Wakefield,6,extreme,highly uncertain
-AS,Ottawa,8,extreme,reasonably certain
-MW,Wakefield,4,low,highly uncertain
-JP,Wakefield,4,extreme,reasonably certain
-KL,Gatineau,4,low,highly uncertain
-JP,Wakefield,8,negligible,reasonably uncertain
-MW,Chelsea,9,low,reasonably uncertain
-CM,Chelsea,8,low,reasonably certain
-AS,Wakefield,8,high,high certain
-AS,Gatineau,4,negligible,reasonably certain
-CM,Gatineau,7,extreme,reasonably certain
-JP,Gatineau,1,extreme,high certain
-FK,Ottawa,3,high,highly uncertain
-KG,Ottawa,10,low,high certain
-ML,Wakefield,1,moderate,high certain
-MW,Wakefield,4,high,high certain
-IB,Wakefield,8,extreme,reasonably uncertain
-NS,Gatineau,7,high,high certain
-AS,Chelsea,2,extreme,reasonably uncertain
-NS,Chelsea,10,extreme,reasonably uncertain
-MW,Gatineau,3,low,highly uncertain
-FB,Wakefield,2,moderate,highly uncertain
-KG,Chelsea,7,negligible,reasonably certain
-KG,Chelsea,10,high,reasonably uncertain
-FB,Chelsea,6,low,highly uncertain
-FK,Ottawa,10,low,reasonably certain
-KL,Wakefield,4,extreme,highly uncertain
-MW,Gatineau,7,extreme,reasonably certain
-KL,Ottawa,7,low,highly uncertain
-DW,Gatineau,10,negligible,reasonably certain
-CM,Ottawa,4,negligible,reasonably uncertain
-JP,Gatineau,9,low,reasonably certain
-NS,Ottawa,6,high,reasonably certain
-KG,Wakefield,9,moderate,highly uncertain
-ML,Chelsea,7,extreme,highly uncertain
-NS,Ottawa,2,extreme,reasonably certain
-CM,Chelsea,8,extreme,highly uncertain
-CM,Wakefield,1,negligible,reasonably certain
-NS,Chelsea,5,negligible,highly uncertain
-JP,Wakefield,2,moderate,reasonably uncertain
-KG,Ottawa,10,negligible,highly uncertain
-CM,Chelsea,8,high,high certain
-MW,Ottawa,9,high,highly uncertain
-MW,Ottawa,9,low,highly uncertain
-JP,Gatineau,8,moderate,high certain
-JP,Wakefield,2,extreme,reasonably certain
-KL,Gatineau,7,negligible,reasonably uncertain
-ML,Gatineau,5,low,highly uncertain
-MW,Chelsea,2,high,reasonably certain
-AS,Gatineau,8,low,high certain
-CM,Ottawa,6,negligible,reasonably certain
-MW,Ottawa,1,moderate,highly uncertain
-FB,Wakefield,10,high,high certain
-CM,Wakefield,9,high,high certain
-NS,Gatineau,7,negligible,reasonably certain
-MW,Wakefield,1,low,reasonably uncertain
-IB,Ottawa,7,high,highly uncertain
-NS,Gatineau,7,extreme,reasonably uncertain
-KG,Wakefield,6,high,reasonably uncertain
-MW,Chelsea,7,high,reasonably certain
-CM,Gatineau,9,negligible,high certain
-ML,Chelsea,2,negligible,highly uncertain
-MW,Ottawa,2,moderate,high certain
-KL,Wakefield,2,extreme,reasonably certain
-CM,Chelsea,9,low,high certain
-FB,Gatineau,10,negligible,highly uncertain
-KL,Wakefield,2,low,reasonably certain
-IB,Chelsea,8,high,reasonably certain
-AS,Chelsea,1,extreme,high certain
-IB,Chelsea,8,extreme,reasonably uncertain
-AS,Chelsea,7,extreme,reasonably uncertain
-AS,Chelsea,6,negligible,highly uncertain
-ML,Ottawa,4,extreme,reasonably certain
-FK,Chelsea,3,high,highly uncertain
-MW,Wakefield,9,moderate,highly uncertain
-CM,Ottawa,2,low,reasonably uncertain
-FK,Wakefield,4,moderate,high certain
-IB,Chelsea,9,low,high certain
-KL,Wakefield,3,moderate,high certain
-AS,Chelsea,7,moderate,high certain
-IB,Gatineau,3,moderate,high certain
-ML,Wakefield,1,high,reasonably uncertain
-KL,Chelsea,10,negligible,high certain
-DW,Chelsea,4,negligible,reasonably uncertain
-KG,Chelsea,1,low,highly uncertain
-JP,Gatineau,10,low,high certain
-IB,Gatineau,2,moderate,highly uncertain
-ML,Wakefield,2,moderate,reasonably certain
-FB,Wakefield,7,high,reasonably uncertain
-JP,Wakefield,6,low,high certain
-NS,Chelsea,2,negligible,reasonably certain
-FB,Chelsea,1,negligible,reasonably certain
-CM,Ottawa,8,negligible,reasonably certain
-DW,Gatineau,4,extreme,reasonably certain
-DW,Gatineau,8,moderate,reasonably uncertain
-ML,Chelsea,9,negligible,reasonably certain
-FB,Wakefield,9,low,high certain
-CM,Chelsea,6,negligible,highly uncertain
-CM,Wakefield,2,moderate,reasonably certain
-AS,Gatineau,10,negligible,reasonably certain
-MW,Ottawa,3,negligible,reasonably certain
-IB,Wakefield,5,extreme,reasonably uncertain
-DW,Ottawa,4,extreme,highly uncertain
-KG,Chelsea,10,moderate,reasonably uncertain
-KG,Chelsea,6,low,high certain
-FK,Chelsea,4,moderate,highly uncertain
-DW,Gatineau,1,low,reasonably certain
-CM,Wakefield,3,moderate,high certain
-NS,Gatineau,5,low,reasonably certain
-JP,Ottawa,3,negligible,high certain
-AS,Ottawa,3,low,high certain
-NS,Wakefield,6,extreme,reasonably certain
-DW,Gatineau,7,extreme,high certain
-MW,Gatineau,2,high,reasonably certain
-MW,Ottawa,8,negligible,highly uncertain
-FK,Gatineau,10,moderate,highly uncertain
-FB,Wakefield,10,negligible,reasonably uncertain
-ML,Ottawa,8,extreme,reasonably certain
-KG,Wakefield,7,high,reasonably uncertain
-KL,Ottawa,5,low,high certain
-DW,Chelsea,3,low,high certain
-ML,Gatineau,9,moderate,highly uncertain
-JP,Ottawa,3,moderate,reasonably certain
-FK,Ottawa,1,low,reasonably uncertain
-ML,Wakefield,5,high,reasonably uncertain
-NS,Gatineau,1,extreme,reasonably certain
-KG,Ottawa,8,extreme,high certain
-AS,Gatineau,8,extreme,reasonably certain
-KL,Chelsea,8,high,reasonably certain
-CM,Gatineau,2,low,highly uncertain
-DW,Ottawa,9,low,highly uncertain
-NS,Ottawa,7,high,reasonably uncertain
-NS,Ottawa,7,high,reasonably certain
-KL,Wakefield,8,high,reasonably certain
-IB,Ottawa,9,moderate,reasonably certain
-KG,Gatineau,3,high,reasonably uncertain
-DW,Wakefield,8,negligible,high certain
-CM,Chelsea,5,moderate,highly uncertain
-KL,Chelsea,1,moderate,highly uncertain
-DW,Chelsea,4,extreme,highly uncertain
-KG,Chelsea,1,negligible,high certain
-IB,Ottawa,2,negligible,highly uncertain
-CM,Ottawa,9,extreme,high certain
-FK,Ottawa,1,extreme,reasonably uncertain
-MW,Ottawa,1,moderate,reasonably certain
-FB,Gatineau,7,moderate,reasonably certain
-MW,Wakefield,4,high,highly uncertain
-KG,Gatineau,4,extreme,reasonably uncertain
-MW,Ottawa,5,extreme,high certain
-MW,Gatineau,1,extreme,high certain
-MW,Ottawa,5,negligible,reasonably certain
-IB,Gatineau,2,high,reasonably certain
-IB,Ottawa,8,high,highly uncertain
-KG,Wakefield,4,high,highly uncertain
-FB,Ottawa,9,moderate,reasonably uncertain
-IB,Wakefield,4,negligible,highly uncertain
-ML,Gatineau,6,moderate,reasonably uncertain
-KL,Wakefield,7,negligible,reasonably uncertain
-KG,Ottawa,1,negligible,high certain
-KG,Gatineau,6,extreme,reasonably uncertain
-MW,Wakefield,2,low,reasonably certain
-ML,Wakefield,6,extreme,highly uncertain
-CM,Gatineau,9,high,highly uncertain
-DW,Chelsea,10,low,reasonably certain
-FB,Gatineau,7,extreme,high certain
-JP,Gatineau,7,high,reasonably certain
-FK,Ottawa,7,high,reasonably uncertain
-FK,Gatineau,6,moderate,reasonably uncertain
-KG,Wakefield,3,negligible,highly uncertain
-KL,Ottawa,4,low,reasonably uncertain
-CM,Ottawa,1,negligible,highly uncertain
-MW,Ottawa,9,moderate,reasonably certain
-IB,Chelsea,5,negligible,highly uncertain
-NS,Ottawa,6,high,high certain
-JP,Wakefield,7,moderate,highly uncertain
-IB,Chelsea,3,negligible,reasonably uncertain
-JP,Gatineau,5,low,reasonably uncertain
-AS,Chelsea,8,negligible,highly uncertain
-DW,Chelsea,9,moderate,reasonably uncertain
-CM,Gatineau,9,high,highly uncertain
-DW,Chelsea,8,moderate,high certain
-KL,Wakefield,1,extreme,reasonably certain
-KG,Ottawa,3,high,reasonably uncertain
-KG,Gatineau,9,low,reasonably certain
-ML,Gatineau,8,negligible,highly uncertain
-AS,Ottawa,2,moderate,reasonably uncertain
-ML,Gatineau,7,negligible,highly uncertain
-IB,Wakefield,4,extreme,reasonably uncertain
-KG,Ottawa,2,extreme,high certain
-KG,Ottawa,1,negligible,reasonably certain
-ML,Chelsea,2,extreme,reasonably certain
-FK,Gatineau,6,negligible,high certain
-MW,Wakefield,4,low,high certain
-AS,Gatineau,10,negligible,reasonably uncertain
-KL,Wakefield,10,moderate,highly uncertain
-JP,Wakefield,6,moderate,reasonably uncertain
-FK,Chelsea,8,extreme,highly uncertain
-NS,Ottawa,8,high,reasonably certain
-AS,Chelsea,6,negligible,highly uncertain
-JP,Ottawa,10,negligible,highly uncertain
-JP,Gatineau,9,negligible,high certain
-FK,Wakefield,7,low,highly uncertain
-FB,Ottawa,4,low,highly uncertain
-KL,Chelsea,2,extreme,high certain
-KL,Wakefield,1,negligible,reasonably certain
+Assessor 3,Pathogen C,Consequence to diversity,very likely,reasonable uncertainty
+Assessor 3,Pathogen D,Disease 2,extremely likely,reasonable uncertainty
+Assessor 12,Pathogen B,Exposure 1,very likely,high uncertainty
+Assessor 9,Pathogen B,Release 2,extremely unlikely,reasonable certainty
+Assessor 1,Pathogen D,Infection 3,extremely unlikely,high certainty
+Assessor 7,Pathogen A,Release 2,very unlikely,high certainty
+Assessor 2,Pathogen B,Infection 1,very unlikely,high certainty
+Assessor 8,Pathogen C,Infection 2,extremely unlikely,reasonable uncertainty
+Assessor 1,Pathogen B,Disease 2,extremely unlikely,reasonable uncertainty
+Assessor 8,Pathogen C,Disease 2,very likely,high uncertainty
+Assessor 7,Pathogen C,Consequence to diversity,unlikely,reasonable uncertainty
+Assessor 11,Pathogen B,Exposure 1,very unlikely,reasonable certainty
+Assessor 4,Pathogen C,Release 1,extremely likely,reasonable uncertainty
+Assessor 4,Pathogen B,Disease 1,very likely,reasonable certainty
+Assessor 3,Pathogen A,Disease 1,very likely,high certainty
+Assessor 1,Pathogen B,Exposure 1,extremely likely,high certainty
+Assessor 9,Pathogen C,Infection 1,unlikely,high certainty
+Assessor 4,Pathogen A,Infection 2,extremely unlikely,high certainty
+Assessor 6,Pathogen C,Infection 3,very unlikely,reasonable uncertainty
+Assessor 5,Pathogen B,Disease 1,unlikely,reasonable certainty
+Assessor 2,Pathogen C,Exposure 2,extremely unlikely,high uncertainty
+Assessor 9,Pathogen C,Infection 1,very unlikely,high uncertainty
+Assessor 4,Pathogen B,Disease 1,very likely,reasonable uncertainty
+Assessor 8,Pathogen A,Exposure 1,extremely unlikely,high uncertainty
+Assessor 12,Pathogen C,Infection 3,very likely,reasonable uncertainty
+Assessor 5,Pathogen C,Infection 3,extremely likely,reasonable uncertainty
+Assessor 4,Pathogen A,Exposure 3,extremely unlikely,reasonable uncertainty
+Assessor 11,Pathogen D,Infection 1,extremely unlikely,high certainty
+Assessor 5,Pathogen C,Consequence to abundance,extremely likely,high uncertainty
+Assessor 6,Pathogen B,Consequence to abundance,very likely,high uncertainty
+Assessor 7,Pathogen C,Infection 3,extremely unlikely,reasonable certainty
+Assessor 7,Pathogen D,Disease 2,extremely likely,reasonable uncertainty
+Assessor 10,Pathogen B,Infection 3,very unlikely,high certainty
+Assessor 5,Pathogen A,Disease 1,extremely likely,reasonable uncertainty
+Assessor 4,Pathogen A,Infection 2,very likely,reasonable uncertainty
+Assessor 10,Pathogen B,Exposure 2,unlikely,reasonable certainty
+Assessor 8,Pathogen C,Consequence to diversity,unlikely,reasonable uncertainty
+Assessor 9,Pathogen D,Release 2,extremely likely,reasonable certainty
+Assessor 10,Pathogen C,Exposure 3,extremely likely,high uncertainty
+Assessor 6,Pathogen C,Consequence to abundance,unlikely,high certainty
+Assessor 9,Pathogen B,Release 2,likely,high uncertainty
+Assessor 12,Pathogen C,Disease 1,very unlikely,reasonable uncertainty
+Assessor 6,Pathogen D,Infection 3,extremely likely,reasonable certainty
+Assessor 5,Pathogen A,Exposure 2,likely,high uncertainty
+Assessor 10,Pathogen C,Infection 2,likely,high certainty
+Assessor 11,Pathogen D,Exposure 2,very likely,reasonable certainty
+Assessor 8,Pathogen B,Release 2,unlikely,reasonable uncertainty
+Assessor 8,Pathogen A,Disease 1,likely,reasonable uncertainty
+Assessor 6,Pathogen B,Disease 2,very likely,reasonable uncertainty
+Assessor 4,Pathogen D,Consequence to diversity,extremely likely,high uncertainty
+Assessor 10,Pathogen D,Infection 2,very likely,reasonable certainty
+Assessor 2,Pathogen D,Disease 1,very likely,high certainty
+Assessor 3,Pathogen D,Infection 1,likely,high certainty
+Assessor 11,Pathogen A,Disease 1,extremely likely,high uncertainty
+Assessor 7,Pathogen B,Exposure 1,very likely,high uncertainty
+Assessor 10,Pathogen A,Consequence to abundance,extremely likely,high uncertainty
+Assessor 11,Pathogen C,Infection 2,very likely,reasonable uncertainty
+Assessor 1,Pathogen A,Exposure 2,extremely likely,reasonable uncertainty
+Assessor 9,Pathogen C,Consequence to diversity,extremely unlikely,reasonable certainty
+Assessor 12,Pathogen C,Disease 1,extremely unlikely,reasonable certainty
+Assessor 11,Pathogen B,Consequence to abundance,extremely likely,high certainty
+Assessor 8,Pathogen C,Exposure 2,likely,high certainty
+Assessor 2,Pathogen A,Infection 1,extremely unlikely,high uncertainty
+Assessor 6,Pathogen A,Exposure 2,very likely,reasonable certainty
+Assessor 4,Pathogen D,Infection 3,likely,high certainty
+Assessor 8,Pathogen C,Infection 3,very unlikely,reasonable uncertainty
+Assessor 3,Pathogen C,Disease 1,extremely unlikely,high uncertainty
+Assessor 6,Pathogen C,Exposure 1,likely,reasonable certainty
+Assessor 7,Pathogen C,Exposure 3,unlikely,reasonable certainty
+Assessor 4,Pathogen B,Release 2,unlikely,reasonable certainty
+Assessor 10,Pathogen D,Infection 1,very likely,high certainty
+Assessor 4,Pathogen A,Release 2,very likely,high certainty
+Assessor 12,Pathogen A,Infection 1,unlikely,high uncertainty
+Assessor 1,Pathogen D,Disease 1,extremely unlikely,high certainty
+Assessor 8,Pathogen C,Release 2,extremely unlikely,reasonable certainty
+Assessor 2,Pathogen B,Disease 2,very unlikely,reasonable certainty
+Assessor 10,Pathogen D,Infection 1,likely,high certainty
+Assessor 10,Pathogen D,Consequence to diversity,very unlikely,high certainty
+Assessor 6,Pathogen D,Disease 1,unlikely,high uncertainty
+Assessor 10,Pathogen B,Exposure 3,likely,high certainty
+Assessor 2,Pathogen B,Consequence to diversity,extremely likely,high certainty
+Assessor 8,Pathogen B,Consequence to abundance,very likely,high uncertainty
+Assessor 2,Pathogen B,Disease 2,very unlikely,reasonable certainty
+Assessor 9,Pathogen B,Infection 2,likely,high uncertainty
+Assessor 4,Pathogen D,Release 1,unlikely,high certainty
+Assessor 5,Pathogen A,Release 1,very likely,high uncertainty
+Assessor 9,Pathogen B,Release 2,extremely likely,reasonable uncertainty
+Assessor 12,Pathogen A,Disease 2,unlikely,reasonable uncertainty
+Assessor 6,Pathogen C,Disease 2,extremely unlikely,high certainty
+Assessor 5,Pathogen C,Disease 2,unlikely,reasonable certainty
+Assessor 10,Pathogen C,Disease 2,very likely,reasonable certainty
+Assessor 2,Pathogen B,Infection 3,unlikely,high uncertainty
+Assessor 8,Pathogen C,Exposure 2,very unlikely,high uncertainty
+Assessor 6,Pathogen A,Infection 1,likely,high certainty
+Assessor 3,Pathogen C,Exposure 1,very likely,reasonable uncertainty
+Assessor 3,Pathogen C,Infection 1,very likely,high certainty
+Assessor 5,Pathogen D,Infection 3,unlikely,reasonable certainty
+Assessor 4,Pathogen B,Release 1,unlikely,high uncertainty
+Assessor 4,Pathogen C,Consequence to diversity,extremely likely,reasonable certainty
+Assessor 5,Pathogen C,Consequence to diversity,unlikely,high certainty
+Assessor 1,Pathogen C,Consequence to diversity,unlikely,high uncertainty
+Assessor 11,Pathogen D,Infection 1,likely,high certainty
+Assessor 7,Pathogen C,Consequence to abundance,unlikely,high uncertainty
+Assessor 10,Pathogen D,Exposure 2,very unlikely,reasonable uncertainty
+Assessor 10,Pathogen A,Release 1,likely,high certainty
+Assessor 6,Pathogen D,Exposure 1,likely,high uncertainty
+Assessor 9,Pathogen A,Consequence to abundance,extremely likely,high certainty
+Assessor 11,Pathogen C,Infection 3,extremely likely,reasonable certainty
+Assessor 7,Pathogen C,Disease 2,unlikely,high certainty
+Assessor 3,Pathogen C,Infection 1,very unlikely,high uncertainty
+Assessor 2,Pathogen A,Exposure 3,very likely,high uncertainty
+Assessor 10,Pathogen A,Consequence to diversity,unlikely,high certainty
+Assessor 10,Pathogen C,Consequence to diversity,very unlikely,high uncertainty
+Assessor 4,Pathogen B,Consequence to diversity,likely,high certainty
+Assessor 1,Pathogen A,Consequence to abundance,likely,high certainty
+Assessor 8,Pathogen B,Infection 3,very likely,reasonable uncertainty
+Assessor 10,Pathogen B,Release 2,likely,high certainty
+Assessor 2,Pathogen C,Infection 2,unlikely,high uncertainty
+Assessor 12,Pathogen D,Consequence to abundance,very unlikely,high uncertainty
+Assessor 4,Pathogen A,Release 2,very unlikely,reasonable certainty
+Assessor 1,Pathogen C,Release 2,extremely likely,reasonable certainty
+Assessor 4,Pathogen C,Infection 2,extremely unlikely,high uncertainty
+Assessor 6,Pathogen D,Consequence to abundance,very likely,high uncertainty
+Assessor 2,Pathogen A,Release 1,unlikely,high certainty
+Assessor 5,Pathogen A,Exposure 3,extremely likely,reasonable uncertainty
+Assessor 1,Pathogen B,Infection 2,very unlikely,high uncertainty
+Assessor 12,Pathogen B,Release 2,very unlikely,high uncertainty
+Assessor 11,Pathogen B,Exposure 3,likely,reasonable certainty
+Assessor 4,Pathogen D,Infection 2,unlikely,high certainty
+Assessor 2,Pathogen A,Infection 3,likely,reasonable certainty
+Assessor 9,Pathogen C,Consequence to diversity,extremely unlikely,reasonable uncertainty
+Assessor 10,Pathogen C,Exposure 1,very unlikely,high certainty
+Assessor 8,Pathogen B,Release 1,very unlikely,high certainty
+Assessor 4,Pathogen B,Exposure 1,unlikely,high uncertainty
+Assessor 6,Pathogen B,Disease 2,extremely likely,high certainty
+Assessor 11,Pathogen A,Release 2,extremely likely,high uncertainty
+Assessor 8,Pathogen B,Disease 2,likely,high certainty
+Assessor 10,Pathogen C,Consequence to diversity,extremely unlikely,high uncertainty
+Assessor 12,Pathogen A,Consequence to abundance,unlikely,high certainty
+Assessor 7,Pathogen D,Release 1,very likely,high certainty
+Assessor 9,Pathogen D,Disease 1,very unlikely,high certainty
+Assessor 2,Pathogen A,Consequence to abundance,extremely likely,high uncertainty
+Assessor 4,Pathogen C,Exposure 2,extremely likely,high uncertainty
+Assessor 7,Pathogen C,Release 2,extremely likely,high uncertainty
+Assessor 1,Pathogen C,Release 2,extremely unlikely,reasonable certainty
+Assessor 9,Pathogen C,Exposure 2,unlikely,high uncertainty
+Assessor 4,Pathogen C,Infection 2,very likely,high uncertainty
+Assessor 1,Pathogen B,Release 2,extremely unlikely,high certainty
+Assessor 3,Pathogen A,Exposure 2,extremely unlikely,reasonable uncertainty
+Assessor 3,Pathogen D,Consequence to diversity,very likely,high certainty
+Assessor 4,Pathogen D,Infection 1,very likely,high uncertainty
+Assessor 6,Pathogen B,Infection 3,extremely likely,high certainty
+Assessor 12,Pathogen B,Disease 2,very likely,high certainty
+Assessor 6,Pathogen A,Disease 1,likely,reasonable uncertainty
+Assessor 1,Pathogen A,Release 2,extremely unlikely,high certainty
+Assessor 8,Pathogen C,Release 1,very unlikely,high certainty
+Assessor 5,Pathogen A,Consequence to diversity,very unlikely,high certainty
+Assessor 4,Pathogen D,Disease 2,extremely unlikely,reasonable certainty
+Assessor 11,Pathogen C,Exposure 2,very unlikely,high uncertainty
+Assessor 12,Pathogen A,Release 2,likely,high uncertainty
+Assessor 8,Pathogen D,Exposure 3,unlikely,reasonable certainty
+Assessor 1,Pathogen C,Exposure 3,likely,reasonable uncertainty
+Assessor 11,Pathogen B,Infection 1,likely,high uncertainty
+Assessor 12,Pathogen B,Infection 2,extremely unlikely,reasonable uncertainty
+Assessor 4,Pathogen B,Exposure 2,very likely,high certainty
+Assessor 3,Pathogen C,Release 1,very unlikely,reasonable certainty
+Assessor 2,Pathogen C,Exposure 3,extremely likely,reasonable uncertainty
+Assessor 5,Pathogen B,Exposure 1,extremely likely,reasonable uncertainty
+Assessor 1,Pathogen A,Infection 2,unlikely,high uncertainty
+Assessor 6,Pathogen A,Disease 1,very unlikely,reasonable uncertainty
+Assessor 10,Pathogen B,Infection 3,unlikely,reasonable certainty
+Assessor 7,Pathogen D,Consequence to diversity,extremely likely,high uncertainty
+Assessor 5,Pathogen A,Release 1,likely,reasonable uncertainty
+Assessor 7,Pathogen C,Consequence to abundance,very unlikely,high uncertainty
+Assessor 5,Pathogen C,Exposure 3,very unlikely,reasonable certainty
+Assessor 4,Pathogen D,Exposure 1,very likely,high certainty
+Assessor 11,Pathogen B,Disease 1,likely,reasonable uncertainty
+Assessor 4,Pathogen B,Disease 1,extremely unlikely,reasonable uncertainty
+Assessor 2,Pathogen A,Disease 1,very unlikely,reasonable uncertainty
+Assessor 7,Pathogen A,Release 1,very unlikely,reasonable uncertainty
+Assessor 9,Pathogen C,Release 2,likely,high certainty
+Assessor 11,Pathogen A,Infection 3,likely,reasonable certainty
+Assessor 2,Pathogen B,Exposure 2,extremely likely,reasonable certainty
+Assessor 10,Pathogen D,Exposure 1,very unlikely,reasonable certainty
+Assessor 11,Pathogen B,Exposure 2,very unlikely,reasonable uncertainty
+Assessor 5,Pathogen C,Exposure 3,likely,high certainty
+Assessor 2,Pathogen D,Consequence to diversity,extremely unlikely,high certainty
+Assessor 4,Pathogen D,Release 2,likely,reasonable uncertainty
+Assessor 10,Pathogen A,Consequence to diversity,unlikely,reasonable certainty
+Assessor 11,Pathogen B,Release 1,unlikely,reasonable uncertainty
+Assessor 3,Pathogen B,Consequence to abundance,likely,high uncertainty
+Assessor 5,Pathogen C,Release 2,unlikely,high certainty
+Assessor 2,Pathogen C,Disease 1,very unlikely,high uncertainty
+Assessor 5,Pathogen B,Exposure 1,extremely unlikely,reasonable uncertainty
+Assessor 4,Pathogen A,Infection 2,likely,high certainty
+Assessor 8,Pathogen B,Consequence to abundance,likely,high uncertainty
+Assessor 11,Pathogen A,Exposure 3,unlikely,high uncertainty
+Assessor 6,Pathogen D,Exposure 3,very likely,high uncertainty
+Assessor 12,Pathogen C,Consequence to abundance,extremely likely,reasonable uncertainty
+Assessor 5,Pathogen D,Release 1,extremely likely,high certainty
+Assessor 9,Pathogen A,Infection 1,unlikely,high uncertainty
+Assessor 12,Pathogen A,Exposure 2,unlikely,reasonable uncertainty
+Assessor 6,Pathogen A,Infection 1,unlikely,high certainty
+Assessor 11,Pathogen B,Release 1,very unlikely,high uncertainty
+Assessor 1,Pathogen A,Disease 2,very unlikely,high certainty
+Assessor 2,Pathogen A,Disease 1,very likely,reasonable certainty
+Assessor 12,Pathogen B,Infection 3,very likely,reasonable certainty
+Assessor 9,Pathogen B,Disease 1,extremely likely,high uncertainty
+Assessor 5,Pathogen D,Release 1,very likely,reasonable uncertainty
+Assessor 7,Pathogen B,Release 1,extremely likely,reasonable uncertainty
+Assessor 3,Pathogen D,Infection 3,very unlikely,reasonable certainty
+Assessor 7,Pathogen A,Disease 1,unlikely,reasonable uncertainty
+Assessor 1,Pathogen D,Consequence to abundance,extremely likely,high uncertainty
+Assessor 9,Pathogen D,Consequence to diversity,very likely,reasonable certainty
+Assessor 2,Pathogen B,Release 2,very likely,reasonable certainty
+Assessor 3,Pathogen D,Infection 1,extremely unlikely,high certainty
+Assessor 1,Pathogen A,Exposure 2,extremely likely,reasonable uncertainty
+Assessor 10,Pathogen C,Release 1,extremely unlikely,high certainty
+Assessor 2,Pathogen C,Infection 3,very likely,reasonable uncertainty
+Assessor 3,Pathogen C,Exposure 1,extremely unlikely,high uncertainty
+Assessor 11,Pathogen C,Infection 2,extremely likely,high certainty
+Assessor 4,Pathogen D,Release 1,extremely unlikely,high certainty
+Assessor 4,Pathogen A,Infection 1,likely,high certainty
+Assessor 8,Pathogen C,Infection 2,likely,reasonable certainty
+Assessor 1,Pathogen D,Disease 1,likely,reasonable certainty
+Assessor 7,Pathogen B,Release 1,extremely unlikely,reasonable uncertainty
+Assessor 5,Pathogen B,Disease 2,extremely unlikely,reasonable certainty
+Assessor 10,Pathogen A,Consequence to diversity,extremely likely,high uncertainty
+Assessor 5,Pathogen D,Exposure 1,extremely unlikely,reasonable uncertainty
+Assessor 12,Pathogen A,Disease 2,unlikely,high uncertainty
+Assessor 3,Pathogen B,Infection 2,extremely unlikely,high uncertainty
+Assessor 8,Pathogen B,Infection 2,extremely unlikely,reasonable uncertainty
+Assessor 10,Pathogen C,Disease 1,unlikely,high certainty
+Assessor 4,Pathogen C,Release 2,very likely,high uncertainty
+Assessor 6,Pathogen B,Exposure 2,likely,high uncertainty
+Assessor 11,Pathogen D,Infection 3,very unlikely,reasonable certainty
+Assessor 9,Pathogen C,Infection 3,likely,high certainty
+Assessor 10,Pathogen B,Infection 2,extremely likely,high uncertainty
+Assessor 4,Pathogen C,Disease 1,extremely unlikely,reasonable certainty
+Assessor 7,Pathogen B,Infection 3,extremely likely,reasonable certainty
+Assessor 2,Pathogen A,Exposure 2,unlikely,reasonable certainty
+Assessor 9,Pathogen A,Release 1,likely,high uncertainty
+Assessor 8,Pathogen D,Release 1,extremely likely,high certainty
+Assessor 9,Pathogen C,Infection 1,likely,reasonable uncertainty
+Assessor 5,Pathogen D,Disease 2,unlikely,reasonable uncertainty
+Assessor 3,Pathogen C,Disease 2,likely,reasonable uncertainty
+Assessor 12,Pathogen C,Release 2,unlikely,high uncertainty
+Assessor 9,Pathogen B,Release 1,very likely,high certainty
+Assessor 2,Pathogen B,Disease 2,extremely likely,high certainty
+Assessor 4,Pathogen B,Infection 1,unlikely,high uncertainty
+Assessor 10,Pathogen C,Infection 2,unlikely,reasonable uncertainty
+Assessor 5,Pathogen A,Exposure 1,very unlikely,high uncertainty
+Assessor 10,Pathogen A,Consequence to abundance,very likely,reasonable uncertainty
+Assessor 11,Pathogen A,Infection 1,likely,high uncertainty
+Assessor 5,Pathogen D,Exposure 2,unlikely,high uncertainty
+Assessor 9,Pathogen B,Consequence to diversity,very unlikely,reasonable uncertainty
+Assessor 5,Pathogen B,Disease 1,unlikely,reasonable uncertainty
+Assessor 6,Pathogen A,Consequence to diversity,likely,reasonable certainty
+Assessor 1,Pathogen A,Infection 1,very likely,high certainty
+Assessor 6,Pathogen D,Exposure 1,extremely likely,high uncertainty
+Assessor 4,Pathogen C,Consequence to abundance,likely,reasonable certainty
+Assessor 10,Pathogen B,Infection 3,extremely likely,reasonable certainty
+Assessor 3,Pathogen D,Release 2,very unlikely,high certainty
+Assessor 5,Pathogen A,Consequence to diversity,extremely likely,reasonable certainty
+Assessor 4,Pathogen C,Disease 2,very likely,high certainty
+Assessor 7,Pathogen A,Infection 1,extremely unlikely,high certainty
+Assessor 11,Pathogen D,Infection 3,extremely likely,reasonable certainty
+Assessor 5,Pathogen D,Consequence to abundance,likely,high uncertainty
+Assessor 3,Pathogen C,Infection 3,likely,reasonable uncertainty
+Assessor 5,Pathogen B,Infection 2,likely,high uncertainty
+Assessor 4,Pathogen B,Release 1,extremely likely,high certainty
+Assessor 1,Pathogen C,Release 1,extremely unlikely,high uncertainty
+Assessor 9,Pathogen D,Release 2,likely,high certainty
+Assessor 8,Pathogen C,Infection 3,likely,reasonable certainty
+Assessor 12,Pathogen B,Infection 1,extremely likely,reasonable certainty
+Assessor 12,Pathogen B,Consequence to diversity,likely,high uncertainty
+Assessor 6,Pathogen C,Infection 3,likely,high uncertainty
+Assessor 12,Pathogen C,Disease 2,extremely unlikely,reasonable uncertainty
+Assessor 3,Pathogen A,Disease 2,extremely unlikely,reasonable certainty
+Assessor 4,Pathogen C,Infection 1,extremely likely,reasonable uncertainty
+Assessor 10,Pathogen B,Infection 2,very unlikely,reasonable certainty
+Assessor 6,Pathogen C,Infection 3,extremely likely,high uncertainty
+Assessor 10,Pathogen C,Exposure 3,extremely unlikely,reasonable uncertainty
+Assessor 11,Pathogen A,Infection 1,extremely likely,high certainty
+Assessor 7,Pathogen A,Release 1,very unlikely,high certainty
+Assessor 10,Pathogen C,Exposure 2,very likely,reasonable certainty
+Assessor 1,Pathogen A,Exposure 1,unlikely,reasonable certainty
+Assessor 7,Pathogen D,Release 1,very likely,reasonable uncertainty
+Assessor 4,Pathogen C,Release 1,likely,reasonable uncertainty
+Assessor 1,Pathogen B,Exposure 2,very unlikely,reasonable uncertainty
+Assessor 4,Pathogen B,Disease 1,unlikely,high uncertainty
+Assessor 12,Pathogen A,Disease 1,extremely likely,reasonable uncertainty
+Assessor 11,Pathogen D,Consequence to diversity,likely,high uncertainty
+Assessor 5,Pathogen B,Disease 2,extremely unlikely,reasonable uncertainty
+Assessor 11,Pathogen B,Consequence to abundance,very likely,high certainty
+Assessor 12,Pathogen D,Disease 2,very unlikely,reasonable uncertainty
+Assessor 10,Pathogen C,Consequence to diversity,unlikely,reasonable certainty
+Assessor 8,Pathogen B,Release 2,extremely likely,reasonable uncertainty
+Assessor 5,Pathogen D,Infection 2,very likely,reasonable uncertainty
+Assessor 10,Pathogen C,Consequence to abundance,very likely,high certainty
+Assessor 6,Pathogen A,Exposure 1,extremely unlikely,reasonable certainty
+Assessor 8,Pathogen B,Consequence to abundance,unlikely,reasonable certainty
+Assessor 9,Pathogen B,Disease 1,extremely likely,high certainty
+Assessor 6,Pathogen D,Disease 1,extremely likely,reasonable uncertainty
+Assessor 3,Pathogen C,Infection 1,likely,high uncertainty
+Assessor 10,Pathogen A,Consequence to abundance,likely,high uncertainty
+Assessor 8,Pathogen A,Exposure 3,extremely likely,reasonable uncertainty
+Assessor 9,Pathogen D,Exposure 1,likely,reasonable certainty
+Assessor 9,Pathogen D,Disease 2,very likely,high certainty
+Assessor 8,Pathogen D,Disease 2,extremely unlikely,high uncertainty
+Assessor 6,Pathogen B,Disease 2,extremely likely,reasonable certainty
+Assessor 4,Pathogen A,Exposure 2,extremely likely,high certainty
+Assessor 12,Pathogen C,Infection 2,very unlikely,high uncertainty
+Assessor 1,Pathogen B,Consequence to diversity,likely,reasonable certainty
+Assessor 7,Pathogen C,Consequence to diversity,very unlikely,reasonable certainty
+Assessor 4,Pathogen A,Consequence to abundance,very unlikely,high certainty
+Assessor 4,Pathogen B,Infection 2,very unlikely,high certainty
+Assessor 5,Pathogen B,Exposure 3,extremely unlikely,reasonable certainty
+Assessor 8,Pathogen A,Disease 2,extremely unlikely,reasonable uncertainty
+Assessor 5,Pathogen C,Consequence to diversity,extremely unlikely,reasonable uncertainty
+Assessor 9,Pathogen C,Disease 1,extremely likely,high uncertainty
+Assessor 4,Pathogen B,Consequence to diversity,extremely unlikely,high certainty
+Assessor 8,Pathogen B,Consequence to abundance,very unlikely,reasonable uncertainty
+Assessor 10,Pathogen D,Consequence to diversity,very unlikely,reasonable uncertainty
+Assessor 4,Pathogen D,Exposure 1,likely,high uncertainty
+Assessor 11,Pathogen A,Release 1,very likely,reasonable certainty
+Assessor 4,Pathogen D,Infection 1,unlikely,high certainty
+Assessor 4,Pathogen C,Release 2,likely,high uncertainty
+Assessor 12,Pathogen B,Infection 1,extremely likely,high uncertainty
+Assessor 8,Pathogen C,Infection 2,extremely unlikely,reasonable uncertainty
+Assessor 8,Pathogen D,Infection 3,very unlikely,reasonable uncertainty
+Assessor 10,Pathogen A,Release 1,extremely unlikely,high certainty
+Assessor 10,Pathogen A,Consequence to abundance,unlikely,high uncertainty
+Assessor 8,Pathogen D,Release 1,unlikely,reasonable uncertainty
+Assessor 2,Pathogen C,Consequence to diversity,likely,high certainty
+Assessor 1,Pathogen C,Consequence to abundance,likely,high uncertainty
+Assessor 4,Pathogen B,Exposure 2,very likely,reasonable uncertainty
+Assessor 1,Pathogen A,Infection 3,extremely likely,high certainty
+Assessor 6,Pathogen A,Release 2,extremely unlikely,reasonable certainty
+Assessor 2,Pathogen B,Exposure 2,extremely unlikely,reasonable uncertainty
+Assessor 3,Pathogen D,Consequence to diversity,likely,reasonable uncertainty
+Assessor 2,Pathogen C,Exposure 3,extremely unlikely,high uncertainty
+Assessor 5,Pathogen A,Exposure 3,very likely,high uncertainty
+Assessor 5,Pathogen B,Consequence to diversity,very likely,high certainty
+Assessor 11,Pathogen A,Infection 2,likely,high certainty
+Assessor 5,Pathogen A,Release 1,likely,high certainty
+Assessor 1,Pathogen C,Disease 1,likely,reasonable certainty
+Assessor 6,Pathogen C,Exposure 2,very unlikely,high certainty
+Assessor 12,Pathogen C,Disease 2,very unlikely,reasonable certainty
+Assessor 12,Pathogen B,Exposure 3,likely,reasonable uncertainty
+Assessor 9,Pathogen B,Release 1,very unlikely,high uncertainty
+Assessor 11,Pathogen C,Infection 1,extremely unlikely,reasonable certainty
+Assessor 6,Pathogen A,Consequence to diversity,very unlikely,high certainty
+Assessor 10,Pathogen B,Disease 2,extremely likely,high certainty
+Assessor 9,Pathogen A,Exposure 3,extremely likely,reasonable uncertainty
+Assessor 1,Pathogen B,Exposure 1,extremely unlikely,high certainty
+Assessor 8,Pathogen B,Consequence to diversity,very likely,reasonable uncertainty
+Assessor 10,Pathogen C,Consequence to abundance,very likely,high certainty
+Assessor 1,Pathogen C,Release 1,extremely likely,high uncertainty
+Assessor 7,Pathogen C,Disease 2,very likely,reasonable certainty
+Assessor 2,Pathogen C,Infection 1,likely,reasonable uncertainty
+Assessor 12,Pathogen D,Disease 1,likely,high uncertainty
+Assessor 1,Pathogen A,Consequence to diversity,very likely,reasonable certainty
+Assessor 2,Pathogen C,Infection 3,extremely likely,high uncertainty
+Assessor 6,Pathogen A,Exposure 3,extremely likely,high certainty
+Assessor 5,Pathogen B,Release 2,extremely likely,high uncertainty
+Assessor 10,Pathogen C,Exposure 3,very unlikely,high certainty
+Assessor 8,Pathogen C,Release 2,extremely likely,high uncertainty
+Assessor 9,Pathogen A,Disease 2,unlikely,reasonable uncertainty
+Assessor 1,Pathogen B,Infection 2,very unlikely,high uncertainty
+Assessor 1,Pathogen D,Infection 2,extremely unlikely,reasonable certainty
+Assessor 4,Pathogen B,Exposure 1,likely,reasonable certainty
+Assessor 7,Pathogen C,Exposure 3,extremely likely,reasonable certainty
+Assessor 7,Pathogen B,Consequence to diversity,very unlikely,reasonable uncertainty
+Assessor 4,Pathogen B,Exposure 3,very likely,high uncertainty
+Assessor 8,Pathogen A,Infection 2,extremely unlikely,reasonable certainty
+Assessor 11,Pathogen C,Consequence to abundance,very likely,high certainty
+Assessor 10,Pathogen B,Exposure 3,unlikely,reasonable certainty
+Assessor 4,Pathogen A,Infection 3,likely,high certainty
+Assessor 8,Pathogen C,Disease 2,likely,reasonable certainty
+Assessor 5,Pathogen A,Infection 1,very unlikely,reasonable uncertainty
+Assessor 9,Pathogen C,Infection 1,very likely,high uncertainty
+Assessor 8,Pathogen D,Exposure 1,very unlikely,reasonable certainty
+Assessor 6,Pathogen D,Infection 2,likely,reasonable uncertainty
+Assessor 3,Pathogen D,Infection 1,unlikely,reasonable uncertainty
+Assessor 6,Pathogen A,Release 2,likely,reasonable certainty
+Assessor 11,Pathogen C,Disease 1,unlikely,reasonable certainty
+Assessor 3,Pathogen B,Infection 3,extremely unlikely,reasonable uncertainty
+Assessor 1,Pathogen B,Release 1,extremely unlikely,reasonable certainty
+Assessor 1,Pathogen B,Infection 3,likely,reasonable certainty
+Assessor 9,Pathogen D,Disease 1,likely,high uncertainty
+Assessor 9,Pathogen A,Release 2,very unlikely,reasonable uncertainty
+Assessor 10,Pathogen A,Infection 3,very likely,reasonable certainty
+Assessor 8,Pathogen D,Consequence to diversity,extremely likely,reasonable certainty
+Assessor 7,Pathogen C,Infection 2,unlikely,reasonable certainty
+Assessor 6,Pathogen C,Consequence to abundance,unlikely,reasonable certainty
+Assessor 10,Pathogen D,Infection 3,unlikely,reasonable uncertainty
+Assessor 4,Pathogen D,Consequence to diversity,very unlikely,reasonable certainty
+Assessor 3,Pathogen C,Release 1,very likely,high certainty
+Assessor 2,Pathogen D,Infection 3,extremely likely,high uncertainty
+Assessor 12,Pathogen C,Consequence to abundance,unlikely,reasonable certainty
+Assessor 2,Pathogen D,Infection 3,unlikely,high uncertainty
+Assessor 5,Pathogen C,Release 1,very unlikely,reasonable uncertainty
+Assessor 6,Pathogen C,Exposure 1,extremely likely,high certainty
+Assessor 8,Pathogen B,Infection 1,very likely,reasonable certainty
+Assessor 12,Pathogen D,Exposure 1,likely,high uncertainty
+Assessor 7,Pathogen B,Exposure 2,extremely likely,reasonable certainty
+Assessor 3,Pathogen A,Infection 2,unlikely,high uncertainty
+Assessor 10,Pathogen C,Exposure 1,very unlikely,reasonable uncertainty
+Assessor 5,Pathogen B,Consequence to abundance,likely,reasonable certainty
+Assessor 1,Pathogen B,Exposure 2,extremely likely,high certainty
+Assessor 6,Pathogen A,Exposure 1,very unlikely,high uncertainty
+Assessor 11,Pathogen C,Exposure 1,very unlikely,high certainty
+Assessor 11,Pathogen B,Infection 2,likely,high certainty
+Assessor 12,Pathogen B,Exposure 1,very unlikely,high certainty
+Assessor 12,Pathogen B,Consequence to diversity,very unlikely,reasonable certainty
+Assessor 3,Pathogen A,Exposure 3,extremely unlikely,high certainty
+Assessor 4,Pathogen C,Exposure 2,likely,high certainty
+Assessor 11,Pathogen D,Infection 1,extremely unlikely,high certainty
+Assessor 9,Pathogen A,Exposure 3,unlikely,reasonable uncertainty
+Assessor 7,Pathogen A,Release 1,very unlikely,reasonable uncertainty
+Assessor 2,Pathogen B,Infection 1,unlikely,high uncertainty
+Assessor 2,Pathogen B,Exposure 1,very unlikely,reasonable certainty
+Assessor 10,Pathogen B,Exposure 3,unlikely,reasonable certainty
+Assessor 4,Pathogen A,Release 2,likely,high certainty
+Assessor 8,Pathogen D,Consequence to abundance,extremely unlikely,reasonable certainty
+Assessor 12,Pathogen A,Release 2,extremely likely,high certainty
+Assessor 9,Pathogen C,Exposure 1,unlikely,reasonable certainty
+Assessor 6,Pathogen C,Exposure 3,likely,reasonable uncertainty
+Assessor 3,Pathogen B,Exposure 1,very unlikely,high uncertainty
+Assessor 2,Pathogen B,Infection 3,extremely likely,high uncertainty
+Assessor 12,Pathogen C,Consequence to diversity,likely,reasonable uncertainty
+Assessor 7,Pathogen B,Release 1,extremely unlikely,high uncertainty
+Assessor 5,Pathogen B,Disease 1,unlikely,reasonable uncertainty
+Assessor 8,Pathogen D,Release 2,extremely unlikely,reasonable certainty
+Assessor 6,Pathogen C,Consequence to abundance,extremely unlikely,high certainty
+Assessor 5,Pathogen C,Release 1,very unlikely,reasonable uncertainty
+Assessor 5,Pathogen A,Consequence to diversity,unlikely,high certainty
+Assessor 6,Pathogen C,Disease 2,extremely likely,high certainty
+Assessor 9,Pathogen A,Exposure 3,very likely,reasonable certainty
+Assessor 1,Pathogen C,Infection 3,likely,high certainty
+Assessor 3,Pathogen C,Release 1,unlikely,reasonable certainty
+Assessor 11,Pathogen D,Disease 2,very likely,high certainty
+Assessor 4,Pathogen C,Consequence to diversity,extremely unlikely,reasonable uncertainty
+Assessor 12,Pathogen D,Release 1,very unlikely,reasonable uncertainty
+Assessor 11,Pathogen B,Consequence to abundance,unlikely,reasonable uncertainty
+Assessor 5,Pathogen A,Release 1,very likely,reasonable certainty
+Assessor 9,Pathogen B,Infection 2,extremely likely,reasonable certainty
+Assessor 7,Pathogen C,Infection 3,likely,high certainty
+Assessor 3,Pathogen D,Disease 1,likely,reasonable certainty
+Assessor 6,Pathogen C,Exposure 3,extremely unlikely,high certainty
+Assessor 7,Pathogen C,Disease 1,unlikely,reasonable certainty
+Assessor 11,Pathogen B,Release 2,extremely unlikely,reasonable certainty
+Assessor 12,Pathogen A,Consequence to abundance,unlikely,high uncertainty
+Assessor 8,Pathogen A,Consequence to abundance,unlikely,high certainty
+Assessor 11,Pathogen B,Infection 2,likely,reasonable certainty
+Assessor 1,Pathogen D,Infection 3,very likely,high certainty
+Assessor 7,Pathogen C,Consequence to diversity,very likely,reasonable certainty
+Assessor 5,Pathogen B,Infection 2,likely,reasonable uncertainty
+Assessor 6,Pathogen D,Disease 2,very likely,reasonable certainty
+Assessor 1,Pathogen C,Exposure 1,very likely,reasonable uncertainty
+Assessor 9,Pathogen D,Disease 2,extremely likely,reasonable certainty
+Assessor 9,Pathogen A,Exposure 2,extremely unlikely,high certainty
+Assessor 6,Pathogen B,Release 1,likely,reasonable certainty
+Assessor 9,Pathogen A,Exposure 1,extremely unlikely,reasonable uncertainty
+Assessor 10,Pathogen C,Infection 2,very likely,high certainty
+Assessor 7,Pathogen A,Exposure 3,likely,high certainty
+Assessor 1,Pathogen C,Consequence to abundance,extremely unlikely,reasonable uncertainty
+Assessor 11,Pathogen D,Exposure 1,very likely,reasonable uncertainty
+Assessor 10,Pathogen B,Consequence to diversity,extremely likely,high uncertainty
+Assessor 10,Pathogen D,Exposure 2,extremely likely,reasonable certainty
+Assessor 11,Pathogen C,Infection 2,extremely unlikely,reasonable certainty
+Assessor 9,Pathogen B,Release 2,likely,reasonable certainty
+Assessor 8,Pathogen B,Consequence to abundance,very likely,reasonable uncertainty
+Assessor 2,Pathogen B,Release 2,unlikely,high certainty
+Assessor 5,Pathogen D,Release 2,extremely likely,reasonable uncertainty
+Assessor 5,Pathogen A,Infection 2,extremely likely,high uncertainty
+Assessor 11,Pathogen A,Consequence to diversity,very unlikely,high certainty
+Assessor 4,Pathogen B,Exposure 2,likely,high certainty
+Assessor 10,Pathogen C,Disease 1,extremely likely,reasonable uncertainty
+Assessor 4,Pathogen A,Disease 1,unlikely,high certainty
+Assessor 5,Pathogen A,Infection 2,extremely likely,reasonable uncertainty
+Assessor 9,Pathogen D,Exposure 1,very likely,high uncertainty
+Assessor 3,Pathogen D,Infection 3,very unlikely,reasonable uncertainty
+Assessor 9,Pathogen D,Infection 2,likely,high uncertainty
+Assessor 8,Pathogen B,Exposure 3,likely,reasonable uncertainty
+Assessor 6,Pathogen C,Release 2,likely,reasonable uncertainty
+Assessor 1,Pathogen D,Disease 1,very unlikely,high certainty
+Assessor 6,Pathogen C,Consequence to diversity,extremely likely,reasonable uncertainty
+Assessor 3,Pathogen A,Infection 3,very unlikely,high uncertainty
+Assessor 7,Pathogen D,Disease 1,extremely likely,reasonable uncertainty
+Assessor 5,Pathogen D,Infection 2,very unlikely,reasonable uncertainty
+Assessor 5,Pathogen A,Infection 1,unlikely,reasonable certainty
+Assessor 1,Pathogen D,Infection 3,likely,high certainty
+Assessor 1,Pathogen D,Infection 3,very unlikely,reasonable uncertainty
+Assessor 9,Pathogen B,Exposure 1,very likely,reasonable uncertainty
+Assessor 2,Pathogen B,Release 1,likely,high certainty
+Assessor 4,Pathogen A,Disease 2,very likely,high certainty
+Assessor 11,Pathogen A,Exposure 1,very unlikely,high certainty
+Assessor 12,Pathogen B,Exposure 1,extremely likely,high certainty
+Assessor 6,Pathogen D,Infection 3,extremely likely,high uncertainty
+Assessor 7,Pathogen A,Disease 2,extremely likely,high certainty
+Assessor 9,Pathogen C,Disease 2,likely,high certainty
+Assessor 5,Pathogen D,Exposure 1,extremely unlikely,reasonable uncertainty
+Assessor 5,Pathogen C,Consequence to abundance,likely,reasonable certainty
+Assessor 1,Pathogen D,Consequence to abundance,unlikely,reasonable uncertainty
+Assessor 2,Pathogen B,Infection 1,unlikely,high certainty
+Assessor 10,Pathogen B,Exposure 1,extremely unlikely,high certainty
+Assessor 12,Pathogen C,Exposure 2,very likely,reasonable uncertainty
+Assessor 2,Pathogen C,Release 2,very likely,high uncertainty
+Assessor 4,Pathogen B,Consequence to diversity,likely,reasonable uncertainty
+Assessor 5,Pathogen A,Exposure 3,very unlikely,high certainty
+Assessor 2,Pathogen D,Disease 1,unlikely,high uncertainty
+Assessor 8,Pathogen D,Disease 2,very unlikely,reasonable certainty
+Assessor 3,Pathogen A,Release 2,very unlikely,high certainty
+Assessor 5,Pathogen A,Infection 3,very likely,reasonable uncertainty
+Assessor 8,Pathogen C,Infection 2,extremely unlikely,reasonable certainty
+Assessor 11,Pathogen B,Release 2,very likely,reasonable certainty
+Assessor 7,Pathogen C,Exposure 3,extremely likely,reasonable uncertainty
+Assessor 10,Pathogen B,Disease 1,unlikely,high uncertainty
+Assessor 10,Pathogen A,Disease 2,very likely,reasonable certainty
+Assessor 5,Pathogen D,Consequence to diversity,extremely unlikely,high certainty
+Assessor 10,Pathogen D,Exposure 1,likely,high uncertainty
+Assessor 7,Pathogen A,Disease 1,unlikely,high certainty
+Assessor 7,Pathogen D,Infection 2,extremely unlikely,high certainty
+Assessor 9,Pathogen A,Disease 2,very unlikely,high uncertainty
+Assessor 11,Pathogen D,Release 1,very unlikely,reasonable uncertainty
+Assessor 12,Pathogen A,Consequence to diversity,likely,high uncertainty
+Assessor 10,Pathogen D,Disease 2,likely,high certainty
+Assessor 3,Pathogen B,Exposure 2,likely,high uncertainty
+Assessor 8,Pathogen D,Disease 2,unlikely,reasonable certainty
+Assessor 4,Pathogen B,Infection 2,extremely unlikely,high certainty
+Assessor 3,Pathogen D,Exposure 2,very likely,reasonable uncertainty
+Assessor 3,Pathogen A,Release 1,likely,reasonable uncertainty
+Assessor 9,Pathogen D,Infection 3,extremely unlikely,high uncertainty
+Assessor 3,Pathogen A,Infection 2,extremely unlikely,reasonable certainty
+Assessor 3,Pathogen C,Consequence to abundance,very unlikely,high uncertainty
+Assessor 3,Pathogen D,Consequence to diversity,unlikely,reasonable uncertainty
+Assessor 8,Pathogen C,Exposure 2,extremely likely,reasonable uncertainty
+Assessor 6,Pathogen C,Infection 2,extremely unlikely,high uncertainty
+Assessor 7,Pathogen B,Consequence to abundance,extremely likely,high uncertainty
+Assessor 12,Pathogen A,Infection 1,likely,high certainty
+Assessor 11,Pathogen B,Exposure 3,very likely,high certainty
+Assessor 9,Pathogen C,Disease 2,very likely,reasonable certainty
+Assessor 4,Pathogen D,Consequence to abundance,unlikely,reasonable uncertainty
+Assessor 9,Pathogen D,Consequence to diversity,unlikely,reasonable uncertainty
+Assessor 6,Pathogen D,Infection 1,very likely,high uncertainty
+Assessor 6,Pathogen D,Consequence to abundance,unlikely,reasonable certainty
+Assessor 12,Pathogen D,Consequence to abundance,extremely likely,high certainty
+Assessor 9,Pathogen D,Infection 2,extremely unlikely,reasonable uncertainty
+Assessor 7,Pathogen D,Release 1,unlikely,high certainty
+Assessor 4,Pathogen C,Consequence to diversity,extremely unlikely,reasonable uncertainty
+Assessor 3,Pathogen A,Infection 2,likely,reasonable certainty
+Assessor 9,Pathogen A,Exposure 1,very unlikely,high certainty
+Assessor 3,Pathogen B,Infection 1,very unlikely,high certainty
+Assessor 3,Pathogen B,Infection 3,extremely unlikely,reasonable uncertainty
+Assessor 4,Pathogen D,Exposure 3,very unlikely,reasonable certainty
+Assessor 9,Pathogen B,Infection 3,extremely likely,high uncertainty
+Assessor 12,Pathogen B,Release 2,very unlikely,reasonable certainty
+Assessor 4,Pathogen A,Consequence to diversity,likely,high uncertainty
+Assessor 9,Pathogen D,Consequence to abundance,extremely likely,high uncertainty
+Assessor 9,Pathogen A,Release 1,very unlikely,high certainty
+Assessor 1,Pathogen C,Consequence to diversity,very unlikely,high certainty
+Assessor 11,Pathogen C,Consequence to abundance,very unlikely,reasonable uncertainty
+Assessor 8,Pathogen C,Disease 1,likely,reasonable uncertainty
+Assessor 7,Pathogen A,Infection 2,very likely,high uncertainty
+Assessor 3,Pathogen A,Disease 1,extremely likely,high uncertainty
+Assessor 7,Pathogen C,Exposure 2,unlikely,reasonable certainty
+Assessor 9,Pathogen C,Consequence to abundance,extremely likely,high certainty
+Assessor 8,Pathogen D,Exposure 2,extremely likely,reasonable uncertainty
+Assessor 10,Pathogen D,Disease 2,unlikely,reasonable uncertainty
+Assessor 6,Pathogen A,Disease 2,unlikely,reasonable uncertainty
+Assessor 3,Pathogen B,Exposure 2,extremely unlikely,high certainty
+Assessor 3,Pathogen D,Release 2,unlikely,reasonable certainty
+Assessor 9,Pathogen B,Release 1,likely,high uncertainty
+Assessor 6,Pathogen D,Release 2,very likely,reasonable certainty
+Assessor 7,Pathogen D,Infection 1,likely,reasonable uncertainty
+Assessor 4,Pathogen A,Release 1,very likely,high uncertainty
+Assessor 3,Pathogen A,Release 2,very likely,reasonable certainty
+Assessor 11,Pathogen C,Disease 2,extremely likely,high uncertainty
+Assessor 4,Pathogen C,Release 2,likely,high certainty
+Assessor 6,Pathogen D,Consequence to abundance,likely,reasonable certainty
+Assessor 11,Pathogen D,Infection 3,likely,high uncertainty
+Assessor 1,Pathogen D,Release 2,extremely unlikely,reasonable uncertainty
+Assessor 2,Pathogen D,Disease 1,likely,reasonable certainty
+Assessor 5,Pathogen A,Exposure 1,likely,reasonable certainty
+Assessor 8,Pathogen A,Exposure 1,extremely unlikely,reasonable certainty
+Assessor 4,Pathogen B,Consequence to abundance,extremely likely,high certainty
+Assessor 10,Pathogen C,Exposure 1,very unlikely,high uncertainty
+Assessor 12,Pathogen B,Disease 1,likely,reasonable certainty
+Assessor 10,Pathogen D,Infection 3,extremely likely,high uncertainty
+Assessor 8,Pathogen C,Infection 2,extremely unlikely,reasonable certainty
+Assessor 1,Pathogen B,Consequence to abundance,extremely unlikely,high certainty
+Assessor 2,Pathogen D,Exposure 2,likely,reasonable certainty
+Assessor 2,Pathogen B,Release 1,extremely likely,high uncertainty
+Assessor 2,Pathogen C,Exposure 2,very likely,high uncertainty
+Assessor 2,Pathogen A,Release 1,very unlikely,reasonable uncertainty
+Assessor 4,Pathogen C,Infection 2,very unlikely,high certainty
+Assessor 5,Pathogen C,Exposure 1,likely,high uncertainty
+Assessor 3,Pathogen A,Exposure 1,likely,reasonable uncertainty
+Assessor 8,Pathogen B,Consequence to diversity,likely,high certainty
+Assessor 2,Pathogen D,Release 2,likely,reasonable certainty
+Assessor 5,Pathogen A,Disease 2,extremely unlikely,reasonable uncertainty
+Assessor 2,Pathogen C,Disease 2,extremely likely,high certainty
+Assessor 9,Pathogen C,Infection 2,very likely,high uncertainty
+Assessor 5,Pathogen A,Release 1,likely,reasonable uncertainty
+Assessor 3,Pathogen B,Infection 2,unlikely,reasonable uncertainty
+Assessor 8,Pathogen A,Release 2,likely,reasonable uncertainty
+Assessor 6,Pathogen C,Exposure 3,very likely,high certainty
+Assessor 4,Pathogen C,Exposure 1,very likely,reasonable certainty
+Assessor 3,Pathogen D,Exposure 2,very likely,high certainty
+Assessor 4,Pathogen C,Infection 1,extremely likely,reasonable certainty
+Assessor 1,Pathogen A,Infection 3,very likely,reasonable uncertainty
+Assessor 9,Pathogen D,Disease 2,extremely likely,high certainty
+Assessor 1,Pathogen C,Infection 1,very likely,high certainty
+Assessor 4,Pathogen A,Infection 2,very likely,high uncertainty
+Assessor 6,Pathogen C,Infection 1,very unlikely,reasonable uncertainty
+Assessor 9,Pathogen D,Infection 2,likely,high certainty
+Assessor 10,Pathogen B,Exposure 1,unlikely,reasonable uncertainty
+Assessor 3,Pathogen C,Exposure 2,unlikely,high certainty
+Assessor 6,Pathogen C,Exposure 3,extremely likely,high certainty
+Assessor 9,Pathogen C,Exposure 3,very unlikely,reasonable certainty
+Assessor 1,Pathogen B,Infection 3,likely,reasonable certainty
+Assessor 10,Pathogen D,Exposure 2,very unlikely,high uncertainty
+Assessor 7,Pathogen C,Disease 2,extremely unlikely,reasonable certainty
+Assessor 6,Pathogen A,Infection 2,very likely,high certainty
+Assessor 3,Pathogen A,Consequence to diversity,extremely likely,high uncertainty
+Assessor 10,Pathogen B,Exposure 3,very likely,high uncertainty
+Assessor 11,Pathogen B,Infection 3,likely,high certainty
+Assessor 5,Pathogen A,Exposure 2,very likely,high uncertainty
+Assessor 3,Pathogen D,Exposure 3,likely,reasonable uncertainty
+Assessor 9,Pathogen A,Disease 2,very likely,reasonable certainty
+Assessor 9,Pathogen C,Infection 1,extremely unlikely,reasonable uncertainty
+Assessor 8,Pathogen D,Release 2,very unlikely,high uncertainty
+Assessor 5,Pathogen C,Exposure 2,extremely likely,high uncertainty
+Assessor 6,Pathogen D,Disease 2,likely,high uncertainty
+Assessor 3,Pathogen A,Infection 1,very likely,high certainty
+Assessor 2,Pathogen C,Infection 3,extremely unlikely,reasonable uncertainty
+Assessor 6,Pathogen C,Release 1,extremely unlikely,high certainty
+Assessor 6,Pathogen C,Consequence to diversity,extremely likely,reasonable uncertainty
+Assessor 7,Pathogen C,Infection 2,extremely unlikely,high certainty
+Assessor 8,Pathogen A,Infection 1,likely,high uncertainty
+Assessor 6,Pathogen C,Infection 3,extremely likely,reasonable certainty
+Assessor 10,Pathogen C,Consequence to diversity,very likely,high certainty
+Assessor 9,Pathogen B,Exposure 1,unlikely,reasonable uncertainty
+Assessor 5,Pathogen A,Release 2,likely,high uncertainty
+Assessor 10,Pathogen A,Consequence to abundance,very unlikely,reasonable uncertainty
+Assessor 9,Pathogen A,Disease 2,very likely,high uncertainty
+Assessor 6,Pathogen B,Release 1,extremely unlikely,reasonable uncertainty
+Assessor 9,Pathogen C,Disease 1,extremely likely,reasonable certainty
+Assessor 3,Pathogen A,Release 1,extremely likely,high certainty
+Assessor 12,Pathogen A,Exposure 1,very unlikely,reasonable uncertainty
+Assessor 1,Pathogen B,Consequence to diversity,very likely,high certainty
+Assessor 9,Pathogen B,Disease 2,extremely unlikely,reasonable uncertainty
+Assessor 4,Pathogen A,Release 2,likely,reasonable uncertainty
+Assessor 11,Pathogen C,Release 2,very unlikely,high certainty
+Assessor 8,Pathogen A,Exposure 3,unlikely,high certainty
+Assessor 3,Pathogen C,Exposure 2,extremely likely,reasonable uncertainty
+Assessor 12,Pathogen C,Exposure 1,very unlikely,reasonable certainty
+Assessor 12,Pathogen D,Release 2,extremely unlikely,reasonable certainty
+Assessor 4,Pathogen B,Consequence to abundance,very unlikely,reasonable uncertainty
+Assessor 2,Pathogen D,Consequence to diversity,unlikely,reasonable uncertainty
+Assessor 8,Pathogen C,Release 1,extremely unlikely,high uncertainty
+Assessor 9,Pathogen A,Release 2,extremely likely,high certainty
+Assessor 7,Pathogen D,Exposure 2,extremely likely,reasonable uncertainty
+Assessor 10,Pathogen B,Release 2,very unlikely,reasonable certainty
+Assessor 8,Pathogen D,Infection 1,likely,high certainty
+Assessor 1,Pathogen A,Consequence to abundance,likely,reasonable certainty
+Assessor 2,Pathogen A,Infection 3,unlikely,reasonable certainty
+Assessor 10,Pathogen C,Exposure 3,unlikely,reasonable certainty
+Assessor 8,Pathogen A,Consequence to diversity,extremely unlikely,high certainty
+Assessor 2,Pathogen A,Release 2,unlikely,reasonable uncertainty
+Assessor 2,Pathogen C,Release 2,very likely,high uncertainty
+Assessor 9,Pathogen C,Release 2,extremely unlikely,reasonable uncertainty
+Assessor 8,Pathogen A,Disease 2,very unlikely,reasonable uncertainty
+Assessor 1,Pathogen A,Infection 3,likely,high certainty
+Assessor 10,Pathogen A,Infection 2,very likely,reasonable certainty
+Assessor 8,Pathogen D,Infection 3,unlikely,high uncertainty
+Assessor 11,Pathogen B,Exposure 3,very likely,reasonable certainty
+Assessor 6,Pathogen D,Infection 2,unlikely,high uncertainty
+Assessor 1,Pathogen A,Consequence to abundance,likely,high uncertainty
+Assessor 4,Pathogen D,Exposure 2,very likely,reasonable certainty
+Assessor 12,Pathogen D,Release 2,likely,reasonable certainty
+Assessor 8,Pathogen B,Infection 2,extremely likely,high certainty
+Assessor 1,Pathogen B,Infection 1,very unlikely,reasonable uncertainty
+Assessor 9,Pathogen B,Release 1,extremely unlikely,high uncertainty
+Assessor 8,Pathogen A,Release 1,very likely,high certainty
+Assessor 7,Pathogen D,Infection 3,likely,reasonable uncertainty
+Assessor 11,Pathogen D,Exposure 1,very unlikely,reasonable certainty
+Assessor 5,Pathogen A,Release 1,unlikely,high uncertainty
+Assessor 3,Pathogen C,Exposure 3,extremely likely,high certainty
+Assessor 9,Pathogen A,Consequence to abundance,extremely unlikely,reasonable certainty
+Assessor 12,Pathogen A,Infection 2,very likely,high uncertainty
+Assessor 10,Pathogen C,Disease 1,extremely likely,high uncertainty
+Assessor 6,Pathogen D,Infection 3,unlikely,high uncertainty
+Assessor 9,Pathogen D,Exposure 3,likely,reasonable certainty
+Assessor 9,Pathogen D,Release 1,very unlikely,high uncertainty
+Assessor 2,Pathogen C,Exposure 3,likely,reasonable uncertainty
+Assessor 4,Pathogen D,Exposure 1,very likely,reasonable uncertainty
+Assessor 10,Pathogen D,Consequence to abundance,likely,high uncertainty
+Assessor 1,Pathogen D,Consequence to abundance,likely,reasonable uncertainty
+Assessor 11,Pathogen D,Release 2,extremely unlikely,reasonable certainty
+Assessor 3,Pathogen B,Exposure 2,very unlikely,reasonable uncertainty
+Assessor 12,Pathogen B,Consequence to abundance,very likely,high certainty
+Assessor 11,Pathogen C,Release 1,very likely,reasonable uncertainty
+Assessor 10,Pathogen A,Disease 2,very unlikely,reasonable uncertainty
+Assessor 10,Pathogen B,Consequence to diversity,extremely likely,high certainty
+Assessor 8,Pathogen B,Disease 2,extremely unlikely,high certainty
+Assessor 1,Pathogen B,Infection 1,extremely likely,high uncertainty
+Assessor 7,Pathogen A,Consequence to abundance,likely,reasonable certainty
+Assessor 10,Pathogen A,Exposure 1,extremely unlikely,reasonable certainty
+Assessor 11,Pathogen D,Release 1,very likely,high certainty
+Assessor 5,Pathogen D,Release 2,extremely likely,high uncertainty
+Assessor 11,Pathogen C,Exposure 3,very likely,reasonable uncertainty
+Assessor 11,Pathogen C,Disease 1,very unlikely,reasonable certainty
+Assessor 1,Pathogen B,Release 1,very unlikely,reasonable uncertainty
+Assessor 12,Pathogen B,Consequence to abundance,very likely,high uncertainty
+Assessor 6,Pathogen B,Disease 2,very likely,high certainty
+Assessor 10,Pathogen B,Infection 2,extremely likely,reasonable certainty
+Assessor 11,Pathogen C,Disease 2,extremely unlikely,high certainty
+Assessor 1,Pathogen C,Disease 2,extremely unlikely,high uncertainty
+Assessor 11,Pathogen C,Disease 2,unlikely,high certainty
+Assessor 11,Pathogen D,Consequence to abundance,very likely,reasonable uncertainty
+Assessor 6,Pathogen A,Consequence to diversity,extremely likely,reasonable certainty
+Assessor 8,Pathogen B,Infection 1,very likely,high certainty
+Assessor 5,Pathogen C,Release 2,extremely unlikely,high certainty
+Assessor 6,Pathogen B,Infection 2,likely,high certainty
+Assessor 5,Pathogen B,Release 1,likely,reasonable certainty
+Assessor 8,Pathogen A,Exposure 2,very unlikely,high uncertainty
+Assessor 7,Pathogen A,Exposure 1,likely,high uncertainty
+Assessor 9,Pathogen B,Disease 2,very unlikely,high uncertainty
+Assessor 10,Pathogen C,Infection 3,very unlikely,high certainty
+Assessor 2,Pathogen A,Release 1,extremely likely,high uncertainty
+Assessor 12,Pathogen B,Release 1,very unlikely,high uncertainty
+Assessor 1,Pathogen B,Disease 2,extremely likely,reasonable certainty
+Assessor 6,Pathogen D,Disease 1,unlikely,high uncertainty
+Assessor 12,Pathogen A,Release 1,unlikely,high uncertainty
+Assessor 12,Pathogen A,Release 1,unlikely,high certainty
+Assessor 6,Pathogen B,Consequence to diversity,very unlikely,high uncertainty
+Assessor 9,Pathogen C,Consequence to abundance,unlikely,reasonable uncertainty
+Assessor 2,Pathogen A,Infection 2,likely,high certainty
+Assessor 11,Pathogen D,Infection 1,unlikely,reasonable uncertainty
+Assessor 5,Pathogen C,Infection 2,extremely unlikely,high certainty
+Assessor 12,Pathogen D,Exposure 2,likely,reasonable uncertainty
+Assessor 1,Pathogen B,Consequence to diversity,likely,reasonable certainty
+Assessor 4,Pathogen D,Infection 1,likely,reasonable uncertainty
+Assessor 12,Pathogen A,Release 1,unlikely,high certainty
+Assessor 12,Pathogen B,Exposure 1,unlikely,high uncertainty
+Assessor 10,Pathogen A,Infection 2,extremely unlikely,high uncertainty
+Assessor 2,Pathogen B,Infection 3,very likely,reasonable uncertainty
