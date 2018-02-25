@@ -1,751 +1,751 @@
 assessor,risk_assessment,step,likelihood,uncertainty
-Assessor 3,Pathogen C,Consequence to diversity,very likely,reasonable uncertainty
-Assessor 3,Pathogen D,Disease 2,extremely likely,reasonable uncertainty
-Assessor 12,Pathogen B,Exposure 1,very likely,high uncertainty
-Assessor 9,Pathogen B,Release 2,extremely unlikely,reasonable certainty
-Assessor 1,Pathogen D,Infection 3,extremely unlikely,high certainty
-Assessor 7,Pathogen A,Release 2,very unlikely,high certainty
-Assessor 2,Pathogen B,Infection 1,very unlikely,high certainty
-Assessor 8,Pathogen C,Infection 2,extremely unlikely,reasonable uncertainty
-Assessor 1,Pathogen B,Disease 2,extremely unlikely,reasonable uncertainty
-Assessor 8,Pathogen C,Disease 2,very likely,high uncertainty
-Assessor 7,Pathogen C,Consequence to diversity,unlikely,reasonable uncertainty
-Assessor 11,Pathogen B,Exposure 1,very unlikely,reasonable certainty
-Assessor 4,Pathogen C,Release 1,extremely likely,reasonable uncertainty
-Assessor 4,Pathogen B,Disease 1,very likely,reasonable certainty
-Assessor 3,Pathogen A,Disease 1,very likely,high certainty
-Assessor 1,Pathogen B,Exposure 1,extremely likely,high certainty
-Assessor 9,Pathogen C,Infection 1,unlikely,high certainty
-Assessor 4,Pathogen A,Infection 2,extremely unlikely,high certainty
-Assessor 6,Pathogen C,Infection 3,very unlikely,reasonable uncertainty
-Assessor 5,Pathogen B,Disease 1,unlikely,reasonable certainty
-Assessor 2,Pathogen C,Exposure 2,extremely unlikely,high uncertainty
-Assessor 9,Pathogen C,Infection 1,very unlikely,high uncertainty
-Assessor 4,Pathogen B,Disease 1,very likely,reasonable uncertainty
-Assessor 8,Pathogen A,Exposure 1,extremely unlikely,high uncertainty
-Assessor 12,Pathogen C,Infection 3,very likely,reasonable uncertainty
-Assessor 5,Pathogen C,Infection 3,extremely likely,reasonable uncertainty
-Assessor 4,Pathogen A,Exposure 3,extremely unlikely,reasonable uncertainty
-Assessor 11,Pathogen D,Infection 1,extremely unlikely,high certainty
-Assessor 5,Pathogen C,Consequence to abundance,extremely likely,high uncertainty
-Assessor 6,Pathogen B,Consequence to abundance,very likely,high uncertainty
-Assessor 7,Pathogen C,Infection 3,extremely unlikely,reasonable certainty
-Assessor 7,Pathogen D,Disease 2,extremely likely,reasonable uncertainty
-Assessor 10,Pathogen B,Infection 3,very unlikely,high certainty
-Assessor 5,Pathogen A,Disease 1,extremely likely,reasonable uncertainty
-Assessor 4,Pathogen A,Infection 2,very likely,reasonable uncertainty
-Assessor 10,Pathogen B,Exposure 2,unlikely,reasonable certainty
-Assessor 8,Pathogen C,Consequence to diversity,unlikely,reasonable uncertainty
-Assessor 9,Pathogen D,Release 2,extremely likely,reasonable certainty
-Assessor 10,Pathogen C,Exposure 3,extremely likely,high uncertainty
-Assessor 6,Pathogen C,Consequence to abundance,unlikely,high certainty
-Assessor 9,Pathogen B,Release 2,likely,high uncertainty
-Assessor 12,Pathogen C,Disease 1,very unlikely,reasonable uncertainty
-Assessor 6,Pathogen D,Infection 3,extremely likely,reasonable certainty
-Assessor 5,Pathogen A,Exposure 2,likely,high uncertainty
-Assessor 10,Pathogen C,Infection 2,likely,high certainty
-Assessor 11,Pathogen D,Exposure 2,very likely,reasonable certainty
-Assessor 8,Pathogen B,Release 2,unlikely,reasonable uncertainty
-Assessor 8,Pathogen A,Disease 1,likely,reasonable uncertainty
-Assessor 6,Pathogen B,Disease 2,very likely,reasonable uncertainty
-Assessor 4,Pathogen D,Consequence to diversity,extremely likely,high uncertainty
-Assessor 10,Pathogen D,Infection 2,very likely,reasonable certainty
-Assessor 2,Pathogen D,Disease 1,very likely,high certainty
-Assessor 3,Pathogen D,Infection 1,likely,high certainty
-Assessor 11,Pathogen A,Disease 1,extremely likely,high uncertainty
-Assessor 7,Pathogen B,Exposure 1,very likely,high uncertainty
-Assessor 10,Pathogen A,Consequence to abundance,extremely likely,high uncertainty
-Assessor 11,Pathogen C,Infection 2,very likely,reasonable uncertainty
-Assessor 1,Pathogen A,Exposure 2,extremely likely,reasonable uncertainty
-Assessor 9,Pathogen C,Consequence to diversity,extremely unlikely,reasonable certainty
-Assessor 12,Pathogen C,Disease 1,extremely unlikely,reasonable certainty
-Assessor 11,Pathogen B,Consequence to abundance,extremely likely,high certainty
-Assessor 8,Pathogen C,Exposure 2,likely,high certainty
-Assessor 2,Pathogen A,Infection 1,extremely unlikely,high uncertainty
-Assessor 6,Pathogen A,Exposure 2,very likely,reasonable certainty
-Assessor 4,Pathogen D,Infection 3,likely,high certainty
-Assessor 8,Pathogen C,Infection 3,very unlikely,reasonable uncertainty
-Assessor 3,Pathogen C,Disease 1,extremely unlikely,high uncertainty
-Assessor 6,Pathogen C,Exposure 1,likely,reasonable certainty
-Assessor 7,Pathogen C,Exposure 3,unlikely,reasonable certainty
-Assessor 4,Pathogen B,Release 2,unlikely,reasonable certainty
-Assessor 10,Pathogen D,Infection 1,very likely,high certainty
-Assessor 4,Pathogen A,Release 2,very likely,high certainty
-Assessor 12,Pathogen A,Infection 1,unlikely,high uncertainty
-Assessor 1,Pathogen D,Disease 1,extremely unlikely,high certainty
-Assessor 8,Pathogen C,Release 2,extremely unlikely,reasonable certainty
-Assessor 2,Pathogen B,Disease 2,very unlikely,reasonable certainty
-Assessor 10,Pathogen D,Infection 1,likely,high certainty
-Assessor 10,Pathogen D,Consequence to diversity,very unlikely,high certainty
-Assessor 6,Pathogen D,Disease 1,unlikely,high uncertainty
-Assessor 10,Pathogen B,Exposure 3,likely,high certainty
-Assessor 2,Pathogen B,Consequence to diversity,extremely likely,high certainty
-Assessor 8,Pathogen B,Consequence to abundance,very likely,high uncertainty
-Assessor 2,Pathogen B,Disease 2,very unlikely,reasonable certainty
-Assessor 9,Pathogen B,Infection 2,likely,high uncertainty
-Assessor 4,Pathogen D,Release 1,unlikely,high certainty
-Assessor 5,Pathogen A,Release 1,very likely,high uncertainty
-Assessor 9,Pathogen B,Release 2,extremely likely,reasonable uncertainty
-Assessor 12,Pathogen A,Disease 2,unlikely,reasonable uncertainty
-Assessor 6,Pathogen C,Disease 2,extremely unlikely,high certainty
-Assessor 5,Pathogen C,Disease 2,unlikely,reasonable certainty
-Assessor 10,Pathogen C,Disease 2,very likely,reasonable certainty
-Assessor 2,Pathogen B,Infection 3,unlikely,high uncertainty
-Assessor 8,Pathogen C,Exposure 2,very unlikely,high uncertainty
-Assessor 6,Pathogen A,Infection 1,likely,high certainty
-Assessor 3,Pathogen C,Exposure 1,very likely,reasonable uncertainty
-Assessor 3,Pathogen C,Infection 1,very likely,high certainty
-Assessor 5,Pathogen D,Infection 3,unlikely,reasonable certainty
-Assessor 4,Pathogen B,Release 1,unlikely,high uncertainty
-Assessor 4,Pathogen C,Consequence to diversity,extremely likely,reasonable certainty
-Assessor 5,Pathogen C,Consequence to diversity,unlikely,high certainty
-Assessor 1,Pathogen C,Consequence to diversity,unlikely,high uncertainty
-Assessor 11,Pathogen D,Infection 1,likely,high certainty
-Assessor 7,Pathogen C,Consequence to abundance,unlikely,high uncertainty
-Assessor 10,Pathogen D,Exposure 2,very unlikely,reasonable uncertainty
-Assessor 10,Pathogen A,Release 1,likely,high certainty
-Assessor 6,Pathogen D,Exposure 1,likely,high uncertainty
-Assessor 9,Pathogen A,Consequence to abundance,extremely likely,high certainty
-Assessor 11,Pathogen C,Infection 3,extremely likely,reasonable certainty
-Assessor 7,Pathogen C,Disease 2,unlikely,high certainty
-Assessor 3,Pathogen C,Infection 1,very unlikely,high uncertainty
-Assessor 2,Pathogen A,Exposure 3,very likely,high uncertainty
-Assessor 10,Pathogen A,Consequence to diversity,unlikely,high certainty
-Assessor 10,Pathogen C,Consequence to diversity,very unlikely,high uncertainty
-Assessor 4,Pathogen B,Consequence to diversity,likely,high certainty
-Assessor 1,Pathogen A,Consequence to abundance,likely,high certainty
-Assessor 8,Pathogen B,Infection 3,very likely,reasonable uncertainty
-Assessor 10,Pathogen B,Release 2,likely,high certainty
-Assessor 2,Pathogen C,Infection 2,unlikely,high uncertainty
-Assessor 12,Pathogen D,Consequence to abundance,very unlikely,high uncertainty
-Assessor 4,Pathogen A,Release 2,very unlikely,reasonable certainty
-Assessor 1,Pathogen C,Release 2,extremely likely,reasonable certainty
-Assessor 4,Pathogen C,Infection 2,extremely unlikely,high uncertainty
-Assessor 6,Pathogen D,Consequence to abundance,very likely,high uncertainty
-Assessor 2,Pathogen A,Release 1,unlikely,high certainty
-Assessor 5,Pathogen A,Exposure 3,extremely likely,reasonable uncertainty
-Assessor 1,Pathogen B,Infection 2,very unlikely,high uncertainty
-Assessor 12,Pathogen B,Release 2,very unlikely,high uncertainty
-Assessor 11,Pathogen B,Exposure 3,likely,reasonable certainty
-Assessor 4,Pathogen D,Infection 2,unlikely,high certainty
-Assessor 2,Pathogen A,Infection 3,likely,reasonable certainty
-Assessor 9,Pathogen C,Consequence to diversity,extremely unlikely,reasonable uncertainty
-Assessor 10,Pathogen C,Exposure 1,very unlikely,high certainty
-Assessor 8,Pathogen B,Release 1,very unlikely,high certainty
-Assessor 4,Pathogen B,Exposure 1,unlikely,high uncertainty
-Assessor 6,Pathogen B,Disease 2,extremely likely,high certainty
-Assessor 11,Pathogen A,Release 2,extremely likely,high uncertainty
-Assessor 8,Pathogen B,Disease 2,likely,high certainty
-Assessor 10,Pathogen C,Consequence to diversity,extremely unlikely,high uncertainty
-Assessor 12,Pathogen A,Consequence to abundance,unlikely,high certainty
-Assessor 7,Pathogen D,Release 1,very likely,high certainty
-Assessor 9,Pathogen D,Disease 1,very unlikely,high certainty
-Assessor 2,Pathogen A,Consequence to abundance,extremely likely,high uncertainty
-Assessor 4,Pathogen C,Exposure 2,extremely likely,high uncertainty
-Assessor 7,Pathogen C,Release 2,extremely likely,high uncertainty
-Assessor 1,Pathogen C,Release 2,extremely unlikely,reasonable certainty
-Assessor 9,Pathogen C,Exposure 2,unlikely,high uncertainty
-Assessor 4,Pathogen C,Infection 2,very likely,high uncertainty
-Assessor 1,Pathogen B,Release 2,extremely unlikely,high certainty
-Assessor 3,Pathogen A,Exposure 2,extremely unlikely,reasonable uncertainty
-Assessor 3,Pathogen D,Consequence to diversity,very likely,high certainty
-Assessor 4,Pathogen D,Infection 1,very likely,high uncertainty
-Assessor 6,Pathogen B,Infection 3,extremely likely,high certainty
-Assessor 12,Pathogen B,Disease 2,very likely,high certainty
-Assessor 6,Pathogen A,Disease 1,likely,reasonable uncertainty
-Assessor 1,Pathogen A,Release 2,extremely unlikely,high certainty
-Assessor 8,Pathogen C,Release 1,very unlikely,high certainty
-Assessor 5,Pathogen A,Consequence to diversity,very unlikely,high certainty
-Assessor 4,Pathogen D,Disease 2,extremely unlikely,reasonable certainty
-Assessor 11,Pathogen C,Exposure 2,very unlikely,high uncertainty
-Assessor 12,Pathogen A,Release 2,likely,high uncertainty
-Assessor 8,Pathogen D,Exposure 3,unlikely,reasonable certainty
-Assessor 1,Pathogen C,Exposure 3,likely,reasonable uncertainty
-Assessor 11,Pathogen B,Infection 1,likely,high uncertainty
-Assessor 12,Pathogen B,Infection 2,extremely unlikely,reasonable uncertainty
-Assessor 4,Pathogen B,Exposure 2,very likely,high certainty
-Assessor 3,Pathogen C,Release 1,very unlikely,reasonable certainty
-Assessor 2,Pathogen C,Exposure 3,extremely likely,reasonable uncertainty
-Assessor 5,Pathogen B,Exposure 1,extremely likely,reasonable uncertainty
-Assessor 1,Pathogen A,Infection 2,unlikely,high uncertainty
-Assessor 6,Pathogen A,Disease 1,very unlikely,reasonable uncertainty
-Assessor 10,Pathogen B,Infection 3,unlikely,reasonable certainty
-Assessor 7,Pathogen D,Consequence to diversity,extremely likely,high uncertainty
-Assessor 5,Pathogen A,Release 1,likely,reasonable uncertainty
-Assessor 7,Pathogen C,Consequence to abundance,very unlikely,high uncertainty
-Assessor 5,Pathogen C,Exposure 3,very unlikely,reasonable certainty
-Assessor 4,Pathogen D,Exposure 1,very likely,high certainty
-Assessor 11,Pathogen B,Disease 1,likely,reasonable uncertainty
-Assessor 4,Pathogen B,Disease 1,extremely unlikely,reasonable uncertainty
-Assessor 2,Pathogen A,Disease 1,very unlikely,reasonable uncertainty
-Assessor 7,Pathogen A,Release 1,very unlikely,reasonable uncertainty
-Assessor 9,Pathogen C,Release 2,likely,high certainty
-Assessor 11,Pathogen A,Infection 3,likely,reasonable certainty
-Assessor 2,Pathogen B,Exposure 2,extremely likely,reasonable certainty
-Assessor 10,Pathogen D,Exposure 1,very unlikely,reasonable certainty
-Assessor 11,Pathogen B,Exposure 2,very unlikely,reasonable uncertainty
-Assessor 5,Pathogen C,Exposure 3,likely,high certainty
-Assessor 2,Pathogen D,Consequence to diversity,extremely unlikely,high certainty
-Assessor 4,Pathogen D,Release 2,likely,reasonable uncertainty
-Assessor 10,Pathogen A,Consequence to diversity,unlikely,reasonable certainty
-Assessor 11,Pathogen B,Release 1,unlikely,reasonable uncertainty
-Assessor 3,Pathogen B,Consequence to abundance,likely,high uncertainty
-Assessor 5,Pathogen C,Release 2,unlikely,high certainty
-Assessor 2,Pathogen C,Disease 1,very unlikely,high uncertainty
-Assessor 5,Pathogen B,Exposure 1,extremely unlikely,reasonable uncertainty
-Assessor 4,Pathogen A,Infection 2,likely,high certainty
-Assessor 8,Pathogen B,Consequence to abundance,likely,high uncertainty
-Assessor 11,Pathogen A,Exposure 3,unlikely,high uncertainty
-Assessor 6,Pathogen D,Exposure 3,very likely,high uncertainty
-Assessor 12,Pathogen C,Consequence to abundance,extremely likely,reasonable uncertainty
-Assessor 5,Pathogen D,Release 1,extremely likely,high certainty
-Assessor 9,Pathogen A,Infection 1,unlikely,high uncertainty
-Assessor 12,Pathogen A,Exposure 2,unlikely,reasonable uncertainty
-Assessor 6,Pathogen A,Infection 1,unlikely,high certainty
-Assessor 11,Pathogen B,Release 1,very unlikely,high uncertainty
-Assessor 1,Pathogen A,Disease 2,very unlikely,high certainty
-Assessor 2,Pathogen A,Disease 1,very likely,reasonable certainty
-Assessor 12,Pathogen B,Infection 3,very likely,reasonable certainty
-Assessor 9,Pathogen B,Disease 1,extremely likely,high uncertainty
-Assessor 5,Pathogen D,Release 1,very likely,reasonable uncertainty
-Assessor 7,Pathogen B,Release 1,extremely likely,reasonable uncertainty
-Assessor 3,Pathogen D,Infection 3,very unlikely,reasonable certainty
-Assessor 7,Pathogen A,Disease 1,unlikely,reasonable uncertainty
-Assessor 1,Pathogen D,Consequence to abundance,extremely likely,high uncertainty
-Assessor 9,Pathogen D,Consequence to diversity,very likely,reasonable certainty
-Assessor 2,Pathogen B,Release 2,very likely,reasonable certainty
-Assessor 3,Pathogen D,Infection 1,extremely unlikely,high certainty
-Assessor 1,Pathogen A,Exposure 2,extremely likely,reasonable uncertainty
-Assessor 10,Pathogen C,Release 1,extremely unlikely,high certainty
-Assessor 2,Pathogen C,Infection 3,very likely,reasonable uncertainty
-Assessor 3,Pathogen C,Exposure 1,extremely unlikely,high uncertainty
-Assessor 11,Pathogen C,Infection 2,extremely likely,high certainty
-Assessor 4,Pathogen D,Release 1,extremely unlikely,high certainty
-Assessor 4,Pathogen A,Infection 1,likely,high certainty
-Assessor 8,Pathogen C,Infection 2,likely,reasonable certainty
-Assessor 1,Pathogen D,Disease 1,likely,reasonable certainty
-Assessor 7,Pathogen B,Release 1,extremely unlikely,reasonable uncertainty
-Assessor 5,Pathogen B,Disease 2,extremely unlikely,reasonable certainty
-Assessor 10,Pathogen A,Consequence to diversity,extremely likely,high uncertainty
-Assessor 5,Pathogen D,Exposure 1,extremely unlikely,reasonable uncertainty
-Assessor 12,Pathogen A,Disease 2,unlikely,high uncertainty
-Assessor 3,Pathogen B,Infection 2,extremely unlikely,high uncertainty
-Assessor 8,Pathogen B,Infection 2,extremely unlikely,reasonable uncertainty
-Assessor 10,Pathogen C,Disease 1,unlikely,high certainty
-Assessor 4,Pathogen C,Release 2,very likely,high uncertainty
-Assessor 6,Pathogen B,Exposure 2,likely,high uncertainty
-Assessor 11,Pathogen D,Infection 3,very unlikely,reasonable certainty
-Assessor 9,Pathogen C,Infection 3,likely,high certainty
-Assessor 10,Pathogen B,Infection 2,extremely likely,high uncertainty
-Assessor 4,Pathogen C,Disease 1,extremely unlikely,reasonable certainty
-Assessor 7,Pathogen B,Infection 3,extremely likely,reasonable certainty
-Assessor 2,Pathogen A,Exposure 2,unlikely,reasonable certainty
-Assessor 9,Pathogen A,Release 1,likely,high uncertainty
-Assessor 8,Pathogen D,Release 1,extremely likely,high certainty
-Assessor 9,Pathogen C,Infection 1,likely,reasonable uncertainty
-Assessor 5,Pathogen D,Disease 2,unlikely,reasonable uncertainty
-Assessor 3,Pathogen C,Disease 2,likely,reasonable uncertainty
-Assessor 12,Pathogen C,Release 2,unlikely,high uncertainty
-Assessor 9,Pathogen B,Release 1,very likely,high certainty
-Assessor 2,Pathogen B,Disease 2,extremely likely,high certainty
-Assessor 4,Pathogen B,Infection 1,unlikely,high uncertainty
-Assessor 10,Pathogen C,Infection 2,unlikely,reasonable uncertainty
-Assessor 5,Pathogen A,Exposure 1,very unlikely,high uncertainty
-Assessor 10,Pathogen A,Consequence to abundance,very likely,reasonable uncertainty
-Assessor 11,Pathogen A,Infection 1,likely,high uncertainty
-Assessor 5,Pathogen D,Exposure 2,unlikely,high uncertainty
-Assessor 9,Pathogen B,Consequence to diversity,very unlikely,reasonable uncertainty
-Assessor 5,Pathogen B,Disease 1,unlikely,reasonable uncertainty
-Assessor 6,Pathogen A,Consequence to diversity,likely,reasonable certainty
-Assessor 1,Pathogen A,Infection 1,very likely,high certainty
-Assessor 6,Pathogen D,Exposure 1,extremely likely,high uncertainty
-Assessor 4,Pathogen C,Consequence to abundance,likely,reasonable certainty
-Assessor 10,Pathogen B,Infection 3,extremely likely,reasonable certainty
-Assessor 3,Pathogen D,Release 2,very unlikely,high certainty
-Assessor 5,Pathogen A,Consequence to diversity,extremely likely,reasonable certainty
-Assessor 4,Pathogen C,Disease 2,very likely,high certainty
-Assessor 7,Pathogen A,Infection 1,extremely unlikely,high certainty
-Assessor 11,Pathogen D,Infection 3,extremely likely,reasonable certainty
-Assessor 5,Pathogen D,Consequence to abundance,likely,high uncertainty
-Assessor 3,Pathogen C,Infection 3,likely,reasonable uncertainty
-Assessor 5,Pathogen B,Infection 2,likely,high uncertainty
-Assessor 4,Pathogen B,Release 1,extremely likely,high certainty
-Assessor 1,Pathogen C,Release 1,extremely unlikely,high uncertainty
-Assessor 9,Pathogen D,Release 2,likely,high certainty
-Assessor 8,Pathogen C,Infection 3,likely,reasonable certainty
-Assessor 12,Pathogen B,Infection 1,extremely likely,reasonable certainty
-Assessor 12,Pathogen B,Consequence to diversity,likely,high uncertainty
-Assessor 6,Pathogen C,Infection 3,likely,high uncertainty
-Assessor 12,Pathogen C,Disease 2,extremely unlikely,reasonable uncertainty
-Assessor 3,Pathogen A,Disease 2,extremely unlikely,reasonable certainty
-Assessor 4,Pathogen C,Infection 1,extremely likely,reasonable uncertainty
-Assessor 10,Pathogen B,Infection 2,very unlikely,reasonable certainty
-Assessor 6,Pathogen C,Infection 3,extremely likely,high uncertainty
-Assessor 10,Pathogen C,Exposure 3,extremely unlikely,reasonable uncertainty
-Assessor 11,Pathogen A,Infection 1,extremely likely,high certainty
-Assessor 7,Pathogen A,Release 1,very unlikely,high certainty
-Assessor 10,Pathogen C,Exposure 2,very likely,reasonable certainty
-Assessor 1,Pathogen A,Exposure 1,unlikely,reasonable certainty
-Assessor 7,Pathogen D,Release 1,very likely,reasonable uncertainty
-Assessor 4,Pathogen C,Release 1,likely,reasonable uncertainty
-Assessor 1,Pathogen B,Exposure 2,very unlikely,reasonable uncertainty
-Assessor 4,Pathogen B,Disease 1,unlikely,high uncertainty
-Assessor 12,Pathogen A,Disease 1,extremely likely,reasonable uncertainty
-Assessor 11,Pathogen D,Consequence to diversity,likely,high uncertainty
-Assessor 5,Pathogen B,Disease 2,extremely unlikely,reasonable uncertainty
-Assessor 11,Pathogen B,Consequence to abundance,very likely,high certainty
-Assessor 12,Pathogen D,Disease 2,very unlikely,reasonable uncertainty
-Assessor 10,Pathogen C,Consequence to diversity,unlikely,reasonable certainty
-Assessor 8,Pathogen B,Release 2,extremely likely,reasonable uncertainty
-Assessor 5,Pathogen D,Infection 2,very likely,reasonable uncertainty
-Assessor 10,Pathogen C,Consequence to abundance,very likely,high certainty
-Assessor 6,Pathogen A,Exposure 1,extremely unlikely,reasonable certainty
-Assessor 8,Pathogen B,Consequence to abundance,unlikely,reasonable certainty
-Assessor 9,Pathogen B,Disease 1,extremely likely,high certainty
-Assessor 6,Pathogen D,Disease 1,extremely likely,reasonable uncertainty
-Assessor 3,Pathogen C,Infection 1,likely,high uncertainty
-Assessor 10,Pathogen A,Consequence to abundance,likely,high uncertainty
-Assessor 8,Pathogen A,Exposure 3,extremely likely,reasonable uncertainty
-Assessor 9,Pathogen D,Exposure 1,likely,reasonable certainty
-Assessor 9,Pathogen D,Disease 2,very likely,high certainty
-Assessor 8,Pathogen D,Disease 2,extremely unlikely,high uncertainty
-Assessor 6,Pathogen B,Disease 2,extremely likely,reasonable certainty
-Assessor 4,Pathogen A,Exposure 2,extremely likely,high certainty
-Assessor 12,Pathogen C,Infection 2,very unlikely,high uncertainty
-Assessor 1,Pathogen B,Consequence to diversity,likely,reasonable certainty
-Assessor 7,Pathogen C,Consequence to diversity,very unlikely,reasonable certainty
-Assessor 4,Pathogen A,Consequence to abundance,very unlikely,high certainty
-Assessor 4,Pathogen B,Infection 2,very unlikely,high certainty
-Assessor 5,Pathogen B,Exposure 3,extremely unlikely,reasonable certainty
-Assessor 8,Pathogen A,Disease 2,extremely unlikely,reasonable uncertainty
-Assessor 5,Pathogen C,Consequence to diversity,extremely unlikely,reasonable uncertainty
-Assessor 9,Pathogen C,Disease 1,extremely likely,high uncertainty
-Assessor 4,Pathogen B,Consequence to diversity,extremely unlikely,high certainty
-Assessor 8,Pathogen B,Consequence to abundance,very unlikely,reasonable uncertainty
-Assessor 10,Pathogen D,Consequence to diversity,very unlikely,reasonable uncertainty
-Assessor 4,Pathogen D,Exposure 1,likely,high uncertainty
-Assessor 11,Pathogen A,Release 1,very likely,reasonable certainty
-Assessor 4,Pathogen D,Infection 1,unlikely,high certainty
-Assessor 4,Pathogen C,Release 2,likely,high uncertainty
-Assessor 12,Pathogen B,Infection 1,extremely likely,high uncertainty
-Assessor 8,Pathogen C,Infection 2,extremely unlikely,reasonable uncertainty
-Assessor 8,Pathogen D,Infection 3,very unlikely,reasonable uncertainty
-Assessor 10,Pathogen A,Release 1,extremely unlikely,high certainty
-Assessor 10,Pathogen A,Consequence to abundance,unlikely,high uncertainty
-Assessor 8,Pathogen D,Release 1,unlikely,reasonable uncertainty
-Assessor 2,Pathogen C,Consequence to diversity,likely,high certainty
-Assessor 1,Pathogen C,Consequence to abundance,likely,high uncertainty
-Assessor 4,Pathogen B,Exposure 2,very likely,reasonable uncertainty
-Assessor 1,Pathogen A,Infection 3,extremely likely,high certainty
-Assessor 6,Pathogen A,Release 2,extremely unlikely,reasonable certainty
-Assessor 2,Pathogen B,Exposure 2,extremely unlikely,reasonable uncertainty
-Assessor 3,Pathogen D,Consequence to diversity,likely,reasonable uncertainty
-Assessor 2,Pathogen C,Exposure 3,extremely unlikely,high uncertainty
-Assessor 5,Pathogen A,Exposure 3,very likely,high uncertainty
-Assessor 5,Pathogen B,Consequence to diversity,very likely,high certainty
-Assessor 11,Pathogen A,Infection 2,likely,high certainty
-Assessor 5,Pathogen A,Release 1,likely,high certainty
-Assessor 1,Pathogen C,Disease 1,likely,reasonable certainty
-Assessor 6,Pathogen C,Exposure 2,very unlikely,high certainty
-Assessor 12,Pathogen C,Disease 2,very unlikely,reasonable certainty
-Assessor 12,Pathogen B,Exposure 3,likely,reasonable uncertainty
-Assessor 9,Pathogen B,Release 1,very unlikely,high uncertainty
-Assessor 11,Pathogen C,Infection 1,extremely unlikely,reasonable certainty
-Assessor 6,Pathogen A,Consequence to diversity,very unlikely,high certainty
-Assessor 10,Pathogen B,Disease 2,extremely likely,high certainty
-Assessor 9,Pathogen A,Exposure 3,extremely likely,reasonable uncertainty
-Assessor 1,Pathogen B,Exposure 1,extremely unlikely,high certainty
-Assessor 8,Pathogen B,Consequence to diversity,very likely,reasonable uncertainty
-Assessor 10,Pathogen C,Consequence to abundance,very likely,high certainty
-Assessor 1,Pathogen C,Release 1,extremely likely,high uncertainty
-Assessor 7,Pathogen C,Disease 2,very likely,reasonable certainty
-Assessor 2,Pathogen C,Infection 1,likely,reasonable uncertainty
-Assessor 12,Pathogen D,Disease 1,likely,high uncertainty
-Assessor 1,Pathogen A,Consequence to diversity,very likely,reasonable certainty
-Assessor 2,Pathogen C,Infection 3,extremely likely,high uncertainty
-Assessor 6,Pathogen A,Exposure 3,extremely likely,high certainty
-Assessor 5,Pathogen B,Release 2,extremely likely,high uncertainty
-Assessor 10,Pathogen C,Exposure 3,very unlikely,high certainty
-Assessor 8,Pathogen C,Release 2,extremely likely,high uncertainty
-Assessor 9,Pathogen A,Disease 2,unlikely,reasonable uncertainty
-Assessor 1,Pathogen B,Infection 2,very unlikely,high uncertainty
-Assessor 1,Pathogen D,Infection 2,extremely unlikely,reasonable certainty
-Assessor 4,Pathogen B,Exposure 1,likely,reasonable certainty
-Assessor 7,Pathogen C,Exposure 3,extremely likely,reasonable certainty
-Assessor 7,Pathogen B,Consequence to diversity,very unlikely,reasonable uncertainty
-Assessor 4,Pathogen B,Exposure 3,very likely,high uncertainty
-Assessor 8,Pathogen A,Infection 2,extremely unlikely,reasonable certainty
-Assessor 11,Pathogen C,Consequence to abundance,very likely,high certainty
-Assessor 10,Pathogen B,Exposure 3,unlikely,reasonable certainty
-Assessor 4,Pathogen A,Infection 3,likely,high certainty
-Assessor 8,Pathogen C,Disease 2,likely,reasonable certainty
-Assessor 5,Pathogen A,Infection 1,very unlikely,reasonable uncertainty
-Assessor 9,Pathogen C,Infection 1,very likely,high uncertainty
-Assessor 8,Pathogen D,Exposure 1,very unlikely,reasonable certainty
-Assessor 6,Pathogen D,Infection 2,likely,reasonable uncertainty
-Assessor 3,Pathogen D,Infection 1,unlikely,reasonable uncertainty
-Assessor 6,Pathogen A,Release 2,likely,reasonable certainty
-Assessor 11,Pathogen C,Disease 1,unlikely,reasonable certainty
-Assessor 3,Pathogen B,Infection 3,extremely unlikely,reasonable uncertainty
-Assessor 1,Pathogen B,Release 1,extremely unlikely,reasonable certainty
-Assessor 1,Pathogen B,Infection 3,likely,reasonable certainty
-Assessor 9,Pathogen D,Disease 1,likely,high uncertainty
-Assessor 9,Pathogen A,Release 2,very unlikely,reasonable uncertainty
-Assessor 10,Pathogen A,Infection 3,very likely,reasonable certainty
-Assessor 8,Pathogen D,Consequence to diversity,extremely likely,reasonable certainty
-Assessor 7,Pathogen C,Infection 2,unlikely,reasonable certainty
-Assessor 6,Pathogen C,Consequence to abundance,unlikely,reasonable certainty
-Assessor 10,Pathogen D,Infection 3,unlikely,reasonable uncertainty
-Assessor 4,Pathogen D,Consequence to diversity,very unlikely,reasonable certainty
-Assessor 3,Pathogen C,Release 1,very likely,high certainty
-Assessor 2,Pathogen D,Infection 3,extremely likely,high uncertainty
-Assessor 12,Pathogen C,Consequence to abundance,unlikely,reasonable certainty
-Assessor 2,Pathogen D,Infection 3,unlikely,high uncertainty
-Assessor 5,Pathogen C,Release 1,very unlikely,reasonable uncertainty
-Assessor 6,Pathogen C,Exposure 1,extremely likely,high certainty
-Assessor 8,Pathogen B,Infection 1,very likely,reasonable certainty
-Assessor 12,Pathogen D,Exposure 1,likely,high uncertainty
-Assessor 7,Pathogen B,Exposure 2,extremely likely,reasonable certainty
-Assessor 3,Pathogen A,Infection 2,unlikely,high uncertainty
-Assessor 10,Pathogen C,Exposure 1,very unlikely,reasonable uncertainty
-Assessor 5,Pathogen B,Consequence to abundance,likely,reasonable certainty
-Assessor 1,Pathogen B,Exposure 2,extremely likely,high certainty
-Assessor 6,Pathogen A,Exposure 1,very unlikely,high uncertainty
-Assessor 11,Pathogen C,Exposure 1,very unlikely,high certainty
-Assessor 11,Pathogen B,Infection 2,likely,high certainty
-Assessor 12,Pathogen B,Exposure 1,very unlikely,high certainty
-Assessor 12,Pathogen B,Consequence to diversity,very unlikely,reasonable certainty
-Assessor 3,Pathogen A,Exposure 3,extremely unlikely,high certainty
-Assessor 4,Pathogen C,Exposure 2,likely,high certainty
-Assessor 11,Pathogen D,Infection 1,extremely unlikely,high certainty
-Assessor 9,Pathogen A,Exposure 3,unlikely,reasonable uncertainty
-Assessor 7,Pathogen A,Release 1,very unlikely,reasonable uncertainty
-Assessor 2,Pathogen B,Infection 1,unlikely,high uncertainty
-Assessor 2,Pathogen B,Exposure 1,very unlikely,reasonable certainty
-Assessor 10,Pathogen B,Exposure 3,unlikely,reasonable certainty
-Assessor 4,Pathogen A,Release 2,likely,high certainty
-Assessor 8,Pathogen D,Consequence to abundance,extremely unlikely,reasonable certainty
-Assessor 12,Pathogen A,Release 2,extremely likely,high certainty
-Assessor 9,Pathogen C,Exposure 1,unlikely,reasonable certainty
-Assessor 6,Pathogen C,Exposure 3,likely,reasonable uncertainty
-Assessor 3,Pathogen B,Exposure 1,very unlikely,high uncertainty
-Assessor 2,Pathogen B,Infection 3,extremely likely,high uncertainty
-Assessor 12,Pathogen C,Consequence to diversity,likely,reasonable uncertainty
-Assessor 7,Pathogen B,Release 1,extremely unlikely,high uncertainty
-Assessor 5,Pathogen B,Disease 1,unlikely,reasonable uncertainty
-Assessor 8,Pathogen D,Release 2,extremely unlikely,reasonable certainty
-Assessor 6,Pathogen C,Consequence to abundance,extremely unlikely,high certainty
-Assessor 5,Pathogen C,Release 1,very unlikely,reasonable uncertainty
-Assessor 5,Pathogen A,Consequence to diversity,unlikely,high certainty
-Assessor 6,Pathogen C,Disease 2,extremely likely,high certainty
-Assessor 9,Pathogen A,Exposure 3,very likely,reasonable certainty
-Assessor 1,Pathogen C,Infection 3,likely,high certainty
-Assessor 3,Pathogen C,Release 1,unlikely,reasonable certainty
-Assessor 11,Pathogen D,Disease 2,very likely,high certainty
-Assessor 4,Pathogen C,Consequence to diversity,extremely unlikely,reasonable uncertainty
-Assessor 12,Pathogen D,Release 1,very unlikely,reasonable uncertainty
-Assessor 11,Pathogen B,Consequence to abundance,unlikely,reasonable uncertainty
-Assessor 5,Pathogen A,Release 1,very likely,reasonable certainty
-Assessor 9,Pathogen B,Infection 2,extremely likely,reasonable certainty
-Assessor 7,Pathogen C,Infection 3,likely,high certainty
-Assessor 3,Pathogen D,Disease 1,likely,reasonable certainty
-Assessor 6,Pathogen C,Exposure 3,extremely unlikely,high certainty
-Assessor 7,Pathogen C,Disease 1,unlikely,reasonable certainty
-Assessor 11,Pathogen B,Release 2,extremely unlikely,reasonable certainty
-Assessor 12,Pathogen A,Consequence to abundance,unlikely,high uncertainty
-Assessor 8,Pathogen A,Consequence to abundance,unlikely,high certainty
-Assessor 11,Pathogen B,Infection 2,likely,reasonable certainty
-Assessor 1,Pathogen D,Infection 3,very likely,high certainty
-Assessor 7,Pathogen C,Consequence to diversity,very likely,reasonable certainty
-Assessor 5,Pathogen B,Infection 2,likely,reasonable uncertainty
-Assessor 6,Pathogen D,Disease 2,very likely,reasonable certainty
-Assessor 1,Pathogen C,Exposure 1,very likely,reasonable uncertainty
-Assessor 9,Pathogen D,Disease 2,extremely likely,reasonable certainty
-Assessor 9,Pathogen A,Exposure 2,extremely unlikely,high certainty
-Assessor 6,Pathogen B,Release 1,likely,reasonable certainty
-Assessor 9,Pathogen A,Exposure 1,extremely unlikely,reasonable uncertainty
-Assessor 10,Pathogen C,Infection 2,very likely,high certainty
-Assessor 7,Pathogen A,Exposure 3,likely,high certainty
-Assessor 1,Pathogen C,Consequence to abundance,extremely unlikely,reasonable uncertainty
-Assessor 11,Pathogen D,Exposure 1,very likely,reasonable uncertainty
-Assessor 10,Pathogen B,Consequence to diversity,extremely likely,high uncertainty
-Assessor 10,Pathogen D,Exposure 2,extremely likely,reasonable certainty
-Assessor 11,Pathogen C,Infection 2,extremely unlikely,reasonable certainty
-Assessor 9,Pathogen B,Release 2,likely,reasonable certainty
-Assessor 8,Pathogen B,Consequence to abundance,very likely,reasonable uncertainty
-Assessor 2,Pathogen B,Release 2,unlikely,high certainty
-Assessor 5,Pathogen D,Release 2,extremely likely,reasonable uncertainty
-Assessor 5,Pathogen A,Infection 2,extremely likely,high uncertainty
-Assessor 11,Pathogen A,Consequence to diversity,very unlikely,high certainty
-Assessor 4,Pathogen B,Exposure 2,likely,high certainty
-Assessor 10,Pathogen C,Disease 1,extremely likely,reasonable uncertainty
-Assessor 4,Pathogen A,Disease 1,unlikely,high certainty
-Assessor 5,Pathogen A,Infection 2,extremely likely,reasonable uncertainty
-Assessor 9,Pathogen D,Exposure 1,very likely,high uncertainty
-Assessor 3,Pathogen D,Infection 3,very unlikely,reasonable uncertainty
-Assessor 9,Pathogen D,Infection 2,likely,high uncertainty
-Assessor 8,Pathogen B,Exposure 3,likely,reasonable uncertainty
-Assessor 6,Pathogen C,Release 2,likely,reasonable uncertainty
-Assessor 1,Pathogen D,Disease 1,very unlikely,high certainty
-Assessor 6,Pathogen C,Consequence to diversity,extremely likely,reasonable uncertainty
-Assessor 3,Pathogen A,Infection 3,very unlikely,high uncertainty
-Assessor 7,Pathogen D,Disease 1,extremely likely,reasonable uncertainty
-Assessor 5,Pathogen D,Infection 2,very unlikely,reasonable uncertainty
-Assessor 5,Pathogen A,Infection 1,unlikely,reasonable certainty
-Assessor 1,Pathogen D,Infection 3,likely,high certainty
-Assessor 1,Pathogen D,Infection 3,very unlikely,reasonable uncertainty
-Assessor 9,Pathogen B,Exposure 1,very likely,reasonable uncertainty
-Assessor 2,Pathogen B,Release 1,likely,high certainty
-Assessor 4,Pathogen A,Disease 2,very likely,high certainty
-Assessor 11,Pathogen A,Exposure 1,very unlikely,high certainty
-Assessor 12,Pathogen B,Exposure 1,extremely likely,high certainty
-Assessor 6,Pathogen D,Infection 3,extremely likely,high uncertainty
-Assessor 7,Pathogen A,Disease 2,extremely likely,high certainty
-Assessor 9,Pathogen C,Disease 2,likely,high certainty
-Assessor 5,Pathogen D,Exposure 1,extremely unlikely,reasonable uncertainty
-Assessor 5,Pathogen C,Consequence to abundance,likely,reasonable certainty
-Assessor 1,Pathogen D,Consequence to abundance,unlikely,reasonable uncertainty
-Assessor 2,Pathogen B,Infection 1,unlikely,high certainty
-Assessor 10,Pathogen B,Exposure 1,extremely unlikely,high certainty
-Assessor 12,Pathogen C,Exposure 2,very likely,reasonable uncertainty
-Assessor 2,Pathogen C,Release 2,very likely,high uncertainty
-Assessor 4,Pathogen B,Consequence to diversity,likely,reasonable uncertainty
-Assessor 5,Pathogen A,Exposure 3,very unlikely,high certainty
-Assessor 2,Pathogen D,Disease 1,unlikely,high uncertainty
-Assessor 8,Pathogen D,Disease 2,very unlikely,reasonable certainty
-Assessor 3,Pathogen A,Release 2,very unlikely,high certainty
-Assessor 5,Pathogen A,Infection 3,very likely,reasonable uncertainty
-Assessor 8,Pathogen C,Infection 2,extremely unlikely,reasonable certainty
-Assessor 11,Pathogen B,Release 2,very likely,reasonable certainty
-Assessor 7,Pathogen C,Exposure 3,extremely likely,reasonable uncertainty
-Assessor 10,Pathogen B,Disease 1,unlikely,high uncertainty
-Assessor 10,Pathogen A,Disease 2,very likely,reasonable certainty
-Assessor 5,Pathogen D,Consequence to diversity,extremely unlikely,high certainty
-Assessor 10,Pathogen D,Exposure 1,likely,high uncertainty
-Assessor 7,Pathogen A,Disease 1,unlikely,high certainty
-Assessor 7,Pathogen D,Infection 2,extremely unlikely,high certainty
-Assessor 9,Pathogen A,Disease 2,very unlikely,high uncertainty
-Assessor 11,Pathogen D,Release 1,very unlikely,reasonable uncertainty
-Assessor 12,Pathogen A,Consequence to diversity,likely,high uncertainty
-Assessor 10,Pathogen D,Disease 2,likely,high certainty
-Assessor 3,Pathogen B,Exposure 2,likely,high uncertainty
-Assessor 8,Pathogen D,Disease 2,unlikely,reasonable certainty
-Assessor 4,Pathogen B,Infection 2,extremely unlikely,high certainty
-Assessor 3,Pathogen D,Exposure 2,very likely,reasonable uncertainty
-Assessor 3,Pathogen A,Release 1,likely,reasonable uncertainty
-Assessor 9,Pathogen D,Infection 3,extremely unlikely,high uncertainty
-Assessor 3,Pathogen A,Infection 2,extremely unlikely,reasonable certainty
-Assessor 3,Pathogen C,Consequence to abundance,very unlikely,high uncertainty
-Assessor 3,Pathogen D,Consequence to diversity,unlikely,reasonable uncertainty
-Assessor 8,Pathogen C,Exposure 2,extremely likely,reasonable uncertainty
-Assessor 6,Pathogen C,Infection 2,extremely unlikely,high uncertainty
-Assessor 7,Pathogen B,Consequence to abundance,extremely likely,high uncertainty
-Assessor 12,Pathogen A,Infection 1,likely,high certainty
-Assessor 11,Pathogen B,Exposure 3,very likely,high certainty
-Assessor 9,Pathogen C,Disease 2,very likely,reasonable certainty
-Assessor 4,Pathogen D,Consequence to abundance,unlikely,reasonable uncertainty
-Assessor 9,Pathogen D,Consequence to diversity,unlikely,reasonable uncertainty
-Assessor 6,Pathogen D,Infection 1,very likely,high uncertainty
-Assessor 6,Pathogen D,Consequence to abundance,unlikely,reasonable certainty
-Assessor 12,Pathogen D,Consequence to abundance,extremely likely,high certainty
-Assessor 9,Pathogen D,Infection 2,extremely unlikely,reasonable uncertainty
-Assessor 7,Pathogen D,Release 1,unlikely,high certainty
-Assessor 4,Pathogen C,Consequence to diversity,extremely unlikely,reasonable uncertainty
-Assessor 3,Pathogen A,Infection 2,likely,reasonable certainty
-Assessor 9,Pathogen A,Exposure 1,very unlikely,high certainty
-Assessor 3,Pathogen B,Infection 1,very unlikely,high certainty
-Assessor 3,Pathogen B,Infection 3,extremely unlikely,reasonable uncertainty
-Assessor 4,Pathogen D,Exposure 3,very unlikely,reasonable certainty
-Assessor 9,Pathogen B,Infection 3,extremely likely,high uncertainty
-Assessor 12,Pathogen B,Release 2,very unlikely,reasonable certainty
-Assessor 4,Pathogen A,Consequence to diversity,likely,high uncertainty
-Assessor 9,Pathogen D,Consequence to abundance,extremely likely,high uncertainty
-Assessor 9,Pathogen A,Release 1,very unlikely,high certainty
-Assessor 1,Pathogen C,Consequence to diversity,very unlikely,high certainty
-Assessor 11,Pathogen C,Consequence to abundance,very unlikely,reasonable uncertainty
-Assessor 8,Pathogen C,Disease 1,likely,reasonable uncertainty
-Assessor 7,Pathogen A,Infection 2,very likely,high uncertainty
-Assessor 3,Pathogen A,Disease 1,extremely likely,high uncertainty
-Assessor 7,Pathogen C,Exposure 2,unlikely,reasonable certainty
-Assessor 9,Pathogen C,Consequence to abundance,extremely likely,high certainty
-Assessor 8,Pathogen D,Exposure 2,extremely likely,reasonable uncertainty
-Assessor 10,Pathogen D,Disease 2,unlikely,reasonable uncertainty
-Assessor 6,Pathogen A,Disease 2,unlikely,reasonable uncertainty
-Assessor 3,Pathogen B,Exposure 2,extremely unlikely,high certainty
-Assessor 3,Pathogen D,Release 2,unlikely,reasonable certainty
-Assessor 9,Pathogen B,Release 1,likely,high uncertainty
-Assessor 6,Pathogen D,Release 2,very likely,reasonable certainty
-Assessor 7,Pathogen D,Infection 1,likely,reasonable uncertainty
-Assessor 4,Pathogen A,Release 1,very likely,high uncertainty
-Assessor 3,Pathogen A,Release 2,very likely,reasonable certainty
-Assessor 11,Pathogen C,Disease 2,extremely likely,high uncertainty
-Assessor 4,Pathogen C,Release 2,likely,high certainty
-Assessor 6,Pathogen D,Consequence to abundance,likely,reasonable certainty
-Assessor 11,Pathogen D,Infection 3,likely,high uncertainty
-Assessor 1,Pathogen D,Release 2,extremely unlikely,reasonable uncertainty
-Assessor 2,Pathogen D,Disease 1,likely,reasonable certainty
-Assessor 5,Pathogen A,Exposure 1,likely,reasonable certainty
-Assessor 8,Pathogen A,Exposure 1,extremely unlikely,reasonable certainty
-Assessor 4,Pathogen B,Consequence to abundance,extremely likely,high certainty
-Assessor 10,Pathogen C,Exposure 1,very unlikely,high uncertainty
-Assessor 12,Pathogen B,Disease 1,likely,reasonable certainty
-Assessor 10,Pathogen D,Infection 3,extremely likely,high uncertainty
-Assessor 8,Pathogen C,Infection 2,extremely unlikely,reasonable certainty
-Assessor 1,Pathogen B,Consequence to abundance,extremely unlikely,high certainty
-Assessor 2,Pathogen D,Exposure 2,likely,reasonable certainty
-Assessor 2,Pathogen B,Release 1,extremely likely,high uncertainty
-Assessor 2,Pathogen C,Exposure 2,very likely,high uncertainty
-Assessor 2,Pathogen A,Release 1,very unlikely,reasonable uncertainty
-Assessor 4,Pathogen C,Infection 2,very unlikely,high certainty
-Assessor 5,Pathogen C,Exposure 1,likely,high uncertainty
-Assessor 3,Pathogen A,Exposure 1,likely,reasonable uncertainty
-Assessor 8,Pathogen B,Consequence to diversity,likely,high certainty
-Assessor 2,Pathogen D,Release 2,likely,reasonable certainty
-Assessor 5,Pathogen A,Disease 2,extremely unlikely,reasonable uncertainty
-Assessor 2,Pathogen C,Disease 2,extremely likely,high certainty
-Assessor 9,Pathogen C,Infection 2,very likely,high uncertainty
-Assessor 5,Pathogen A,Release 1,likely,reasonable uncertainty
-Assessor 3,Pathogen B,Infection 2,unlikely,reasonable uncertainty
-Assessor 8,Pathogen A,Release 2,likely,reasonable uncertainty
-Assessor 6,Pathogen C,Exposure 3,very likely,high certainty
-Assessor 4,Pathogen C,Exposure 1,very likely,reasonable certainty
-Assessor 3,Pathogen D,Exposure 2,very likely,high certainty
-Assessor 4,Pathogen C,Infection 1,extremely likely,reasonable certainty
-Assessor 1,Pathogen A,Infection 3,very likely,reasonable uncertainty
-Assessor 9,Pathogen D,Disease 2,extremely likely,high certainty
-Assessor 1,Pathogen C,Infection 1,very likely,high certainty
-Assessor 4,Pathogen A,Infection 2,very likely,high uncertainty
-Assessor 6,Pathogen C,Infection 1,very unlikely,reasonable uncertainty
-Assessor 9,Pathogen D,Infection 2,likely,high certainty
-Assessor 10,Pathogen B,Exposure 1,unlikely,reasonable uncertainty
-Assessor 3,Pathogen C,Exposure 2,unlikely,high certainty
-Assessor 6,Pathogen C,Exposure 3,extremely likely,high certainty
-Assessor 9,Pathogen C,Exposure 3,very unlikely,reasonable certainty
-Assessor 1,Pathogen B,Infection 3,likely,reasonable certainty
-Assessor 10,Pathogen D,Exposure 2,very unlikely,high uncertainty
-Assessor 7,Pathogen C,Disease 2,extremely unlikely,reasonable certainty
-Assessor 6,Pathogen A,Infection 2,very likely,high certainty
-Assessor 3,Pathogen A,Consequence to diversity,extremely likely,high uncertainty
-Assessor 10,Pathogen B,Exposure 3,very likely,high uncertainty
-Assessor 11,Pathogen B,Infection 3,likely,high certainty
-Assessor 5,Pathogen A,Exposure 2,very likely,high uncertainty
-Assessor 3,Pathogen D,Exposure 3,likely,reasonable uncertainty
-Assessor 9,Pathogen A,Disease 2,very likely,reasonable certainty
-Assessor 9,Pathogen C,Infection 1,extremely unlikely,reasonable uncertainty
-Assessor 8,Pathogen D,Release 2,very unlikely,high uncertainty
-Assessor 5,Pathogen C,Exposure 2,extremely likely,high uncertainty
-Assessor 6,Pathogen D,Disease 2,likely,high uncertainty
-Assessor 3,Pathogen A,Infection 1,very likely,high certainty
-Assessor 2,Pathogen C,Infection 3,extremely unlikely,reasonable uncertainty
-Assessor 6,Pathogen C,Release 1,extremely unlikely,high certainty
-Assessor 6,Pathogen C,Consequence to diversity,extremely likely,reasonable uncertainty
-Assessor 7,Pathogen C,Infection 2,extremely unlikely,high certainty
-Assessor 8,Pathogen A,Infection 1,likely,high uncertainty
-Assessor 6,Pathogen C,Infection 3,extremely likely,reasonable certainty
-Assessor 10,Pathogen C,Consequence to diversity,very likely,high certainty
-Assessor 9,Pathogen B,Exposure 1,unlikely,reasonable uncertainty
-Assessor 5,Pathogen A,Release 2,likely,high uncertainty
-Assessor 10,Pathogen A,Consequence to abundance,very unlikely,reasonable uncertainty
-Assessor 9,Pathogen A,Disease 2,very likely,high uncertainty
-Assessor 6,Pathogen B,Release 1,extremely unlikely,reasonable uncertainty
-Assessor 9,Pathogen C,Disease 1,extremely likely,reasonable certainty
-Assessor 3,Pathogen A,Release 1,extremely likely,high certainty
-Assessor 12,Pathogen A,Exposure 1,very unlikely,reasonable uncertainty
-Assessor 1,Pathogen B,Consequence to diversity,very likely,high certainty
-Assessor 9,Pathogen B,Disease 2,extremely unlikely,reasonable uncertainty
-Assessor 4,Pathogen A,Release 2,likely,reasonable uncertainty
-Assessor 11,Pathogen C,Release 2,very unlikely,high certainty
-Assessor 8,Pathogen A,Exposure 3,unlikely,high certainty
-Assessor 3,Pathogen C,Exposure 2,extremely likely,reasonable uncertainty
-Assessor 12,Pathogen C,Exposure 1,very unlikely,reasonable certainty
-Assessor 12,Pathogen D,Release 2,extremely unlikely,reasonable certainty
-Assessor 4,Pathogen B,Consequence to abundance,very unlikely,reasonable uncertainty
-Assessor 2,Pathogen D,Consequence to diversity,unlikely,reasonable uncertainty
-Assessor 8,Pathogen C,Release 1,extremely unlikely,high uncertainty
-Assessor 9,Pathogen A,Release 2,extremely likely,high certainty
-Assessor 7,Pathogen D,Exposure 2,extremely likely,reasonable uncertainty
-Assessor 10,Pathogen B,Release 2,very unlikely,reasonable certainty
-Assessor 8,Pathogen D,Infection 1,likely,high certainty
-Assessor 1,Pathogen A,Consequence to abundance,likely,reasonable certainty
-Assessor 2,Pathogen A,Infection 3,unlikely,reasonable certainty
-Assessor 10,Pathogen C,Exposure 3,unlikely,reasonable certainty
-Assessor 8,Pathogen A,Consequence to diversity,extremely unlikely,high certainty
-Assessor 2,Pathogen A,Release 2,unlikely,reasonable uncertainty
-Assessor 2,Pathogen C,Release 2,very likely,high uncertainty
-Assessor 9,Pathogen C,Release 2,extremely unlikely,reasonable uncertainty
-Assessor 8,Pathogen A,Disease 2,very unlikely,reasonable uncertainty
-Assessor 1,Pathogen A,Infection 3,likely,high certainty
-Assessor 10,Pathogen A,Infection 2,very likely,reasonable certainty
-Assessor 8,Pathogen D,Infection 3,unlikely,high uncertainty
-Assessor 11,Pathogen B,Exposure 3,very likely,reasonable certainty
-Assessor 6,Pathogen D,Infection 2,unlikely,high uncertainty
-Assessor 1,Pathogen A,Consequence to abundance,likely,high uncertainty
-Assessor 4,Pathogen D,Exposure 2,very likely,reasonable certainty
-Assessor 12,Pathogen D,Release 2,likely,reasonable certainty
-Assessor 8,Pathogen B,Infection 2,extremely likely,high certainty
-Assessor 1,Pathogen B,Infection 1,very unlikely,reasonable uncertainty
-Assessor 9,Pathogen B,Release 1,extremely unlikely,high uncertainty
-Assessor 8,Pathogen A,Release 1,very likely,high certainty
-Assessor 7,Pathogen D,Infection 3,likely,reasonable uncertainty
-Assessor 11,Pathogen D,Exposure 1,very unlikely,reasonable certainty
-Assessor 5,Pathogen A,Release 1,unlikely,high uncertainty
-Assessor 3,Pathogen C,Exposure 3,extremely likely,high certainty
-Assessor 9,Pathogen A,Consequence to abundance,extremely unlikely,reasonable certainty
-Assessor 12,Pathogen A,Infection 2,very likely,high uncertainty
-Assessor 10,Pathogen C,Disease 1,extremely likely,high uncertainty
-Assessor 6,Pathogen D,Infection 3,unlikely,high uncertainty
-Assessor 9,Pathogen D,Exposure 3,likely,reasonable certainty
-Assessor 9,Pathogen D,Release 1,very unlikely,high uncertainty
-Assessor 2,Pathogen C,Exposure 3,likely,reasonable uncertainty
-Assessor 4,Pathogen D,Exposure 1,very likely,reasonable uncertainty
-Assessor 10,Pathogen D,Consequence to abundance,likely,high uncertainty
-Assessor 1,Pathogen D,Consequence to abundance,likely,reasonable uncertainty
-Assessor 11,Pathogen D,Release 2,extremely unlikely,reasonable certainty
-Assessor 3,Pathogen B,Exposure 2,very unlikely,reasonable uncertainty
-Assessor 12,Pathogen B,Consequence to abundance,very likely,high certainty
-Assessor 11,Pathogen C,Release 1,very likely,reasonable uncertainty
-Assessor 10,Pathogen A,Disease 2,very unlikely,reasonable uncertainty
-Assessor 10,Pathogen B,Consequence to diversity,extremely likely,high certainty
-Assessor 8,Pathogen B,Disease 2,extremely unlikely,high certainty
-Assessor 1,Pathogen B,Infection 1,extremely likely,high uncertainty
-Assessor 7,Pathogen A,Consequence to abundance,likely,reasonable certainty
-Assessor 10,Pathogen A,Exposure 1,extremely unlikely,reasonable certainty
-Assessor 11,Pathogen D,Release 1,very likely,high certainty
-Assessor 5,Pathogen D,Release 2,extremely likely,high uncertainty
-Assessor 11,Pathogen C,Exposure 3,very likely,reasonable uncertainty
-Assessor 11,Pathogen C,Disease 1,very unlikely,reasonable certainty
-Assessor 1,Pathogen B,Release 1,very unlikely,reasonable uncertainty
-Assessor 12,Pathogen B,Consequence to abundance,very likely,high uncertainty
-Assessor 6,Pathogen B,Disease 2,very likely,high certainty
-Assessor 10,Pathogen B,Infection 2,extremely likely,reasonable certainty
-Assessor 11,Pathogen C,Disease 2,extremely unlikely,high certainty
-Assessor 1,Pathogen C,Disease 2,extremely unlikely,high uncertainty
-Assessor 11,Pathogen C,Disease 2,unlikely,high certainty
-Assessor 11,Pathogen D,Consequence to abundance,very likely,reasonable uncertainty
-Assessor 6,Pathogen A,Consequence to diversity,extremely likely,reasonable certainty
-Assessor 8,Pathogen B,Infection 1,very likely,high certainty
-Assessor 5,Pathogen C,Release 2,extremely unlikely,high certainty
-Assessor 6,Pathogen B,Infection 2,likely,high certainty
-Assessor 5,Pathogen B,Release 1,likely,reasonable certainty
-Assessor 8,Pathogen A,Exposure 2,very unlikely,high uncertainty
-Assessor 7,Pathogen A,Exposure 1,likely,high uncertainty
-Assessor 9,Pathogen B,Disease 2,very unlikely,high uncertainty
-Assessor 10,Pathogen C,Infection 3,very unlikely,high certainty
-Assessor 2,Pathogen A,Release 1,extremely likely,high uncertainty
-Assessor 12,Pathogen B,Release 1,very unlikely,high uncertainty
-Assessor 1,Pathogen B,Disease 2,extremely likely,reasonable certainty
-Assessor 6,Pathogen D,Disease 1,unlikely,high uncertainty
-Assessor 12,Pathogen A,Release 1,unlikely,high uncertainty
-Assessor 12,Pathogen A,Release 1,unlikely,high certainty
-Assessor 6,Pathogen B,Consequence to diversity,very unlikely,high uncertainty
-Assessor 9,Pathogen C,Consequence to abundance,unlikely,reasonable uncertainty
-Assessor 2,Pathogen A,Infection 2,likely,high certainty
-Assessor 11,Pathogen D,Infection 1,unlikely,reasonable uncertainty
-Assessor 5,Pathogen C,Infection 2,extremely unlikely,high certainty
-Assessor 12,Pathogen D,Exposure 2,likely,reasonable uncertainty
-Assessor 1,Pathogen B,Consequence to diversity,likely,reasonable certainty
-Assessor 4,Pathogen D,Infection 1,likely,reasonable uncertainty
-Assessor 12,Pathogen A,Release 1,unlikely,high certainty
-Assessor 12,Pathogen B,Exposure 1,unlikely,high uncertainty
-Assessor 10,Pathogen A,Infection 2,extremely unlikely,high uncertainty
-Assessor 2,Pathogen B,Infection 3,very likely,reasonable uncertainty
+Assessor 7,Pathogen A,Release 2,Very likely,Reasonably uncertain
+Assessor 9,Pathogen A,Exposure 3,Very likely,Reasonably uncertain
+Assessor 4,Pathogen A,Exposure 1,Unlikely,Highly uncertain
+Assessor 12,Pathogen D,Infection 1,Likely,Reasonably certain
+Assessor 5,Pathogen B,Infection 1,Very likely,Reasonably uncertain
+Assessor 8,Pathogen D,Disease 2,Very likely,Reasonably certain
+Assessor 1,Pathogen B,Consequence to abundance,Extremely likely,Highly uncertain
+Assessor 7,Pathogen A,Release 1,Extremely unlikely,Reasonably certain
+Assessor 9,Pathogen B,Exposure 2,Unlikely,Highly uncertain
+Assessor 1,Pathogen B,Consequence to diversity,Extremely unlikely,Highly certain
+Assessor 1,Pathogen A,Infection 2,Very unlikely,Reasonably certain
+Assessor 9,Pathogen B,Exposure 1,Extremely likely,Reasonably certain
+Assessor 3,Pathogen C,Release 2,Very unlikely,Highly uncertain
+Assessor 6,Pathogen C,Exposure 1,Extremely unlikely,Reasonably certain
+Assessor 9,Pathogen B,Consequence to diversity,Very likely,Highly uncertain
+Assessor 6,Pathogen A,Release 1,Likely,Highly uncertain
+Assessor 12,Pathogen C,Disease 2,Very likely,Highly uncertain
+Assessor 4,Pathogen A,Infection 2,Likely,Reasonably uncertain
+Assessor 2,Pathogen A,Exposure 2,Very likely,Reasonably certain
+Assessor 11,Pathogen B,Exposure 1,Very unlikely,Highly uncertain
+Assessor 3,Pathogen D,Infection 3,Very likely,Reasonably uncertain
+Assessor 5,Pathogen B,Infection 3,Unlikely,Reasonably uncertain
+Assessor 1,Pathogen B,Infection 3,Unlikely,Highly uncertain
+Assessor 7,Pathogen D,Disease 1,Extremely likely,Highly certain
+Assessor 5,Pathogen D,Infection 1,Likely,Highly uncertain
+Assessor 10,Pathogen B,Release 1,Likely,Reasonably uncertain
+Assessor 10,Pathogen D,Infection 3,Unlikely,Highly uncertain
+Assessor 11,Pathogen B,Infection 3,Likely,Highly uncertain
+Assessor 5,Pathogen C,Disease 2,Unlikely,Reasonably certain
+Assessor 11,Pathogen A,Disease 2,Unlikely,Highly certain
+Assessor 4,Pathogen C,Consequence to abundance,Extremely likely,Reasonably uncertain
+Assessor 6,Pathogen D,Disease 1,Unlikely,Reasonably uncertain
+Assessor 9,Pathogen B,Disease 2,Extremely unlikely,Reasonably certain
+Assessor 3,Pathogen B,Exposure 1,Very likely,Reasonably certain
+Assessor 1,Pathogen A,Infection 2,Very unlikely,Highly uncertain
+Assessor 9,Pathogen C,Exposure 1,Very unlikely,Highly certain
+Assessor 2,Pathogen B,Disease 2,Very unlikely,Reasonably certain
+Assessor 11,Pathogen C,Release 2,Unlikely,Reasonably uncertain
+Assessor 12,Pathogen B,Exposure 3,Very likely,Reasonably certain
+Assessor 2,Pathogen D,Consequence to abundance,Extremely unlikely,Highly uncertain
+Assessor 12,Pathogen D,Infection 3,Very likely,Reasonably certain
+Assessor 7,Pathogen B,Infection 3,Extremely unlikely,Highly uncertain
+Assessor 3,Pathogen D,Disease 2,Unlikely,Highly certain
+Assessor 6,Pathogen A,Infection 2,Likely,Reasonably certain
+Assessor 1,Pathogen A,Infection 3,Very unlikely,Reasonably certain
+Assessor 10,Pathogen A,Infection 2,Unlikely,Reasonably uncertain
+Assessor 9,Pathogen B,Release 2,Likely,Reasonably uncertain
+Assessor 11,Pathogen D,Consequence to abundance,Very unlikely,Reasonably uncertain
+Assessor 10,Pathogen D,Release 2,Extremely likely,Highly certain
+Assessor 5,Pathogen C,Exposure 1,Unlikely,Reasonably certain
+Assessor 4,Pathogen A,Infection 2,Likely,Highly certain
+Assessor 12,Pathogen A,Disease 2,Extremely likely,Highly uncertain
+Assessor 4,Pathogen C,Infection 2,Extremely likely,Highly certain
+Assessor 1,Pathogen C,Infection 2,Extremely unlikely,Reasonably certain
+Assessor 2,Pathogen D,Consequence to abundance,Very unlikely,Highly certain
+Assessor 10,Pathogen A,Release 1,Extremely likely,Reasonably certain
+Assessor 12,Pathogen B,Disease 2,Very unlikely,Highly certain
+Assessor 12,Pathogen D,Release 1,Extremely unlikely,Highly uncertain
+Assessor 6,Pathogen D,Exposure 1,Unlikely,Highly uncertain
+Assessor 6,Pathogen B,Infection 1,Unlikely,Highly uncertain
+Assessor 10,Pathogen C,Release 1,Very unlikely,Reasonably certain
+Assessor 2,Pathogen A,Infection 3,Likely,Highly certain
+Assessor 7,Pathogen B,Consequence to diversity,Extremely unlikely,Highly uncertain
+Assessor 8,Pathogen D,Consequence to diversity,Likely,Reasonably uncertain
+Assessor 10,Pathogen A,Disease 2,Very unlikely,Highly uncertain
+Assessor 5,Pathogen A,Release 1,Very unlikely,Highly uncertain
+Assessor 7,Pathogen B,Disease 1,Extremely likely,Highly certain
+Assessor 7,Pathogen D,Exposure 2,Extremely likely,Highly uncertain
+Assessor 1,Pathogen C,Release 2,Very likely,Reasonably certain
+Assessor 1,Pathogen C,Release 1,Very unlikely,Reasonably certain
+Assessor 3,Pathogen C,Infection 2,Very unlikely,Highly certain
+Assessor 1,Pathogen A,Exposure 3,Very unlikely,Reasonably uncertain
+Assessor 7,Pathogen A,Disease 1,Unlikely,Highly uncertain
+Assessor 8,Pathogen A,Exposure 3,Very unlikely,Highly certain
+Assessor 7,Pathogen A,Exposure 3,Unlikely,Reasonably certain
+Assessor 6,Pathogen C,Disease 2,Very unlikely,Highly certain
+Assessor 7,Pathogen B,Exposure 3,Extremely likely,Highly certain
+Assessor 1,Pathogen B,Release 2,Extremely unlikely,Reasonably uncertain
+Assessor 5,Pathogen D,Disease 1,Extremely unlikely,Reasonably certain
+Assessor 2,Pathogen B,Infection 2,Very unlikely,Reasonably uncertain
+Assessor 7,Pathogen D,Disease 2,Extremely unlikely,Highly certain
+Assessor 7,Pathogen A,Release 2,Likely,Reasonably certain
+Assessor 2,Pathogen C,Infection 3,Very unlikely,Highly uncertain
+Assessor 5,Pathogen D,Infection 3,Extremely likely,Reasonably certain
+Assessor 3,Pathogen C,Release 2,Very unlikely,Highly uncertain
+Assessor 4,Pathogen A,Infection 2,Unlikely,Reasonably certain
+Assessor 4,Pathogen B,Disease 1,Extremely likely,Highly certain
+Assessor 6,Pathogen A,Exposure 2,Very unlikely,Highly uncertain
+Assessor 7,Pathogen D,Exposure 2,Extremely unlikely,Highly uncertain
+Assessor 8,Pathogen C,Infection 1,Extremely likely,Highly uncertain
+Assessor 7,Pathogen C,Infection 1,Very unlikely,Reasonably uncertain
+Assessor 7,Pathogen D,Infection 3,Extremely likely,Reasonably certain
+Assessor 1,Pathogen C,Disease 1,Unlikely,Reasonably certain
+Assessor 11,Pathogen C,Exposure 3,Very likely,Reasonably certain
+Assessor 2,Pathogen A,Release 1,Very unlikely,Highly certain
+Assessor 11,Pathogen D,Consequence to diversity,Unlikely,Highly uncertain
+Assessor 6,Pathogen C,Infection 2,Very likely,Reasonably certain
+Assessor 8,Pathogen D,Infection 1,Extremely unlikely,Highly uncertain
+Assessor 2,Pathogen B,Disease 2,Likely,Highly uncertain
+Assessor 9,Pathogen B,Infection 2,Likely,Highly uncertain
+Assessor 5,Pathogen B,Disease 2,Likely,Reasonably uncertain
+Assessor 6,Pathogen D,Exposure 2,Extremely unlikely,Reasonably certain
+Assessor 11,Pathogen D,Exposure 2,Extremely likely,Highly certain
+Assessor 5,Pathogen A,Disease 2,Very likely,Highly uncertain
+Assessor 6,Pathogen A,Infection 1,Extremely unlikely,Highly certain
+Assessor 5,Pathogen C,Infection 2,Extremely likely,Reasonably certain
+Assessor 10,Pathogen C,Consequence to abundance,Likely,Reasonably uncertain
+Assessor 11,Pathogen A,Release 2,Very likely,Highly certain
+Assessor 5,Pathogen C,Release 2,Extremely likely,Reasonably uncertain
+Assessor 12,Pathogen C,Exposure 1,Extremely likely,Highly certain
+Assessor 6,Pathogen B,Consequence to diversity,Extremely likely,Highly uncertain
+Assessor 5,Pathogen B,Consequence to abundance,Extremely likely,Highly uncertain
+Assessor 5,Pathogen C,Release 1,Unlikely,Highly uncertain
+Assessor 5,Pathogen B,Disease 1,Extremely unlikely,Reasonably uncertain
+Assessor 5,Pathogen A,Infection 1,Extremely likely,Reasonably uncertain
+Assessor 4,Pathogen D,Consequence to abundance,Likely,Reasonably certain
+Assessor 3,Pathogen D,Release 1,Unlikely,Reasonably certain
+Assessor 2,Pathogen A,Exposure 3,Likely,Highly uncertain
+Assessor 9,Pathogen B,Consequence to diversity,Very likely,Highly uncertain
+Assessor 10,Pathogen D,Consequence to diversity,Extremely unlikely,Reasonably certain
+Assessor 8,Pathogen A,Release 2,Extremely likely,Reasonably uncertain
+Assessor 9,Pathogen B,Infection 2,Very unlikely,Highly certain
+Assessor 5,Pathogen A,Exposure 1,Extremely unlikely,Highly uncertain
+Assessor 8,Pathogen B,Consequence to abundance,Very unlikely,Reasonably certain
+Assessor 1,Pathogen A,Infection 1,Extremely likely,Reasonably uncertain
+Assessor 11,Pathogen C,Infection 1,Likely,Highly certain
+Assessor 6,Pathogen B,Exposure 1,Unlikely,Reasonably certain
+Assessor 2,Pathogen A,Consequence to abundance,Extremely likely,Highly uncertain
+Assessor 5,Pathogen C,Disease 2,Very likely,Highly certain
+Assessor 11,Pathogen D,Infection 1,Very likely,Reasonably certain
+Assessor 4,Pathogen C,Exposure 2,Likely,Reasonably uncertain
+Assessor 7,Pathogen C,Release 2,Extremely unlikely,Highly uncertain
+Assessor 3,Pathogen C,Disease 1,Extremely unlikely,Highly uncertain
+Assessor 12,Pathogen D,Release 1,Very unlikely,Highly certain
+Assessor 4,Pathogen B,Consequence to diversity,Likely,Highly certain
+Assessor 8,Pathogen A,Release 2,Likely,Highly certain
+Assessor 7,Pathogen A,Exposure 2,Likely,Reasonably certain
+Assessor 7,Pathogen B,Release 2,Very likely,Reasonably certain
+Assessor 7,Pathogen C,Exposure 3,Likely,Reasonably certain
+Assessor 9,Pathogen A,Disease 2,Very unlikely,Reasonably uncertain
+Assessor 11,Pathogen B,Infection 3,Extremely unlikely,Reasonably certain
+Assessor 5,Pathogen D,Infection 3,Unlikely,Reasonably uncertain
+Assessor 8,Pathogen B,Consequence to abundance,Likely,Highly uncertain
+Assessor 6,Pathogen D,Infection 2,Extremely unlikely,Highly certain
+Assessor 3,Pathogen D,Exposure 3,Very unlikely,Reasonably uncertain
+Assessor 7,Pathogen A,Consequence to diversity,Extremely unlikely,Reasonably uncertain
+Assessor 1,Pathogen A,Infection 1,Likely,Highly certain
+Assessor 7,Pathogen A,Release 1,Likely,Highly uncertain
+Assessor 11,Pathogen B,Exposure 3,Extremely unlikely,Highly certain
+Assessor 4,Pathogen D,Consequence to diversity,Unlikely,Reasonably certain
+Assessor 9,Pathogen C,Infection 3,Extremely likely,Highly uncertain
+Assessor 11,Pathogen B,Release 1,Extremely unlikely,Reasonably uncertain
+Assessor 7,Pathogen B,Exposure 2,Extremely unlikely,Reasonably uncertain
+Assessor 3,Pathogen B,Infection 2,Very unlikely,Highly certain
+Assessor 1,Pathogen C,Consequence to diversity,Extremely likely,Reasonably uncertain
+Assessor 2,Pathogen B,Exposure 1,Unlikely,Highly certain
+Assessor 11,Pathogen B,Exposure 2,Very likely,Reasonably uncertain
+Assessor 2,Pathogen B,Exposure 2,Extremely likely,Highly certain
+Assessor 3,Pathogen C,Infection 3,Likely,Highly uncertain
+Assessor 4,Pathogen D,Release 2,Extremely unlikely,Highly certain
+Assessor 1,Pathogen B,Infection 1,Very likely,Reasonably certain
+Assessor 6,Pathogen A,Exposure 2,Extremely unlikely,Reasonably uncertain
+Assessor 5,Pathogen D,Exposure 2,Extremely likely,Reasonably certain
+Assessor 11,Pathogen D,Infection 1,Very likely,Highly certain
+Assessor 8,Pathogen B,Infection 2,Extremely unlikely,Highly certain
+Assessor 1,Pathogen A,Infection 1,Extremely unlikely,Highly uncertain
+Assessor 8,Pathogen C,Consequence to diversity,Very unlikely,Highly uncertain
+Assessor 4,Pathogen C,Infection 1,Very likely,Reasonably uncertain
+Assessor 11,Pathogen B,Release 1,Likely,Reasonably certain
+Assessor 1,Pathogen D,Release 2,Unlikely,Highly certain
+Assessor 12,Pathogen D,Infection 2,Extremely likely,Reasonably uncertain
+Assessor 7,Pathogen B,Disease 2,Likely,Highly uncertain
+Assessor 8,Pathogen C,Disease 1,Extremely likely,Reasonably uncertain
+Assessor 12,Pathogen C,Release 1,Very likely,Highly certain
+Assessor 9,Pathogen B,Exposure 1,Very likely,Highly certain
+Assessor 3,Pathogen C,Exposure 3,Extremely unlikely,Highly certain
+Assessor 5,Pathogen B,Exposure 3,Likely,Highly uncertain
+Assessor 9,Pathogen C,Disease 1,Extremely unlikely,Reasonably certain
+Assessor 8,Pathogen B,Consequence to abundance,Extremely unlikely,Reasonably certain
+Assessor 3,Pathogen D,Consequence to diversity,Very likely,Reasonably certain
+Assessor 10,Pathogen C,Exposure 1,Very likely,Highly certain
+Assessor 6,Pathogen C,Consequence to diversity,Unlikely,Highly uncertain
+Assessor 10,Pathogen A,Disease 1,Likely,Reasonably certain
+Assessor 8,Pathogen D,Infection 1,Very unlikely,Highly certain
+Assessor 4,Pathogen D,Release 1,Likely,Highly certain
+Assessor 12,Pathogen A,Consequence to diversity,Unlikely,Reasonably uncertain
+Assessor 7,Pathogen B,Exposure 2,Extremely likely,Highly certain
+Assessor 5,Pathogen B,Exposure 3,Extremely unlikely,Highly certain
+Assessor 12,Pathogen B,Infection 3,Unlikely,Highly uncertain
+Assessor 10,Pathogen B,Infection 2,Extremely unlikely,Reasonably uncertain
+Assessor 6,Pathogen D,Exposure 3,Unlikely,Reasonably certain
+Assessor 5,Pathogen D,Exposure 3,Very likely,Highly certain
+Assessor 3,Pathogen D,Release 2,Very likely,Highly certain
+Assessor 11,Pathogen A,Consequence to diversity,Unlikely,Reasonably uncertain
+Assessor 8,Pathogen C,Consequence to diversity,Extremely unlikely,Reasonably certain
+Assessor 10,Pathogen B,Infection 2,Unlikely,Highly certain
+Assessor 10,Pathogen C,Infection 3,Unlikely,Reasonably uncertain
+Assessor 10,Pathogen B,Infection 2,Unlikely,Reasonably certain
+Assessor 7,Pathogen C,Infection 3,Likely,Highly uncertain
+Assessor 5,Pathogen B,Infection 3,Very likely,Highly uncertain
+Assessor 6,Pathogen B,Infection 2,Extremely likely,Reasonably certain
+Assessor 6,Pathogen A,Infection 2,Very unlikely,Highly certain
+Assessor 4,Pathogen C,Disease 1,Extremely likely,Reasonably uncertain
+Assessor 5,Pathogen B,Disease 1,Very unlikely,Highly certain
+Assessor 5,Pathogen D,Exposure 1,Very unlikely,Reasonably uncertain
+Assessor 12,Pathogen A,Consequence to abundance,Very unlikely,Highly certain
+Assessor 8,Pathogen D,Consequence to abundance,Extremely likely,Reasonably uncertain
+Assessor 1,Pathogen D,Infection 2,Likely,Reasonably certain
+Assessor 8,Pathogen C,Release 2,Extremely unlikely,Reasonably certain
+Assessor 10,Pathogen A,Exposure 3,Likely,Highly certain
+Assessor 9,Pathogen C,Release 1,Extremely unlikely,Reasonably uncertain
+Assessor 4,Pathogen D,Disease 2,Unlikely,Reasonably certain
+Assessor 4,Pathogen C,Infection 3,Unlikely,Reasonably uncertain
+Assessor 1,Pathogen B,Release 1,Extremely unlikely,Reasonably certain
+Assessor 1,Pathogen A,Exposure 1,Very unlikely,Reasonably certain
+Assessor 7,Pathogen A,Consequence to diversity,Extremely likely,Highly certain
+Assessor 3,Pathogen C,Exposure 3,Likely,Reasonably uncertain
+Assessor 2,Pathogen C,Infection 1,Very unlikely,Reasonably certain
+Assessor 2,Pathogen A,Disease 2,Extremely likely,Highly uncertain
+Assessor 2,Pathogen A,Exposure 1,Extremely likely,Highly uncertain
+Assessor 8,Pathogen B,Infection 3,Extremely unlikely,Highly certain
+Assessor 5,Pathogen B,Infection 1,Unlikely,Reasonably uncertain
+Assessor 11,Pathogen B,Infection 1,Very likely,Highly certain
+Assessor 1,Pathogen C,Disease 1,Very unlikely,Reasonably certain
+Assessor 6,Pathogen D,Exposure 1,Very unlikely,Highly uncertain
+Assessor 1,Pathogen C,Disease 1,Very likely,Highly certain
+Assessor 2,Pathogen C,Disease 2,Very likely,Highly certain
+Assessor 9,Pathogen B,Disease 1,Very unlikely,Highly uncertain
+Assessor 10,Pathogen B,Release 2,Extremely likely,Reasonably certain
+Assessor 9,Pathogen A,Exposure 3,Unlikely,Reasonably uncertain
+Assessor 6,Pathogen C,Consequence to abundance,Extremely likely,Reasonably uncertain
+Assessor 5,Pathogen A,Release 1,Extremely likely,Highly uncertain
+Assessor 9,Pathogen D,Disease 1,Extremely likely,Highly uncertain
+Assessor 5,Pathogen B,Exposure 3,Extremely likely,Reasonably uncertain
+Assessor 3,Pathogen B,Exposure 3,Likely,Highly uncertain
+Assessor 10,Pathogen D,Consequence to diversity,Extremely unlikely,Highly uncertain
+Assessor 1,Pathogen D,Exposure 2,Extremely unlikely,Reasonably uncertain
+Assessor 9,Pathogen A,Consequence to diversity,Likely,Highly certain
+Assessor 1,Pathogen D,Exposure 3,Extremely likely,Highly certain
+Assessor 8,Pathogen A,Exposure 3,Extremely likely,Reasonably uncertain
+Assessor 9,Pathogen D,Exposure 3,Very unlikely,Highly uncertain
+Assessor 12,Pathogen C,Release 2,Unlikely,Highly uncertain
+Assessor 5,Pathogen A,Release 2,Very unlikely,Highly certain
+Assessor 9,Pathogen D,Disease 2,Very likely,Reasonably uncertain
+Assessor 8,Pathogen A,Exposure 2,Very likely,Highly certain
+Assessor 10,Pathogen D,Exposure 3,Very unlikely,Reasonably uncertain
+Assessor 4,Pathogen D,Exposure 3,Extremely unlikely,Reasonably uncertain
+Assessor 2,Pathogen D,Disease 2,Extremely unlikely,Highly certain
+Assessor 8,Pathogen A,Exposure 1,Extremely likely,Highly uncertain
+Assessor 8,Pathogen B,Infection 1,Extremely unlikely,Highly certain
+Assessor 9,Pathogen D,Release 1,Very likely,Highly uncertain
+Assessor 8,Pathogen C,Disease 1,Very unlikely,Reasonably certain
+Assessor 7,Pathogen A,Disease 2,Unlikely,Highly uncertain
+Assessor 9,Pathogen D,Disease 1,Very likely,Reasonably uncertain
+Assessor 6,Pathogen D,Disease 1,Extremely likely,Highly uncertain
+Assessor 3,Pathogen C,Infection 1,Extremely unlikely,Reasonably uncertain
+Assessor 1,Pathogen A,Infection 3,Very likely,Reasonably certain
+Assessor 1,Pathogen D,Infection 2,Very likely,Reasonably certain
+Assessor 1,Pathogen C,Disease 2,Extremely unlikely,Highly uncertain
+Assessor 12,Pathogen C,Exposure 1,Very likely,Reasonably uncertain
+Assessor 11,Pathogen D,Infection 2,Extremely likely,Highly uncertain
+Assessor 5,Pathogen A,Exposure 1,Very likely,Highly uncertain
+Assessor 8,Pathogen C,Infection 2,Very unlikely,Reasonably certain
+Assessor 8,Pathogen B,Exposure 1,Very unlikely,Highly uncertain
+Assessor 4,Pathogen D,Disease 1,Extremely unlikely,Highly uncertain
+Assessor 1,Pathogen B,Release 2,Likely,Reasonably certain
+Assessor 1,Pathogen C,Release 1,Unlikely,Reasonably certain
+Assessor 2,Pathogen B,Disease 2,Extremely likely,Highly certain
+Assessor 8,Pathogen B,Exposure 3,Likely,Highly certain
+Assessor 6,Pathogen A,Disease 1,Extremely likely,Highly certain
+Assessor 2,Pathogen A,Exposure 1,Unlikely,Highly certain
+Assessor 4,Pathogen C,Consequence to abundance,Very unlikely,Reasonably certain
+Assessor 7,Pathogen C,Exposure 2,Extremely likely,Highly certain
+Assessor 1,Pathogen C,Release 2,Unlikely,Highly uncertain
+Assessor 7,Pathogen B,Release 1,Extremely unlikely,Reasonably certain
+Assessor 9,Pathogen A,Infection 3,Very likely,Reasonably certain
+Assessor 12,Pathogen A,Consequence to diversity,Very likely,Highly uncertain
+Assessor 4,Pathogen B,Exposure 3,Unlikely,Highly uncertain
+Assessor 1,Pathogen B,Disease 1,Extremely unlikely,Reasonably uncertain
+Assessor 9,Pathogen C,Exposure 3,Extremely likely,Highly certain
+Assessor 9,Pathogen B,Exposure 1,Unlikely,Highly uncertain
+Assessor 1,Pathogen D,Exposure 3,Very unlikely,Reasonably uncertain
+Assessor 7,Pathogen B,Release 1,Likely,Highly uncertain
+Assessor 12,Pathogen D,Exposure 1,Very likely,Highly uncertain
+Assessor 1,Pathogen C,Exposure 3,Extremely likely,Reasonably uncertain
+Assessor 4,Pathogen D,Infection 2,Very likely,Reasonably certain
+Assessor 5,Pathogen B,Infection 3,Likely,Reasonably uncertain
+Assessor 9,Pathogen B,Disease 1,Very likely,Highly certain
+Assessor 7,Pathogen A,Infection 1,Likely,Reasonably certain
+Assessor 3,Pathogen D,Infection 3,Unlikely,Highly uncertain
+Assessor 12,Pathogen B,Exposure 2,Very unlikely,Highly certain
+Assessor 10,Pathogen A,Consequence to abundance,Very unlikely,Reasonably certain
+Assessor 11,Pathogen B,Disease 1,Very unlikely,Reasonably uncertain
+Assessor 5,Pathogen C,Infection 2,Very unlikely,Reasonably certain
+Assessor 3,Pathogen B,Release 2,Extremely unlikely,Reasonably uncertain
+Assessor 1,Pathogen A,Exposure 2,Unlikely,Highly uncertain
+Assessor 3,Pathogen C,Infection 3,Extremely likely,Reasonably certain
+Assessor 11,Pathogen C,Release 1,Extremely unlikely,Reasonably certain
+Assessor 8,Pathogen C,Consequence to diversity,Extremely likely,Reasonably uncertain
+Assessor 2,Pathogen D,Release 1,Very unlikely,Reasonably certain
+Assessor 2,Pathogen C,Consequence to diversity,Very unlikely,Highly uncertain
+Assessor 2,Pathogen B,Exposure 1,Unlikely,Reasonably uncertain
+Assessor 6,Pathogen C,Consequence to abundance,Very unlikely,Highly certain
+Assessor 9,Pathogen C,Infection 2,Very likely,Reasonably certain
+Assessor 12,Pathogen B,Infection 1,Extremely unlikely,Reasonably certain
+Assessor 1,Pathogen D,Infection 1,Extremely unlikely,Highly uncertain
+Assessor 8,Pathogen D,Infection 1,Unlikely,Highly certain
+Assessor 5,Pathogen A,Disease 1,Likely,Reasonably certain
+Assessor 7,Pathogen C,Infection 3,Likely,Highly certain
+Assessor 5,Pathogen C,Exposure 2,Very unlikely,Reasonably uncertain
+Assessor 4,Pathogen A,Release 1,Very likely,Reasonably certain
+Assessor 11,Pathogen C,Consequence to diversity,Extremely unlikely,Reasonably uncertain
+Assessor 5,Pathogen C,Disease 2,Very unlikely,Highly uncertain
+Assessor 11,Pathogen A,Infection 1,Very likely,Highly uncertain
+Assessor 3,Pathogen D,Disease 1,Unlikely,Reasonably certain
+Assessor 12,Pathogen B,Disease 2,Extremely likely,Highly uncertain
+Assessor 5,Pathogen C,Infection 3,Extremely likely,Reasonably certain
+Assessor 4,Pathogen A,Exposure 2,Extremely likely,Reasonably certain
+Assessor 6,Pathogen C,Release 2,Extremely likely,Highly certain
+Assessor 7,Pathogen A,Infection 2,Very unlikely,Highly certain
+Assessor 12,Pathogen B,Disease 1,Very likely,Highly uncertain
+Assessor 12,Pathogen D,Consequence to abundance,Very likely,Reasonably certain
+Assessor 10,Pathogen B,Disease 2,Very unlikely,Reasonably uncertain
+Assessor 3,Pathogen A,Disease 2,Very unlikely,Reasonably uncertain
+Assessor 4,Pathogen B,Consequence to diversity,Very unlikely,Highly uncertain
+Assessor 4,Pathogen C,Consequence to abundance,Very likely,Highly uncertain
+Assessor 8,Pathogen C,Release 1,Likely,Highly certain
+Assessor 4,Pathogen A,Exposure 3,Very likely,Highly uncertain
+Assessor 3,Pathogen A,Disease 2,Unlikely,Highly uncertain
+Assessor 11,Pathogen C,Infection 1,Unlikely,Reasonably certain
+Assessor 2,Pathogen A,Infection 1,Very unlikely,Highly certain
+Assessor 8,Pathogen C,Infection 3,Very likely,Reasonably certain
+Assessor 9,Pathogen D,Disease 1,Extremely likely,Reasonably certain
+Assessor 12,Pathogen C,Release 1,Extremely likely,Reasonably uncertain
+Assessor 5,Pathogen D,Release 2,Likely,Highly certain
+Assessor 5,Pathogen C,Release 2,Likely,Highly certain
+Assessor 11,Pathogen B,Infection 3,Extremely likely,Highly certain
+Assessor 10,Pathogen B,Release 1,Extremely unlikely,Highly uncertain
+Assessor 9,Pathogen A,Infection 3,Very likely,Highly certain
+Assessor 12,Pathogen B,Consequence to abundance,Very likely,Reasonably certain
+Assessor 8,Pathogen B,Release 2,Likely,Reasonably uncertain
+Assessor 7,Pathogen B,Infection 3,Extremely unlikely,Highly uncertain
+Assessor 6,Pathogen A,Disease 2,Extremely likely,Reasonably uncertain
+Assessor 4,Pathogen C,Infection 2,Likely,Highly certain
+Assessor 5,Pathogen A,Release 2,Unlikely,Reasonably certain
+Assessor 10,Pathogen C,Disease 2,Unlikely,Reasonably certain
+Assessor 1,Pathogen C,Exposure 3,Likely,Reasonably uncertain
+Assessor 1,Pathogen B,Exposure 3,Very likely,Reasonably certain
+Assessor 6,Pathogen B,Consequence to abundance,Likely,Reasonably certain
+Assessor 7,Pathogen B,Infection 3,Extremely unlikely,Reasonably uncertain
+Assessor 11,Pathogen C,Disease 2,Likely,Reasonably certain
+Assessor 3,Pathogen B,Infection 2,Very likely,Highly uncertain
+Assessor 10,Pathogen D,Disease 1,Very unlikely,Reasonably uncertain
+Assessor 3,Pathogen B,Consequence to diversity,Very unlikely,Reasonably certain
+Assessor 12,Pathogen C,Release 2,Likely,Reasonably certain
+Assessor 9,Pathogen D,Exposure 2,Extremely unlikely,Reasonably uncertain
+Assessor 1,Pathogen A,Consequence to diversity,Extremely likely,Highly certain
+Assessor 4,Pathogen A,Disease 2,Extremely likely,Reasonably uncertain
+Assessor 6,Pathogen D,Disease 1,Unlikely,Highly certain
+Assessor 9,Pathogen A,Consequence to abundance,Extremely unlikely,Highly uncertain
+Assessor 8,Pathogen D,Consequence to abundance,Very unlikely,Highly certain
+Assessor 2,Pathogen C,Consequence to abundance,Very unlikely,Highly certain
+Assessor 3,Pathogen A,Exposure 1,Extremely unlikely,Highly uncertain
+Assessor 2,Pathogen A,Exposure 1,Extremely likely,Highly certain
+Assessor 7,Pathogen D,Infection 1,Extremely likely,Highly uncertain
+Assessor 4,Pathogen D,Disease 1,Extremely unlikely,Highly uncertain
+Assessor 6,Pathogen A,Release 1,Very unlikely,Highly uncertain
+Assessor 4,Pathogen C,Infection 2,Extremely unlikely,Highly uncertain
+Assessor 10,Pathogen B,Disease 2,Likely,Highly uncertain
+Assessor 3,Pathogen A,Exposure 3,Very likely,Reasonably uncertain
+Assessor 3,Pathogen D,Infection 1,Likely,Highly certain
+Assessor 2,Pathogen A,Consequence to diversity,Likely,Highly uncertain
+Assessor 3,Pathogen B,Infection 1,Unlikely,Highly uncertain
+Assessor 8,Pathogen B,Release 1,Likely,Highly certain
+Assessor 4,Pathogen D,Infection 1,Very unlikely,Reasonably certain
+Assessor 8,Pathogen C,Disease 1,Very likely,Reasonably certain
+Assessor 6,Pathogen C,Disease 2,Very likely,Reasonably certain
+Assessor 3,Pathogen D,Infection 2,Extremely likely,Reasonably uncertain
+Assessor 2,Pathogen B,Infection 1,Unlikely,Highly certain
+Assessor 12,Pathogen A,Disease 2,Very unlikely,Reasonably certain
+Assessor 5,Pathogen C,Exposure 2,Likely,Reasonably uncertain
+Assessor 5,Pathogen C,Infection 1,Unlikely,Highly uncertain
+Assessor 11,Pathogen C,Infection 3,Extremely unlikely,Reasonably uncertain
+Assessor 11,Pathogen C,Exposure 3,Very unlikely,Reasonably uncertain
+Assessor 1,Pathogen D,Exposure 2,Very likely,Reasonably uncertain
+Assessor 4,Pathogen B,Infection 2,Extremely unlikely,Reasonably certain
+Assessor 4,Pathogen A,Infection 1,Extremely likely,Highly uncertain
+Assessor 9,Pathogen A,Consequence to abundance,Unlikely,Highly certain
+Assessor 1,Pathogen D,Consequence to abundance,Extremely unlikely,Reasonably uncertain
+Assessor 11,Pathogen D,Infection 1,Extremely unlikely,Reasonably certain
+Assessor 1,Pathogen B,Exposure 2,Extremely likely,Reasonably uncertain
+Assessor 8,Pathogen A,Release 2,Likely,Highly certain
+Assessor 4,Pathogen D,Release 1,Likely,Highly certain
+Assessor 6,Pathogen A,Consequence to diversity,Extremely likely,Reasonably certain
+Assessor 2,Pathogen B,Disease 2,Extremely likely,Highly uncertain
+Assessor 8,Pathogen D,Consequence to abundance,Very unlikely,Highly certain
+Assessor 9,Pathogen B,Exposure 1,Likely,Reasonably uncertain
+Assessor 12,Pathogen B,Exposure 2,Very likely,Reasonably uncertain
+Assessor 11,Pathogen C,Exposure 1,Likely,Reasonably certain
+Assessor 7,Pathogen A,Consequence to diversity,Very unlikely,Highly certain
+Assessor 4,Pathogen D,Exposure 1,Very likely,Highly certain
+Assessor 11,Pathogen C,Disease 1,Very likely,Reasonably uncertain
+Assessor 9,Pathogen B,Release 1,Unlikely,Reasonably uncertain
+Assessor 11,Pathogen D,Release 2,Very likely,Highly uncertain
+Assessor 4,Pathogen D,Consequence to diversity,Very unlikely,Reasonably uncertain
+Assessor 2,Pathogen C,Infection 2,Very likely,Highly certain
+Assessor 6,Pathogen A,Release 1,Extremely unlikely,Reasonably uncertain
+Assessor 3,Pathogen B,Disease 1,Likely,Highly certain
+Assessor 8,Pathogen D,Disease 1,Unlikely,Highly uncertain
+Assessor 8,Pathogen C,Exposure 1,Very unlikely,Reasonably uncertain
+Assessor 3,Pathogen D,Infection 1,Likely,Highly certain
+Assessor 8,Pathogen C,Exposure 1,Very likely,Reasonably certain
+Assessor 1,Pathogen D,Infection 1,Very likely,Reasonably uncertain
+Assessor 7,Pathogen B,Consequence to abundance,Very unlikely,Highly certain
+Assessor 5,Pathogen B,Disease 2,Extremely likely,Reasonably certain
+Assessor 5,Pathogen C,Consequence to diversity,Likely,Reasonably uncertain
+Assessor 10,Pathogen B,Release 2,Very unlikely,Highly certain
+Assessor 4,Pathogen A,Infection 3,Very unlikely,Reasonably uncertain
+Assessor 8,Pathogen D,Exposure 1,Very unlikely,Highly uncertain
+Assessor 3,Pathogen B,Disease 1,Unlikely,Reasonably certain
+Assessor 1,Pathogen C,Disease 2,Very unlikely,Reasonably uncertain
+Assessor 10,Pathogen C,Consequence to abundance,Very likely,Reasonably uncertain
+Assessor 4,Pathogen D,Disease 1,Likely,Reasonably certain
+Assessor 8,Pathogen C,Exposure 1,Very unlikely,Reasonably uncertain
+Assessor 12,Pathogen D,Infection 2,Likely,Reasonably certain
+Assessor 9,Pathogen A,Consequence to abundance,Very unlikely,Reasonably certain
+Assessor 2,Pathogen C,Exposure 3,Very unlikely,Highly uncertain
+Assessor 1,Pathogen A,Exposure 1,Extremely unlikely,Highly certain
+Assessor 2,Pathogen C,Exposure 2,Extremely unlikely,Reasonably uncertain
+Assessor 2,Pathogen C,Exposure 1,Very likely,Highly uncertain
+Assessor 4,Pathogen B,Infection 2,Extremely unlikely,Highly certain
+Assessor 2,Pathogen B,Consequence to diversity,Very likely,Reasonably certain
+Assessor 3,Pathogen A,Exposure 3,Extremely likely,Highly certain
+Assessor 12,Pathogen D,Exposure 1,Extremely likely,Reasonably uncertain
+Assessor 4,Pathogen A,Consequence to diversity,Very likely,Highly uncertain
+Assessor 3,Pathogen A,Disease 1,Unlikely,Reasonably uncertain
+Assessor 5,Pathogen B,Infection 3,Extremely unlikely,Reasonably uncertain
+Assessor 7,Pathogen D,Exposure 1,Very unlikely,Highly certain
+Assessor 8,Pathogen A,Release 2,Very likely,Reasonably certain
+Assessor 9,Pathogen C,Infection 3,Extremely likely,Reasonably uncertain
+Assessor 3,Pathogen C,Consequence to diversity,Likely,Reasonably uncertain
+Assessor 4,Pathogen D,Disease 1,Extremely likely,Reasonably certain
+Assessor 9,Pathogen C,Consequence to diversity,Very likely,Highly uncertain
+Assessor 3,Pathogen C,Exposure 3,Extremely unlikely,Highly uncertain
+Assessor 7,Pathogen A,Consequence to abundance,Very likely,Highly uncertain
+Assessor 3,Pathogen C,Infection 2,Likely,Reasonably uncertain
+Assessor 10,Pathogen A,Release 1,Very likely,Highly certain
+Assessor 8,Pathogen D,Release 1,Unlikely,Highly certain
+Assessor 11,Pathogen D,Disease 1,Very likely,Reasonably certain
+Assessor 4,Pathogen C,Exposure 3,Very likely,Reasonably uncertain
+Assessor 8,Pathogen B,Infection 2,Unlikely,Reasonably uncertain
+Assessor 3,Pathogen C,Exposure 2,Very likely,Reasonably uncertain
+Assessor 4,Pathogen B,Exposure 2,Extremely unlikely,Reasonably uncertain
+Assessor 7,Pathogen B,Consequence to diversity,Unlikely,Highly certain
+Assessor 12,Pathogen C,Release 1,Likely,Highly certain
+Assessor 8,Pathogen A,Consequence to abundance,Likely,Reasonably uncertain
+Assessor 7,Pathogen D,Exposure 3,Unlikely,Reasonably uncertain
+Assessor 2,Pathogen C,Disease 2,Extremely likely,Highly uncertain
+Assessor 5,Pathogen B,Exposure 1,Very likely,Reasonably uncertain
+Assessor 4,Pathogen B,Infection 1,Likely,Highly uncertain
+Assessor 8,Pathogen A,Release 1,Very likely,Highly certain
+Assessor 4,Pathogen C,Exposure 1,Very unlikely,Highly uncertain
+Assessor 4,Pathogen C,Release 1,Unlikely,Highly certain
+Assessor 5,Pathogen D,Infection 1,Extremely unlikely,Highly uncertain
+Assessor 8,Pathogen B,Consequence to diversity,Very unlikely,Reasonably uncertain
+Assessor 1,Pathogen C,Consequence to diversity,Very unlikely,Reasonably certain
+Assessor 2,Pathogen D,Release 1,Extremely likely,Reasonably certain
+Assessor 2,Pathogen B,Release 1,Likely,Reasonably certain
+Assessor 8,Pathogen B,Exposure 1,Extremely unlikely,Reasonably uncertain
+Assessor 12,Pathogen C,Infection 2,Very unlikely,Reasonably certain
+Assessor 11,Pathogen D,Exposure 2,Very likely,Highly uncertain
+Assessor 3,Pathogen A,Disease 2,Extremely likely,Reasonably certain
+Assessor 7,Pathogen A,Consequence to abundance,Very unlikely,Highly certain
+Assessor 3,Pathogen B,Consequence to abundance,Extremely likely,Highly uncertain
+Assessor 12,Pathogen D,Consequence to abundance,Likely,Highly certain
+Assessor 4,Pathogen B,Infection 1,Likely,Reasonably certain
+Assessor 10,Pathogen B,Infection 2,Very unlikely,Highly uncertain
+Assessor 9,Pathogen C,Infection 1,Extremely likely,Highly uncertain
+Assessor 10,Pathogen A,Exposure 1,Very likely,Reasonably certain
+Assessor 6,Pathogen C,Exposure 1,Unlikely,Reasonably uncertain
+Assessor 5,Pathogen A,Disease 2,Very likely,Reasonably uncertain
+Assessor 7,Pathogen B,Infection 2,Extremely unlikely,Reasonably certain
+Assessor 11,Pathogen D,Exposure 2,Unlikely,Highly certain
+Assessor 3,Pathogen A,Consequence to diversity,Extremely likely,Reasonably uncertain
+Assessor 5,Pathogen B,Consequence to diversity,Very likely,Highly uncertain
+Assessor 7,Pathogen D,Consequence to diversity,Unlikely,Reasonably uncertain
+Assessor 7,Pathogen D,Exposure 3,Likely,Highly certain
+Assessor 8,Pathogen B,Disease 1,Extremely likely,Highly certain
+Assessor 7,Pathogen C,Exposure 2,Extremely unlikely,Reasonably uncertain
+Assessor 3,Pathogen B,Consequence to diversity,Unlikely,Reasonably certain
+Assessor 6,Pathogen B,Release 1,Unlikely,Highly uncertain
+Assessor 7,Pathogen A,Consequence to abundance,Likely,Reasonably uncertain
+Assessor 7,Pathogen A,Consequence to diversity,Unlikely,Reasonably certain
+Assessor 5,Pathogen C,Consequence to abundance,Unlikely,Highly uncertain
+Assessor 2,Pathogen B,Infection 1,Unlikely,Reasonably uncertain
+Assessor 3,Pathogen D,Infection 1,Very likely,Highly uncertain
+Assessor 11,Pathogen C,Release 1,Unlikely,Highly uncertain
+Assessor 2,Pathogen A,Exposure 1,Unlikely,Highly certain
+Assessor 8,Pathogen C,Consequence to diversity,Very likely,Highly uncertain
+Assessor 6,Pathogen B,Consequence to abundance,Extremely likely,Highly certain
+Assessor 2,Pathogen B,Release 1,Extremely likely,Highly certain
+Assessor 11,Pathogen C,Disease 1,Unlikely,Reasonably certain
+Assessor 5,Pathogen A,Infection 3,Very likely,Highly certain
+Assessor 10,Pathogen A,Release 1,Unlikely,Reasonably certain
+Assessor 3,Pathogen B,Exposure 2,Extremely likely,Highly uncertain
+Assessor 1,Pathogen A,Infection 3,Likely,Reasonably certain
+Assessor 1,Pathogen A,Release 1,Likely,Highly uncertain
+Assessor 11,Pathogen A,Exposure 1,Extremely likely,Highly uncertain
+Assessor 11,Pathogen D,Exposure 1,Very likely,Highly uncertain
+Assessor 7,Pathogen A,Exposure 2,Very unlikely,Highly uncertain
+Assessor 10,Pathogen B,Infection 2,Extremely likely,Reasonably uncertain
+Assessor 6,Pathogen A,Release 2,Extremely unlikely,Highly certain
+Assessor 2,Pathogen C,Infection 1,Unlikely,Highly certain
+Assessor 9,Pathogen C,Consequence to abundance,Very likely,Highly uncertain
+Assessor 7,Pathogen D,Consequence to abundance,Likely,Reasonably certain
+Assessor 1,Pathogen D,Release 2,Extremely likely,Reasonably certain
+Assessor 7,Pathogen B,Disease 1,Unlikely,Highly certain
+Assessor 5,Pathogen C,Infection 2,Unlikely,Reasonably certain
+Assessor 4,Pathogen A,Exposure 1,Very likely,Reasonably uncertain
+Assessor 12,Pathogen B,Exposure 1,Likely,Highly certain
+Assessor 1,Pathogen A,Exposure 2,Very unlikely,Reasonably certain
+Assessor 5,Pathogen B,Disease 1,Extremely likely,Highly uncertain
+Assessor 4,Pathogen A,Infection 3,Likely,Highly certain
+Assessor 7,Pathogen D,Disease 2,Extremely unlikely,Reasonably uncertain
+Assessor 3,Pathogen C,Infection 1,Extremely likely,Highly certain
+Assessor 6,Pathogen B,Release 2,Very unlikely,Reasonably uncertain
+Assessor 8,Pathogen C,Disease 1,Extremely likely,Reasonably uncertain
+Assessor 2,Pathogen A,Exposure 3,Extremely unlikely,Highly certain
+Assessor 3,Pathogen B,Exposure 3,Very unlikely,Reasonably uncertain
+Assessor 7,Pathogen D,Consequence to abundance,Very unlikely,Highly uncertain
+Assessor 4,Pathogen A,Infection 2,Very likely,Reasonably certain
+Assessor 11,Pathogen D,Release 1,Extremely unlikely,Reasonably uncertain
+Assessor 8,Pathogen C,Release 2,Likely,Highly uncertain
+Assessor 5,Pathogen C,Release 1,Likely,Highly certain
+Assessor 11,Pathogen C,Release 2,Extremely likely,Highly uncertain
+Assessor 3,Pathogen B,Exposure 3,Very likely,Highly uncertain
+Assessor 11,Pathogen C,Disease 1,Likely,Highly certain
+Assessor 9,Pathogen B,Consequence to diversity,Unlikely,Highly certain
+Assessor 6,Pathogen A,Exposure 1,Very likely,Reasonably certain
+Assessor 6,Pathogen D,Consequence to abundance,Extremely unlikely,Highly certain
+Assessor 8,Pathogen D,Infection 2,Extremely unlikely,Highly uncertain
+Assessor 10,Pathogen C,Consequence to diversity,Very unlikely,Reasonably certain
+Assessor 12,Pathogen B,Disease 1,Likely,Highly certain
+Assessor 4,Pathogen D,Release 2,Unlikely,Reasonably certain
+Assessor 8,Pathogen C,Consequence to abundance,Extremely unlikely,Reasonably certain
+Assessor 6,Pathogen A,Infection 1,Extremely unlikely,Highly uncertain
+Assessor 8,Pathogen A,Consequence to diversity,Extremely unlikely,Highly uncertain
+Assessor 1,Pathogen B,Exposure 3,Unlikely,Highly certain
+Assessor 10,Pathogen B,Release 1,Extremely unlikely,Highly uncertain
+Assessor 7,Pathogen D,Release 1,Likely,Reasonably uncertain
+Assessor 6,Pathogen C,Infection 1,Likely,Highly uncertain
+Assessor 12,Pathogen A,Release 2,Unlikely,Highly certain
+Assessor 4,Pathogen D,Exposure 3,Very likely,Reasonably certain
+Assessor 8,Pathogen D,Consequence to abundance,Extremely likely,Reasonably certain
+Assessor 5,Pathogen B,Infection 3,Very likely,Reasonably uncertain
+Assessor 1,Pathogen D,Release 2,Very unlikely,Highly certain
+Assessor 4,Pathogen C,Infection 3,Very unlikely,Reasonably uncertain
+Assessor 2,Pathogen C,Release 1,Likely,Highly uncertain
+Assessor 11,Pathogen C,Release 2,Extremely likely,Reasonably uncertain
+Assessor 4,Pathogen B,Release 2,Very unlikely,Reasonably uncertain
+Assessor 1,Pathogen B,Consequence to diversity,Extremely likely,Reasonably uncertain
+Assessor 10,Pathogen B,Exposure 1,Extremely unlikely,Highly certain
+Assessor 7,Pathogen D,Exposure 1,Very unlikely,Highly uncertain
+Assessor 7,Pathogen B,Infection 1,Extremely unlikely,Highly certain
+Assessor 3,Pathogen A,Disease 2,Unlikely,Highly certain
+Assessor 9,Pathogen A,Exposure 3,Very unlikely,Reasonably uncertain
+Assessor 11,Pathogen D,Consequence to diversity,Very unlikely,Reasonably uncertain
+Assessor 12,Pathogen A,Exposure 1,Unlikely,Reasonably certain
+Assessor 8,Pathogen D,Exposure 2,Very unlikely,Reasonably uncertain
+Assessor 9,Pathogen B,Exposure 1,Extremely unlikely,Highly certain
+Assessor 11,Pathogen D,Disease 2,Extremely unlikely,Highly certain
+Assessor 10,Pathogen A,Infection 1,Extremely unlikely,Reasonably uncertain
+Assessor 4,Pathogen B,Release 2,Extremely likely,Highly certain
+Assessor 11,Pathogen C,Consequence to abundance,Likely,Highly uncertain
+Assessor 3,Pathogen A,Infection 1,Extremely likely,Highly certain
+Assessor 7,Pathogen A,Consequence to diversity,Very likely,Highly certain
+Assessor 6,Pathogen B,Consequence to diversity,Extremely unlikely,Reasonably certain
+Assessor 8,Pathogen B,Exposure 2,Extremely likely,Highly certain
+Assessor 10,Pathogen B,Exposure 2,Extremely unlikely,Reasonably uncertain
+Assessor 4,Pathogen D,Disease 1,Likely,Highly uncertain
+Assessor 7,Pathogen B,Release 1,Very likely,Highly certain
+Assessor 4,Pathogen D,Infection 2,Very unlikely,Highly certain
+Assessor 7,Pathogen A,Consequence to abundance,Likely,Reasonably certain
+Assessor 7,Pathogen D,Disease 1,Extremely unlikely,Highly certain
+Assessor 3,Pathogen B,Release 1,Very likely,Highly certain
+Assessor 5,Pathogen A,Disease 1,Very unlikely,Highly uncertain
+Assessor 2,Pathogen C,Consequence to abundance,Very unlikely,Highly uncertain
+Assessor 10,Pathogen A,Infection 2,Extremely unlikely,Highly uncertain
+Assessor 10,Pathogen D,Disease 2,Extremely likely,Highly certain
+Assessor 1,Pathogen C,Exposure 3,Very unlikely,Highly certain
+Assessor 10,Pathogen B,Disease 2,Very likely,Highly certain
+Assessor 8,Pathogen A,Disease 2,Likely,Highly uncertain
+Assessor 12,Pathogen D,Consequence to diversity,Likely,Highly certain
+Assessor 9,Pathogen A,Exposure 3,Very unlikely,Highly certain
+Assessor 9,Pathogen D,Infection 3,Very likely,Reasonably certain
+Assessor 10,Pathogen A,Exposure 3,Very unlikely,Reasonably certain
+Assessor 5,Pathogen D,Consequence to abundance,Very likely,Reasonably uncertain
+Assessor 8,Pathogen C,Consequence to abundance,Very unlikely,Reasonably uncertain
+Assessor 11,Pathogen D,Infection 2,Unlikely,Reasonably uncertain
+Assessor 2,Pathogen D,Exposure 2,Extremely likely,Reasonably certain
+Assessor 6,Pathogen B,Exposure 2,Unlikely,Reasonably certain
+Assessor 9,Pathogen D,Infection 2,Unlikely,Highly certain
+Assessor 12,Pathogen B,Disease 2,Very unlikely,Highly certain
+Assessor 4,Pathogen B,Exposure 2,Extremely unlikely,Reasonably certain
+Assessor 9,Pathogen A,Infection 2,Likely,Reasonably certain
+Assessor 6,Pathogen D,Exposure 2,Unlikely,Highly uncertain
+Assessor 2,Pathogen B,Exposure 2,Very likely,Reasonably uncertain
+Assessor 11,Pathogen B,Consequence to diversity,Unlikely,Reasonably uncertain
+Assessor 8,Pathogen D,Exposure 1,Very likely,Highly uncertain
+Assessor 1,Pathogen B,Exposure 1,Unlikely,Reasonably certain
+Assessor 10,Pathogen A,Infection 1,Very likely,Reasonably uncertain
+Assessor 9,Pathogen A,Disease 1,Unlikely,Highly certain
+Assessor 7,Pathogen A,Disease 2,Extremely unlikely,Highly uncertain
+Assessor 1,Pathogen A,Infection 1,Likely,Highly uncertain
+Assessor 1,Pathogen D,Exposure 1,Likely,Highly uncertain
+Assessor 5,Pathogen C,Exposure 3,Unlikely,Reasonably certain
+Assessor 8,Pathogen B,Infection 3,Unlikely,Reasonably uncertain
+Assessor 1,Pathogen B,Consequence to abundance,Very unlikely,Reasonably certain
+Assessor 4,Pathogen A,Consequence to diversity,Likely,Highly uncertain
+Assessor 7,Pathogen A,Consequence to abundance,Extremely likely,Reasonably certain
+Assessor 12,Pathogen A,Exposure 3,Extremely likely,Highly uncertain
+Assessor 12,Pathogen A,Release 2,Very unlikely,Reasonably certain
+Assessor 8,Pathogen C,Exposure 2,Likely,Highly uncertain
+Assessor 1,Pathogen D,Exposure 1,Extremely likely,Highly certain
+Assessor 10,Pathogen D,Release 1,Extremely likely,Highly certain
+Assessor 2,Pathogen D,Infection 2,Very likely,Highly uncertain
+Assessor 6,Pathogen D,Exposure 2,Unlikely,Reasonably certain
+Assessor 8,Pathogen D,Exposure 3,Very unlikely,Highly uncertain
+Assessor 2,Pathogen A,Release 2,Very unlikely,Reasonably uncertain
+Assessor 2,Pathogen B,Exposure 1,Very unlikely,Highly certain
+Assessor 4,Pathogen A,Infection 1,Extremely likely,Highly uncertain
+Assessor 7,Pathogen C,Release 2,Extremely likely,Reasonably uncertain
+Assessor 3,Pathogen A,Consequence to diversity,Extremely likely,Highly certain
+Assessor 11,Pathogen B,Infection 1,Extremely likely,Highly certain
+Assessor 8,Pathogen C,Consequence to diversity,Extremely likely,Reasonably certain
+Assessor 11,Pathogen C,Consequence to abundance,Unlikely,Reasonably certain
+Assessor 10,Pathogen D,Exposure 3,Unlikely,Highly certain
+Assessor 9,Pathogen D,Infection 3,Extremely unlikely,Highly uncertain
+Assessor 4,Pathogen C,Disease 1,Extremely likely,Reasonably uncertain
+Assessor 5,Pathogen A,Exposure 3,Unlikely,Reasonably certain
+Assessor 2,Pathogen B,Release 1,Very likely,Highly certain
+Assessor 12,Pathogen C,Infection 2,Unlikely,Highly certain
+Assessor 1,Pathogen C,Infection 1,Unlikely,Reasonably uncertain
+Assessor 7,Pathogen A,Disease 2,Extremely likely,Highly uncertain
+Assessor 3,Pathogen A,Disease 1,Very unlikely,Highly uncertain
+Assessor 12,Pathogen B,Consequence to diversity,Extremely unlikely,Highly certain
+Assessor 3,Pathogen B,Disease 2,Extremely unlikely,Highly certain
+Assessor 2,Pathogen A,Infection 1,Unlikely,Highly uncertain
+Assessor 5,Pathogen C,Release 2,Unlikely,Reasonably uncertain
+Assessor 11,Pathogen C,Consequence to diversity,Likely,Reasonably uncertain
+Assessor 11,Pathogen C,Exposure 2,Likely,Highly certain
+Assessor 9,Pathogen D,Exposure 3,Unlikely,Reasonably certain
+Assessor 3,Pathogen A,Consequence to diversity,Very likely,Reasonably certain
+Assessor 1,Pathogen B,Consequence to abundance,Likely,Highly uncertain
+Assessor 11,Pathogen D,Exposure 3,Unlikely,Reasonably uncertain
+Assessor 6,Pathogen C,Infection 2,Very unlikely,Highly certain
+Assessor 6,Pathogen B,Consequence to abundance,Unlikely,Reasonably uncertain
+Assessor 11,Pathogen A,Disease 1,Extremely unlikely,Reasonably certain
+Assessor 9,Pathogen D,Exposure 2,Extremely unlikely,Highly uncertain
+Assessor 12,Pathogen B,Release 1,Extremely likely,Reasonably uncertain
+Assessor 6,Pathogen B,Infection 2,Very likely,Reasonably uncertain
+Assessor 11,Pathogen B,Disease 1,Unlikely,Highly certain
+Assessor 1,Pathogen B,Exposure 1,Extremely likely,Reasonably uncertain
+Assessor 11,Pathogen C,Consequence to diversity,Very likely,Highly uncertain
+Assessor 12,Pathogen C,Infection 3,Unlikely,Reasonably certain
+Assessor 8,Pathogen B,Exposure 1,Unlikely,Highly uncertain
+Assessor 12,Pathogen D,Consequence to abundance,Very likely,Reasonably uncertain
+Assessor 8,Pathogen B,Exposure 1,Extremely unlikely,Highly uncertain
+Assessor 12,Pathogen C,Exposure 1,Very likely,Highly certain
+Assessor 5,Pathogen A,Consequence to diversity,Unlikely,Reasonably uncertain
+Assessor 3,Pathogen A,Consequence to diversity,Very unlikely,Reasonably certain
+Assessor 12,Pathogen B,Disease 2,Extremely unlikely,Reasonably certain
+Assessor 7,Pathogen C,Exposure 1,Likely,Highly certain
+Assessor 5,Pathogen B,Consequence to diversity,Unlikely,Reasonably certain
+Assessor 4,Pathogen C,Infection 1,Unlikely,Reasonably certain
+Assessor 10,Pathogen B,Disease 1,Very unlikely,Highly certain
+Assessor 7,Pathogen C,Infection 1,Very likely,Highly uncertain
+Assessor 3,Pathogen C,Exposure 1,Very likely,Highly uncertain
+Assessor 9,Pathogen A,Release 2,Extremely unlikely,Highly certain
+Assessor 9,Pathogen C,Exposure 1,Likely,Highly uncertain
+Assessor 12,Pathogen C,Infection 1,Very unlikely,Reasonably certain
+Assessor 4,Pathogen D,Exposure 2,Extremely unlikely,Highly certain
+Assessor 9,Pathogen D,Infection 3,Extremely likely,Highly uncertain
+Assessor 5,Pathogen D,Infection 2,Unlikely,Reasonably certain
+Assessor 10,Pathogen A,Infection 3,Unlikely,Reasonably uncertain
+Assessor 4,Pathogen D,Infection 3,Extremely likely,Highly certain
+Assessor 11,Pathogen C,Release 2,Very unlikely,Reasonably certain
+Assessor 7,Pathogen D,Release 1,Unlikely,Highly certain
+Assessor 10,Pathogen B,Release 2,Likely,Highly certain
+Assessor 6,Pathogen A,Consequence to abundance,Very unlikely,Reasonably uncertain
+Assessor 11,Pathogen B,Infection 3,Very unlikely,Reasonably certain
+Assessor 6,Pathogen A,Consequence to diversity,Very unlikely,Highly certain
+Assessor 9,Pathogen B,Disease 1,Extremely unlikely,Reasonably certain
+Assessor 2,Pathogen D,Release 1,Extremely likely,Reasonably uncertain
+Assessor 10,Pathogen B,Exposure 2,Extremely unlikely,Reasonably uncertain
+Assessor 12,Pathogen B,Exposure 3,Very likely,Highly certain
+Assessor 9,Pathogen D,Exposure 1,Very unlikely,Reasonably certain
+Assessor 2,Pathogen A,Consequence to abundance,Likely,Reasonably certain
+Assessor 8,Pathogen C,Release 1,Very likely,Highly uncertain
+Assessor 1,Pathogen B,Disease 2,Likely,Highly certain
+Assessor 8,Pathogen B,Infection 2,Very likely,Highly certain
+Assessor 3,Pathogen C,Release 2,Extremely unlikely,Highly uncertain
+Assessor 11,Pathogen D,Disease 2,Likely,Reasonably uncertain
+Assessor 7,Pathogen D,Infection 3,Unlikely,Reasonably uncertain
+Assessor 10,Pathogen B,Consequence to diversity,Unlikely,Highly certain
+Assessor 11,Pathogen B,Infection 2,Very unlikely,Highly certain
+Assessor 7,Pathogen B,Exposure 1,Extremely unlikely,Reasonably certain
+Assessor 10,Pathogen D,Infection 3,Extremely unlikely,Reasonably certain
+Assessor 10,Pathogen C,Exposure 1,Very likely,Reasonably uncertain
+Assessor 8,Pathogen B,Infection 1,Very likely,Reasonably uncertain
+Assessor 2,Pathogen D,Infection 2,Unlikely,Highly certain
+Assessor 4,Pathogen B,Consequence to diversity,Very likely,Highly certain
+Assessor 11,Pathogen B,Infection 3,Likely,Highly certain
+Assessor 1,Pathogen A,Exposure 1,Extremely unlikely,Reasonably certain
+Assessor 6,Pathogen C,Exposure 3,Extremely likely,Reasonably uncertain
+Assessor 3,Pathogen D,Exposure 3,Very likely,Reasonably uncertain
+Assessor 5,Pathogen D,Exposure 3,Unlikely,Reasonably certain
+Assessor 5,Pathogen B,Exposure 2,Very likely,Highly certain
+Assessor 3,Pathogen C,Consequence to abundance,Very likely,Reasonably uncertain
+Assessor 5,Pathogen D,Infection 3,Unlikely,Highly uncertain
+Assessor 3,Pathogen A,Consequence to abundance,Extremely unlikely,Reasonably certain
+Assessor 3,Pathogen B,Release 1,Extremely likely,Highly uncertain
+Assessor 8,Pathogen A,Exposure 1,Very unlikely,Reasonably uncertain
+Assessor 12,Pathogen A,Exposure 1,Very likely,Reasonably uncertain
+Assessor 10,Pathogen B,Exposure 2,Very unlikely,Highly certain
+Assessor 11,Pathogen C,Exposure 2,Very likely,Reasonably certain
+Assessor 5,Pathogen C,Exposure 1,Extremely unlikely,Reasonably uncertain
+Assessor 6,Pathogen C,Release 1,Very likely,Highly certain
+Assessor 10,Pathogen A,Exposure 2,Very unlikely,Highly certain
+Assessor 6,Pathogen D,Infection 3,Very unlikely,Highly certain
+Assessor 8,Pathogen A,Disease 2,Extremely unlikely,Highly certain
+Assessor 8,Pathogen B,Exposure 3,Extremely likely,Highly uncertain
+Assessor 9,Pathogen A,Infection 3,Extremely unlikely,Highly uncertain
+Assessor 10,Pathogen B,Consequence to abundance,Unlikely,Highly certain
+Assessor 4,Pathogen C,Disease 2,Extremely likely,Highly certain
+Assessor 2,Pathogen D,Release 2,Extremely likely,Highly certain
+Assessor 7,Pathogen D,Exposure 1,Unlikely,Highly certain
+Assessor 6,Pathogen A,Infection 2,Unlikely,Reasonably uncertain
+Assessor 6,Pathogen A,Disease 2,Extremely likely,Reasonably uncertain
+Assessor 11,Pathogen C,Exposure 2,Extremely likely,Reasonably uncertain
+Assessor 10,Pathogen D,Disease 2,Extremely unlikely,Reasonably certain
+Assessor 9,Pathogen B,Exposure 3,Very likely,Reasonably uncertain
+Assessor 2,Pathogen D,Exposure 1,Very unlikely,Reasonably uncertain
+Assessor 6,Pathogen C,Infection 3,Extremely unlikely,Highly uncertain
+Assessor 5,Pathogen C,Release 1,Unlikely,Highly uncertain
+Assessor 7,Pathogen A,Infection 3,Likely,Reasonably uncertain
+Assessor 9,Pathogen A,Release 1,Extremely unlikely,Reasonably certain
+Assessor 7,Pathogen A,Exposure 3,Unlikely,Reasonably uncertain
+Assessor 12,Pathogen D,Consequence to diversity,Very unlikely,Highly uncertain
+Assessor 4,Pathogen D,Disease 1,Unlikely,Reasonably certain
