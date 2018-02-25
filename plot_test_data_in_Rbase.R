@@ -5,7 +5,7 @@ library(readr)
 # set working directory
 # path used forward slashes in Windows and backward slashes in Linux
 #if (.Platform$OS.type == "windows") {
-#  setwd("Y:/Risk Assessments/Meetings/20180400")
+#  setwd("Y:/")
 #}
 setwd("~/projects/plot_risk_rankings/")
 
@@ -46,22 +46,22 @@ uncertainty_labels <-
 
 for (step_number in steps) {
   tb_step <- tb %>% filter(step == step_number)
-  
+
   risk_assessment_names <- unique(tb_step$risk_assessment)
-  
+
   for (risk_assessment_name in risk_assessment_names) {
     tb_step_ra <- tb_step %>%
       filter(risk_assessment == risk_assessment_name)
-    
+
     # count the number of occurrence for the likelihood
     likelihood_counts <- tb_step_ra %>%
       count(likelihood) %>%
       right_join(tibble(likelihood = likelihood_categories))
-    
+
     uncertainty_counts <- tb_step_ra %>%
       count(uncertainty) %>%
       right_join(tibble(uncertainty = uncertainty_categories))
-    
+
     #save plot
     png(
       sprintf("%s_for_%s.png",
@@ -71,15 +71,15 @@ for (step_number in steps) {
       height = 800,
       res = 72
     )
-    
+
     #organize plot side by side
     par(
       mfrow = c(1, 2),
       oma = c(2, 4, 7, 3),
       mgp = c(5, 2, 0)
     )
-    
-    
+
+
     #create plots
     barplot(
       likelihood_counts$n,
@@ -118,7 +118,7 @@ for (step_number in steps) {
       cex = 1.75,
       outer = TRUE
     )
-    
+
     title(
       sprintf("%s - %s risk assessment",
               step_number,
