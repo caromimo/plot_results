@@ -4,10 +4,11 @@ library(readr)
 
 # set working directory
 # path used forward slashes in Windows and backward slashes in Linux
-#if (.Platform$OS.type == "windows") {
-#  setwd("Y:/")
-#}
-setwd("~/projects/plot_risk_rankings/")
+if (.Platform$OS.type == "windows") {
+  setwd("Y:/")
+} else {
+  setwd("~/projects/plot_risk_rankings/")
+}
 
 # read csv file with the readr library which creates a tibble
 tb <- read_csv("test_data.csv")
@@ -58,6 +59,7 @@ for (step_number in steps) {
       count(likelihood) %>%
       right_join(tibble(likelihood = likelihood_categories))
 
+    # count the number of occurrence for the uncertainty
     uncertainty_counts <- tb_step_ra %>%
       count(uncertainty) %>%
       right_join(tibble(uncertainty = uncertainty_categories))
@@ -78,7 +80,6 @@ for (step_number in steps) {
       oma = c(2, 4, 7, 3),
       mgp = c(5, 2, 0)
     )
-
 
     #create plots
     barplot(
